@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_fre-FR.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Notifications</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Pour synchroniser votre V650 avec l\&apos;application Flow, sélectionnez %1$s dans le menu du bouton latéral de votre V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% de FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Vous devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Entraînement de base et régulier</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Synchronisation des données avec le %1$s terminée.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Échec de la synchronisation des données avec le %1$s. Réessayez.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">État de la batterie lors de la synchro : %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Vérifiez que le Bluetooth est activé sur votre téléphone et votre dispositif, et maintenez ceux-ci près l\&apos;un de l\&apos;autre pendant la configuration. Si vous le souhaitez, vous pouvez aussi procéder à la configuration avec votre ordinateur.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Le poids que vous venez de mesurer (%1$s) diffère de plus de 10 %% de votre poids précédent (%2$s).</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Une mise à jour est disponible pour votre %1$s (%2$s)</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Avec les zones de vitesse/allure, vous pouvez facilement sélectionner et suivre les intensités de vos entraînements. Les zones que vous voyez ici sont les zones par défaut.\n\nSi vous choisissez les zones personnalisées, il devient possible de modifier toutes les limites.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Équilibre gauche/ droite</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Enregistrer et synchroniser</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Rechercher ou filtrer par type</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">J\&apos;accepte que <b>Polar collecte et traite mes données personnelles sensibles</b> comme la fréquence cardiaque, comme décrit dans la Note sur la confidentialité de Polar.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Heure du jour</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Temps en zo\u00ADnes d\&apos;al\u00ADlure</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Dé\u00ADni\u00ADve\u00ADlé+</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Dé\u00ADni\u00ADve\u00ADlé-</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Vi\u00ADtesse d\&apos;ascen\u00ADsion</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">É\u00ADqui\u00ADlibre gauche/droite</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risque de blessure ou de maladie</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Comment garder mon statut productif ?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Dois-je essayer de garder mon statut productif en permanence ?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">La majeure partie du sommeil profond se produit au cours de la <b>première moitié de la nuit</b>. En moyenne, le sommeil profond compte pour environ 15 % du temps de sommeil des adultes. Un score d\&apos;environ 17 % représente le score maximum pour cet élément du score du sommeil. Des pourcentages supérieurs ou inférieurs font diminuer votre score.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM (Sommeil paradoxal) est l\&apos;abréviation de « Rapid eye movement » (mouvements rapides des yeux). Pendant le sommeil paradoxal, vos muscles sont au repos, mais votre cerveau est actif. Le sommeil paradoxal <b>permet à votre cerveau de récupérer</b> et améliore vos performances de <b>mémoire</b> et <b>d\&apos;apprentissage</b>. Il s\&apos;agit de la phase pendant laquelle on rêve le plus.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Les entraînements sollicitent votre organisme, et le statut Nightly Recharge™ indique dans quelle mesure votre organisme a pu récupérer de ces efforts pendant votre sommeil. Il associe des informations sur votre sommeil et votre système nerveux autonome (SNA) qui sont automatiquement mesurées. C\&apos;est votre cœur qui est à la base de ces insights.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Le SNA permet de contrôler deux ensemble d\&apos;actions propres à votre corps : il détermine s\&apos;il convient de se mettre en mode « lutte ou fuite », ou au contraire en mode « repos et digestion ». Plus votre statut SNA est élevé, plus votre corps sera en mode repos et digestion comparé à votre <b>niveau normal</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">C\&apos;est une bonne journée pour faire de l\&apos;exercice, mais n\&apos;en faites pas trop si votre corps dit non.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Vous pouvez vous entraîner aujourd\&apos;hui, même si vous ne vous sentez pas d\&apos;attaque à 100 %.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Allez-y ! Consultez votre montre pour obtenir des conseils d\&apos;entraînement précis !</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Aujourd\&apos;hui, vous pouvez tout gagner, allez-y !</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">La fonctionnalité Sleep Plus Stages™ mesure la durée et la qualité du sommeil. Chaque matin, il affiche un score numérique (statut du sommeil) qui vous indique la qualité de votre sommeil. Le calcul de ce score est basé sur les indicateurs d\&apos;une bonne nuit de sommeil en l\&apos;état actuel de la science du sommeil.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Prévoyez du temps pour vous détendre le soir. Cela peut vous aider à vous endormir plus tôt et à dormir plus longtemps.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Prenez un moment pour vous avec l\&apos;exercice de respiration guidé Serene. Effectué régulièrement, Serene peut vous aider à améliorer la qualité de votre sommeil et votre bien-être général.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Favoris sur %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/fr/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Votre <b>consommation maximale d\'oxygène (VO2max)</b> est la capacité maximale de votre corps à consommer de l\'oxygène pendant un effort maximal.\n\nMettez à jour votre VO2max pour vous assurer que nous puissions vous fournir les données les plus précises et les plus appropriées. VO2max affecte tous les calculs impliquant des calories.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">La valeur du seuil fonctionnel de puissance (FTP) reflète l\&apos;intensité qu\&apos;un cycliste bien entraîné peut maintenir pendant une heure.\n\nMettez à jour la valeur de votre FTP afin d\&apos;actualiser vos zones de puissance, ce qui vous aidera à vous entraîner à la bonne intensité.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Pour des résultats fiables, assurez-vous de rester au même niveau de puissance pendant le test. Ralentir rendra les résultats moins fiables.\n\nDans le premier test, nous vous guiderons avec un objectif de puissance basé sur vos informations. Cela vous aidera à maintenir une puissance stable pendant toute la durée du test. Quand vous refaites le test, l\&apos;objectif se base sur vos résultats précédents.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Utilisez le test pour suivre vos performances à vélo et pour définir vos zones de puissance individuelles. Votre résultat FTP divisé par votre poids vous permet de vous comparer aux autres cyclistes du même sexe que vous. N\&apos;oubliez pas de mettre votre poids à jour dans vos réglages.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nen %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s en %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s en %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Afin d\&apos;obtenir la vitesse et la distance durant l\&apos;entraînement, vous devez permettre à Flow d\&apos;accéder aux services de localisation.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Afin d\&apos;obtenir la vitesse et la distance durant l\&apos;entraînement, vous devez permettre à Flow d\&apos;utiliser votre localisation précise.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Afin d\&apos;obtenir la vitesse et la distance durant l\&apos;entraînement, vous devez permettre à Flow :\n- d\&apos;utiliser votre localisation pendant que vous utilisez l\&apos;application, ou tout le temps\n- d\&apos;utiliser votre localisation précise</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Batterie %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Vous pouvez choisir « Revenir en arrière » pour revenir au calcul du temps de sommeil d\&apos;origine</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">En nous basant sur votre score VO2max, votre âge et votre sexe, nous définissons votre niveau de forme sur une échelle allant de Très faible à Élite.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Recherche et développement</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Je ne veux pas que mes données soient utilisées pour %1$s. Utiliser ces données aide Polar à développer et améliorer les produits et services.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">la recherche et le développement</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Sommeil et rythme biologique</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Votre prévision est valable quand vous avez des données pour chaque nuit au cours des sept derniers jours</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">L\&apos;évolution du <b>score du boost</b> montre comment le sommeil a boosté vos journées récemment. Votre score peut être <i>excellent</i>, <i>bon</i>, <i>assez bon</i> ou <i>modéré</i>. Un excellent score du boost signifie que vous obtenez tous les bénéfices d\'un bon sommeil pour vous soutenir dans la journée. Votre score du boost peut être modéré si, par exemple, vous avez un grand déficit de sommeil.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Si votre <b>temps de sommeil</b> moyen est bien loin de votre <i>temps de sommeil préféré</i>, il peut être utile de prendre en compte les points suivants :\n\n- vous avez peut-être un déficit du sommeil\n\n- vous avez peut-être besoin d\&apos;ajuster le paramètre pour mieux correspondre à votre réel besoin de sommeil</string>
+
+</resources>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Notifications</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">To sync your V650 with the Flow app, select %1$s from the side menu of your V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% of FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">You need to train at least 10 minutes above 50% of your calculated maximum heart rate value to get feedback.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Basic \&amp; Steady state training</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Syncing data with %1$s completed.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Syncing data with %1$s failed. Please try again.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Battery status when synced: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Please make sure both your phone and device have Bluetooth turned on, and keep them close to each other during the setup. Alternatively, you can do the setup with your computer if you wish.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">The weight you just measured (%1$s) differs more than 10%% from your previous weight (%2$s).</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">There\&apos;s an update available for your %1$s (%2$s)</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">With the speed/pace zones you can easily select and monitor training intensities. The zones you see here are the Default zones.\n\nIf you choose Custom zones, all limits can be changed.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Left/right balance</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Save and sync</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Search or filter by type</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">I agree that <b>Polar may collect and process my sensitive personal data</b> such as heart rate as described in the Polar Privacy Notice.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Time of day</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Time in pace zone</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Ascent</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Descent</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Vertical speed</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Left/right balance</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Injury \&amp; illness risk</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">How do I keep my status productive?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Should I try to keep my status productive all the time?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Most deep sleep occurs during the <b>first half of the night</b>. On average, deep sleep counts for about 15 % of sleep time for adults. Roughly 17 % gives you the maximum score for this sleep score component. Higher or lower percentages decrease your score.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM stands for rapid eye movement. In REM sleep, your muscles are relaxed but your brain is active. REM sleep <b>restores your mind</b>, and enhances <b>memory</b> and <b>learning</b>. This is the stage when dreaming mostly occurs.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ status shows how your body was able to recover from training and stress while you slept. It combines automatically measured information on your sleep and autonomic nervous system (ANS). Your heart is the key to these insights.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Your ANS controls two sets of actions your body can take: whether it\&apos;s time to fight or flight, or if it\&apos;s time to rest and digest. The higher the ANS charge, the higher the dominance of the rest-and-digest part of ANS compared to your <b>usual level</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">It\&apos;s a good day for exercise, but don\&apos;t overdo it if your body says "no".</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">You can train today, even if you might feel you\&apos;re not 100% up for it.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Go for it! Check out your watch for detailed training guidance!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Today you can be a champion, go for it!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">The Sleep Plus Stages™ feature measures the amount and quality of your sleep. Every morning, it shows you a numerical sleep score (sleep charge) that reflects how well you slept compared to the indicators of a good night\&apos;s sleep based on the current sleep science.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Reserve time for calming down in the evening. This might make you fall asleep earlier and sleep longer.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Take a moment to yourself with Serene guided breathing exercise. Carried out regularly, Serene can help you improve the quality of your sleep and overall well-being.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Favorites on %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Your <b>maximal oxygen uptake (VO2max)</b> is your body\&apos;s maximum capacity to consume oxygen during maximum effort.\n\nUpdate your VO2max to make sure we can provide you the most accurate and relevant data. VO2max affects all calculations that involve calories.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">The functional threshold power (FTP) value reflects the intensity that a well-trained cyclist can maintain for an hour.\n\nUpdate your FTP value to get your power zones up to date, which will help you train at the right intensity. If you have adjusted your power zones manually earlier, we won\&apos;t change them.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">For the most reliable results, make sure you stay on the same power level throughout the test. Slowing down will make the results less reliable.\n\nIn the first test, we\&apos;ll guide you with a power target that\&apos;s based on your background information. This helps you maintain a steady power throughout the test. When you repeat the test, the target is based on your earlier results.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Use the test to keep track of your cycling performance and to define your individual power zones. Your FTP result divided by your weight allows you to compare with other cyclists of the same sex as you. Remember to update your weight in your settings.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nin %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">To get speed and distance during training, you need to allow Flow to always access your location.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">To get speed and distance during training, you need to allow Flow to use your precise location.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">To get speed and distance during training, you need to allow Flow to:\n- access your location while using the app, or always\n- use your precise location</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Battery %1$s%%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">You can choose \&apos;Switch back\&apos; to bring back the original timing</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Based on your VO2max score, age and sex, we define your fitness level on a scale ranging from \&apos;Very low\&apos; to \&apos;Elite\&apos;.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Research and development</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">I don\&apos;t want my data to be used for %1$s. Using the data helps Polar develop and improve products and services.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">research and development</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Sleep \&amp; internal rhythm</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Your forecast is valid when you have sleep data from every night during the past 7 days</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">The <b>boost score</b> trend shows how sleep has boosted your days recently. Your score may be <i>excellent</i>, <i>good</i>, <i>fair</i>, or <i>modest</i>. Excellent boost score means that you get all the benefits of good sleep to support your day. Your boost score may be modest if you, for example, have a lot of sleep debt.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">If your average <b>sleep time</b> isn\&apos;t even close to your <i>Preferred sleep time</i> setting, it might be useful to consider:\n\n- if you possibly have sleep debt\n\n- whether you should tweak the setting to match your real sleep need</string>
+
+</resources>

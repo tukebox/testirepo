@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Bildirimler";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "V650 cihazınızı Flow uygulaması ile eşitlemek için cihazınızın yan menüsündeki 'Mobil ile eşitle' seçeneğini seçin.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "FTP %";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Egzersizden fayda sağlamak istiyorsanız hesaplanan maksimum kalp atış hızı değerinizin %50'sinin üzerinde bir kalp atış hızıyla en az 10 dakika boyunca egzersiz yapmanız gerekir.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Temel ve kararlı durum egzersizi";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ ile veri eşitleme işlemi tamamlandı.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "%@ ile veri eşitleme işlemi başarısız oldu. Lütfen yeniden deneyin.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Eşitlendiğinde pil durumu: %%%@";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Hem telefonunuz hem de cihazınızdaki Bluetooth özelliğinin açık olduğundan emin olun ve kurulum sırasında birbirlerine yakın tutun. Alternatif olarak, isterseniz kurulumu bilgisayarınızla birlikte de yapabilirsiniz.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Az önce tartıldığınız kiloyla (%@) önceki kilonuz (%@) arasındaki fark %%10'un üzerinde.";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "%@ için güncelleme mevcut.\nGüncelleme birkaç dakika sürebilir.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Hız/tempo alanları ile egzersiz yoğunluklarını kolayca seçip izleyebilirsiniz. Burada gördüğünüz alanlar Varsayılan alanlardır.\n\nÖzel alanları seçerseniz tüm sınırlar değiştirilebilir.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Sol/sağ dengesi";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Kaydet ve eşitle";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Arama yapın veya türe göre filtreleyin";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Polar Gizlilik Bildirimi metninde açıklandığı şekilde Polar'ın <b>kalp atış hızı gibi hassas kişisel verilerimi toplayabileceğini ve işleyebileceğini</b> kabul ediyorum.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Gü\U00ADnün saat\U00ADi";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Tempo böl\U00ADge\U00ADsin\U00ADde\U00ADki sü\U00ADre";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Tır\U00ADma\U00ADnış";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "İ\U00ADniş";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Di\U00ADkey hız";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Sol/sağ den\U00ADge\U00ADsi";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Sakatlık ve hastalık riski</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Durumumu nasıl verimli olarak koruyabilirim?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Durumumu sürekli verimli olarak tutmaya çalışmam gerekiyor mu?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Derin uykunun çoğu <b>gecenin ilk yarısında</b> meydana gelir. Derin uyku yetişkinlerde uyku süresinin ortalama %15'ini oluşturur. Bu uyku puanı bileşeni için en yüksek puan yaklaşık %17'dir. Daha yüksek veya düşük yüzdeler puanınızı düşürür.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM'in açılımı hızlı göz hareketidir. REM uykusunda kaslarınız gevşer ama beyniniz aktiftir. REM uykusu <b>zihninizi yeniler</b>, <b>hafızayı</b> ve <b>öğrenmeyi</b> geliştirir. Rüyalar genelde bu aşamada görülür.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Nightly Recharge™ durumu, uyurken vücudunuzun egzersizin ardından ne kadar dinlenebildiğini ve stresten ne oranda kurtulabildiğini gösterir. Uykunuz ve otonom sinir sisteminiz (ANS) hakkında otomatik olarak ölçülen bilgileri birleştirir. Bu noktada kalbiniz ile ilgili veriler son derece önemlidir.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "ANS'niz vücudunuzun gerçekleştirebileceği iki farklı hareket dizisini kontrol eder: Bunlardan biri savaş ya da kaç tepkisinin harekete geçmesi, diğeri ise dinlen ve sindir tepkisinin etkinleşmesidir. ANS durumunuz ne kadar yüksek olursa ANS'nin dinlen ve sindir tepkisi <b>normal seviyenize</b> kıyasla o kadar ağır basar.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Egzersiz için güzel bir gün, fakat vücudunuz \"hayır\" diyorsa fazla abartmayın.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Bugün kendinizi %100 hissetmeseniz bile egzersiz yapabilirsiniz.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Haydi başlayın! Ayrıntılı egzersiz rehberliği için saatinize göz atın!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Bugün bir şampiyon olabilirsiniz, haydi başlayın!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Sleep Plus Stages™ özelliği, uykunuzun miktarını ve kalitesini ölçer. Her sabah, mevcut uyku bilimine göre iyi bir gece uykusuna işaret eden göstergelerle karşılaştırıldığında ne kadar iyi uyuduğunuzu gösteren sayısal bir uyku puanı (uyku durumu) gösterir.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Akşamları sakinleşmek için zaman ayırın. Bu daha erken uykuya dalmanıza ve daha uzun uyumanıza yardımcı olabilir.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Zaman ayırıp Serene nefes egzersizi yapın. Düzenli yapıldığında Serene uyku kalitenizi ve genel sağlık durumunuzu iyileştirmeye yardımcı olur.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "%@ Favorileri (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "<b>Maksimal oksijen alımı (VO2max)</b>, maksimum efor sırasında vücudunuzun oksijen tüketmek için ulaştığı maksimum kapasitedir.\n\nSize en uygun ve alakalı verileri sağlayabilmemiz için VO2max değerinizi güncel tutun. VO2max, kalori miktarı içeren tüm hesaplamaları etkiler.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Fonksiyonel eşik gücü (FTP) değeri, iyi antrenman yapan bir bisikletçinin bir saat boyunca koruyabileceği egzersiz yoğunluğunu ifade eder.\n\nGüç alanlarınızı güncellemek için FTP değerinizi güncelleyin. Böylece doğru yoğunlukta egzersiz yapmanız kolaylaşır.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "En güvenilir sonuçları elde edebilmek için test boyunca güç seviyenizi koruduğunuzdan emin olun. Yavaşlarsanız sonuçlar daha az güvenilir olacaktır.\n\nİlk testte, kişisel bilgileriniz doğrultusunda sizi bir güç hedefiyle yönlendiririz. Bu hedef, test süresince gücünüzü sabit tutmanıza yardımcı olur. Testi tekrar yaptığınızda ise hedef, daha önceki sonuçlarınıza göre belirlenir.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Bisiklet performansınızı takip etmek ve kişisel güç alanlarınızı tanımlamak için testten yararlanın. FTP sonucunuzu kilonuza bölerek performansınızı sizinle aynı cinsiyetten bisikletçilerle karşılaştırabilirsiniz. Ayarlarınızda kilonuzu güncellemeyi unutmayın.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n %3$@ içinde %2$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n %3$@ içinde %2$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow'un siz uygulamayı kullanırken veya her zaman konumunuzu kullanmasına izin vermeniz gerekir.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow'un tam konumunuzu kullanmasına izin vermeniz gerekir.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow'a şu izinleri vermeniz gerekir:\n- siz uygulamayı kullanırken veya her zaman konumunuza erişme\n- tam konumunuzu kullanma";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Pil %%%@";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "İlk ölçülen uyku zamanına dönmek için \"Eskiye döndür\" düğmesine tıklayabilirsiniz";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Kondisyon seviyenizi VO2max değeriniz, yaşınız ve biyolojik cinsiyetinize göre \"Çok düşük\" ile \"Üst seviye\" arasında tanımlıyoruz.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Araştırma ve geliştirme";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Verilerimin %@ için kullanılmasını istemiyorum. Verilerin kullanımı, Polar'ın ürün ve hizmetlerini geliştirip iyileştirmesine yardımcı olur.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "araştırma ve geliştirme";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Uyku ve iç ritim";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Sizin için yapılan tahmin, son 7 gün içerisindeki her geceye ait uyku verilerinize ulaştığımızda geçerlidir";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "<b>Enerji puanı</b> grafiği, uykunuzun son zamanlarda günlerinizi nasıl etkilediğini gösterir. Puanlar <i>çok iyi</i>, <i>iyi</i>, <i>orta</i>, <i>az</i> olarak değişmektedir. Çok iyi enerji puanı, uykunun gününüzü en iyi şekilde desteklediğini gösterir. Örneğin ihtiyacınız olandan daha az süre uyursanız enerji puanınız az olabilir.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Eğer ortalama <b>uyku süreniz</b> <i>Tercih ettiğiniz uyku süresi</i> ayarından çok uzaksa şunları kontrol etmek iyi olabilir:\n\n- Vücudunuzun ihtiyacı olan süreden daha az mı uyudunuz?\n\n- Ayarı gerçek uyku ihtiyacınıza göre değiştirmeniz gerekiyor mu?";

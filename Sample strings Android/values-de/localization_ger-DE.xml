@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_ger-DE.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Benachrichtigungen</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Um deinen V650 mit der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option %1$s.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Du musst mindestens 10 Minuten mit über 50 % deiner berechneten maximalen Herzfrequenz trainieren, um Feedback zu erhalten.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Basis- \&amp; Herz-Kreislauftraining</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Synchronisierung der Daten mit %1$s abgeschlossen</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Synchronisierung der Daten mit %1$s fehlgeschlagen. Bitte versuche es noch einmal.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Akkustatus wenn synchronisiert: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Das Gewicht, das du gerade gemessen hast (%1$s), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%2$s).</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Es ist ein Update für deine(n) %1$s (%2$s) verfügbar</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Mit Geschwindigkeits-/Tempozonen kannst du Trainingsintensitäten einfach auswählen und überwachen. Die Zonen, die du hier siehst, sind die Standardzonen.\n\nWenn du „Benutzerdefinierte Zonen“ wählst, können alle Grenzwerte geändert werden.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">L-/R-Balance</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Speichern und synchronisieren</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Nach Typ suchen oder filtern</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Ich stimme zu, dass <b>Polar meine sensiblen personenbezogenen Daten (z. B. Herzfrequenzdaten)</b> wie im Polar Datenschutzhinweis beschrieben erheben und verarbeiten kann.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Ta\u00ADges\u00ADzeit</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Zeit in Tempo\u00ADzone</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Stei\u00ADgung</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Ge\u00ADfälle</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Vert. Ge\u00ADschwin\u00ADdig\u00ADkeit</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Links-/Rechts-Balance</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Verletzungs-/Krankheitsrisiko</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Wie erhalte ich den Status \&apos;Aufbauend\&apos;?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Soll ich versuchen, den Status \&apos;Aufbauend\&apos; aufrechtzuerhalten?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Der größte Teil des Tiefschlafs findet in der <b>ersten Nachthälfte</b> statt. Durchschnittlich liegt der Anteil an Tiefschlaf bei rund 15 % der Schlafzeit von Erwachsenen. Der Maximalwert für diese Komponente des Schlafindex liegt bei rund 17 %. Höhere oder niedrigere Prozentanteile verringern deinen Wert.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM steht für „rapid eye movement“, also schnelle Augenbewegungen. Im REM-Schlaf sind deine Muskeln entspannt, aber dein Gehirn ist aktiv. Der REM-Schlaf <b>regeneriert deinen Geist</b> und verbessert sowohl das <b>Gedächtnis</b> als auch das <b>Lernen</b>. In dieser Phase wird am meisten geträumt.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ Status zeigt, wie sich dein Körper von Training und Stress erholen konnte, während du geschlafen hast. Er kombiniert automatisch gemessene Informationen zu deinem Schlaf und autonomen Nervensystem (ANS). Dein Herz ist der Schlüssel zu diesen Einblicken.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Dein ANS steuert zwei Arten gegensätzlicher Körperfunktionen: die schnelle Reaktion und Mobilisierung des Körpers („Kampf oder Flucht“) und Vorgänge in Ruhe („Ruhen und Verdauen“). Je höher der ANS-Status, desto höher ist die Dominanz des Ruhen-und-Verdauen-Teils des ANS im Vergleich zum <b>üblichen Maß</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Heute ist ein guter Tag für Training, aber übertreibe es nicht, wenn dein Körper “Nein“ sagt.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Du kannst heute trainieren, auch wenn du dich dazu nicht 100 % auf der Höhe fühlst.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Auf geht‘s! Sieh auf deine Uhr für eine detaillierte Trainingsbegleitung!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Heute kannst du wie ein Champion trainieren. Auf geht\&apos;s!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Die Sleep Plus Stages™ Funktion misst die Menge und Qualität deines Schlafes. Jeden Morgen zeigt sie dir einen numerischen Schlafindex (Schlafstatus), der wiedergibt, wie gut du im Vergleich zu den Indikatoren einer erholsamen Nachtruhe, basierend auf der aktuellen Schlafforschung, geschlafen hast.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Plane Zeit ein, um abends zur Ruhe zu kommen. Dadurch schläfst du möglicherweise früher ein und insgesamt länger.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Nimm dir Zeit für dich mit den geführten Atemübungen von Serene. Wenn du sie regelmäßig machst, kann Serene deine Schlafqualität und dein allgemeines Wohlbefinden verbessern.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Favoriten auf %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/de/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Deine <b>maximale Sauerstoffaufnahme (VO2max)</b> ist die maximale Leistung deines Körpers, Sauerstoff bei maximaler Anstrengung zu verbrauchen.\n\nAktualisiere deine VO2max um sicherzustellen, dass wir dir die genauesten und relevantesten Daten zur Verfügung stellen. VO2max wirkt sich auf alle Berechnungen aus, die mit Kalorien zu tun haben.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Der Wert der funktionellen Schwellenleistung (FTP) reflektiert die Intensität, die ein gut trainierter Radfahrer für eine Stunde aufrechterhalten kann.\n\nAktualisiere deinen FTP-Wert, um deine Leistungszonen auf den neuesten Stand zu bringen, was dir dabei hilft, mit der richtigen Intensität zu trainieren.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Für die besten Ergebnisse musst du sicherstellen, dass du während des Tests auf dem gleichen Leistungsniveau bleibst. Wenn du langsamer wirst, werden die Testergebnisse weniger zuverlässig.\n\nDer erste Test setzt dir ein Ziel, das auf deinen Hintergrundinformationen basiert. Das hilft dir, während des Tests eine gleichmäßige Leistung aufrechtzuerhalten. Wenn du den Test wiederholst, basiert das Ziel auf deinen früheren Ergebnissen.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Nutze den Test, um deine Radfahrleistung zu verfolgen und um deine individuellen Leistungszonen zu definieren. Dein FTP-Ergebnis geteilt durch dein Gewicht ermöglicht dir den Vergleich mit anderen Radfahrern des gleichen Geschlechts. Denke daran, dein Gewicht in deinen Einstellungen zu aktualisieren.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nin %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Um Geschwindigkeit und Distanz während des Trainings zu erhalten, musst du Flow immer Zugriff auf deinen Standort erlauben.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Um Geschwindigkeit und Distanz während des Trainings zu erhalten, musst du Flow die Nutzung deines genauen Standorts erlauben.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Um Geschwindigkeit und Distanz während des Trainings zu erhalten, musst du Flow:\n- Zugriff auf deinen Standort erlauben, während du die App verwendest oder immer\n- die Nutzung deines genauen Standorts erlauben.</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Akku %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Du kannst „Zurückwechseln“ wählen, um die ursprünglichen Schlafzeiten wiederherzustellen.</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Auf Grundlage deines VO2max-Werts, Alters und Geschlechts definieren wir dein Fitnesslevel auf einer Skala von Schwach bis Exzellent.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Forschung und Entwicklung</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Ich möchte nicht, dass meine Daten für %1$s verwendet werden. Die Verwendung der Daten hilft Polar, Produkte und Dienstleistungen zu entwickeln und zu verbessern.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">Forschung und Entwicklung</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Schlaf \&amp; Biorhythmus</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Deine Vorschau ist fundiert, wenn du Schlafdaten von jeder Nacht während der letzten 7 Tage hast</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Dein <b>Boost-Wert</b> zeigt an, in welchem Maß dein Schlaf dir in letzter Zeit zu Energie am Tage verholfen hat. Deine Bewertung kann <i>hervorragend</i>, <i>sehr gut</i>, <i>gut</i> oder <i>mäßig</i> sein. Ein hervorragender Wert bedeutet, dass du maximalen Nutzen aus deinem Schlaf gezogen hast. Der Wert fällt hingegen mäßig aus, wenn du z. B. ein großes Schlafdefizit hast.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Wenn deine durchschnittliche <b>Schlafzeit</b> nicht annähernd der Einstellung <i>deiner gewünschten Schlafzeit</i> entspricht, solltest du überlegen:\n\n- ob du möglicherweise ein Schlafdefizit hast,\n\n- ob die Einstellung nicht deinem tatsächlichen Schlafbedarf entspricht und du sie anpassen solltest.</string>
+
+</resources>

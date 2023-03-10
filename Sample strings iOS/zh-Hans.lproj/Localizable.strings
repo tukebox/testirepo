@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "通知";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "如需用 Flow 应用程序与 V650 同步，请从 V650 的侧边侧边菜单中选择 '与移动设备同步'。";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "FTP的百分比";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "您需要在计算出的最大速度心脏值的 50% 以上至少训练 10 分钟，才能得到反馈。";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "基本和稳定状态训练";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "完成与 %@ 的数据同步。";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "与 %@ 同步数据失败。请重试。";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "同步时的电池状态：%@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "请确保您的手机和设备均已启用蓝牙功能，并让他们在安装过程中彼此接近。或者，如果您希望利用计算机进行安装也可以。";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "您刚测量的体重 (%@) 超出您之前体重 (%@) 以上。";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "您的 %@ 存在可用更新。\n更新可能需要几分钟的时间。";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "利用速度/配速区，您可以便捷地选择并监控训练强度。您现在在此看到的区域是默认区域。\n\n如果您选择“自定义区域”，则可以更改所有限制。";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "左/右平衡";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "保存并同步";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "搜索或按类型筛选";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "我同意，<b>Polar 可以按 Polar 隐私通知所述规定</b>收集和处理我的敏感个人资料（如心率）。";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "当日时间";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "步速区中的时间";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "上升";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "下降";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "垂直速度";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "左/右平衡";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>损伤和疾病风险</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "如何保持有效的状态？";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "是否应该一直努力保持有效的状态？";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "大多数深层睡眠发生在<b>前半夜</b>。平均而言，深层睡眠占成人睡眠时间的约 15%。如果占到约 17%，此睡眠分数组成部分即可达到最高分。更高或更低的百分比会降低您的分数。";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "快动眼代表快速眼动。在快动眼睡眠中，您的肌肉放松，但大脑是活跃的。快动眼睡眠<b>可恢复精力</b>，并增强<b>记忆力</b>和<b>学习</b>能力。梦境主要发生在这个阶段。";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Nightly Recharge™ 状态显示您在睡眠时身体从训练和压力中恢复的程度，它不仅提供自动测量的睡眠信息，还提供有关自主神经系统 (ANS) 的信息。您的心脏是提供这些信息的关键。";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "ANS 控制身体可采取的两组行动，即是否该采取战或逃的行动，还是该进行休息和消化。与<b>平常水平</b>相比，ANS 恢复程度越高，ANS 的休息和消化部分就越占优势。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "今天适合练习，但如果您的身体说“不”，请不要硬撑。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "您今天可以训练，即使您可能觉得自己未完全做好准备。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "行动吧！请查看手表获取详细训练指导！";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "今天朝着冠军努力，行动起来吧！";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Sleep Plus Stages™ 功能会测量睡眠量和睡眠质量，您每天早上都可以看到您的睡眠分数（即睡眠恢复情况），这个分数反映了基于当前睡眠数据，您的睡眠质量与标准良好夜间睡眠的比较情况。";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "晚上预留放松时间。这可以让您更早入睡，并且睡眠时间更长。";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "花时间练习 Serene 指导式呼吸练习。定期练习有助于提高睡眠质量和整体健康。";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "%@ 上我的最爱 (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "<b>最大摄氧量 (VO2max)</b> 是指身体在最大运动量时消耗氧气的最大能力。\n\n更新您的最大摄氧量可以确保我们能为您提供最准确和最相关的数据。最大摄氧量会影响所有涉及卡路里的计算。";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "功能性阈值功率 (FTP) 值可反映受过良好训练的骑行者在 1 小时内能保持的训练强度。\n\n更新您的 FTP 值可获取最新的功率区，以帮助您采用正确的训练强度。";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "为了获得最可靠的测试结果，请务必在测试期间保持相同的功率水平。放慢速度将降低测试结果的可信度。\n\n在首次测试中，会根据您的背景信息设置功率目标，并以此提供指导，以帮助您在整场测试期间保持稳定功率。您再次进行测试时，将根据之前测试结果生成目标。";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "利用该测试来跟踪了解您的骑行表现，以及确定您个人的功率区。将您的 FTP 结果除以体重，即可与您同性别的其他骑行者进行比较。务必记得在设置中更新您的体重。";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\n用时 %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@，用时 %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@，用时 %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "要在训练期间了解速度和距离，您需要允许 Flow 在使用应用期间或始终使用您的位置。";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "要在训练期间了解速度和距离，您需要始终允许 Flow 使用您的精确位置。";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "要在训练期间了解速度和距离，您需要允许 Flow：\n- 在使用应用期间访问您的位置，或始终\n- 使用您的精确位置。";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "电池 %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "您可以选择“切换回”以恢复初始时间";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "根据您的最大摄氧量评分、年龄和性别，我们在“极低”到“优秀”的等级范围内定义您的适能水平。";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "研究和开发";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "我不希望我的数据被用于%@。使用这些数据有助于 Polar 开发和改进产品和服务。";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "研究和开发";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "睡眠和内在节奏";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "当您拥有过去 7 天每个晚上的睡眠数据时，您的预测将是有效的。";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "<b>提升分数</b>趋势显示了睡眠最近让您的日常生活有何提升。您的分数可能是<i>极佳</i>、<i>优秀</i>、<i>良好</i>或<i>一般</i>。极佳的提升分数意味着您得到了良好睡眠的所有益处来支持日常生活。如果存在睡眠严重不足等情况，则您的提升分数就可能是一般。";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "如果您的平均<b>睡眠时间</b>与您的<i>首选睡眠时间</i>设置并不接近，以下考虑可能有用：\n\n- 您是否睡眠不足\n\n- 您是否应该调整设置以符合真正的睡眠需求";

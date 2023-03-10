@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Jos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% FTP-arvosta";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Palautetta harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Laitteen %@ synkronointi epäonnistui. Yritä uudelleen.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Akun tila synkkauksen hetkellä: %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Varmista, että puhelimessasi ja laitteessasi on Bluetooth käytössä, ja pidä laitteet lähekkäin käyttöönoton aikana. Halutessasi voit myös tehdä käyttöönoton tietokoneella.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Mittaamasi paino (%@) eroaa yli 10 %% edellisestä painostasi (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Päivitys saatavilla laitteelle %@.\nPäivittäminen voi kestää muutaman minuutin.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Nopeus-/vauhtialueiden avulla voit helposti suunnitella ja seurata treenisi intensiteettiä. Tässä näet oletusalueet.\n\nJos valitset Mukautetut alueet, voit muuttaa kaikkia rajoja.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Vasemman ja oikean tasapaino";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Tallenna ja synkronoi";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Hae tai suodata tyypin mukaan";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Kel\U00ADlon\U00ADai\U00ADka";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Ai\U00ADka vauh\U00ADti\U00ADalu\U00ADeel\U00ADla";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Nou\U00ADsu";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Las\U00ADku";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Pys\U00ADty\U00ADsuun\U00ADtai\U00ADnen no\U00ADpe\U00ADus";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Va\U00ADsen/oi\U00ADkea-voi\U00ADma\U00ADta\U00ADsa\U00ADpai\U00ADno";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Vamma- ja sairastumisriski</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Kuinka saan pidettyä statukseni kehittävänä?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Yritänkö pitää statukseni kehittävänä koko ajan?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Suurin osa syvästä unesta ajoittuu <b>yön ensimmäiselle puoliskolle</b>. Aikuisilla syvän unen keskimääräinen osuus uniajasta on 15 prosenttia. Noin 17 prosenttia antaa maksimituloksen tästä unituloksen osatekijästä. Suuremmat tai pienemmät prosentit laskevat tulosta.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM on lyhenne sanoista ”rapid eye movement”, mikä tarkoittaa vilkeunta. REM-unessa lihakset ovat rentoina mutta aivot aktiiviset. REM-uni <b>auttaa mieltä palautumaan</b> ja parantaa <b>muistia</b> ja <b>oppimista</b>. Suurin osa unien näkemisestä tapahtuu tässä univaiheessa.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Nightly Recharge™ ‑tila kertoo, miten kehosi palautui treenistä ja stressistä nukkumisen aikana. Se yhdistää automaattisesti mitatut uni- ja autonomisen hermoston (ANS) tiedot, jotka saadaan sydämesi toiminnan seurannasta.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "Autonominen hermostosi säätelee kehosi kaasua (sympaattinen hermosto) ja jarrua (parasympaattinen hermosto). Mitä korkeampi ANS-tilan arvo on verrattuna <b>omaan tasoosi</b>, sitä enemmän kehosi painaa jarrua, eli rauhoittuu ja rentoutuu.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Tänään on hyvä päivä treenata, mutta älä tee liikaa, jos kehosi sanoo \”ei\”.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Voit treenata tänään, vaikka et tuntisikaan olevasi täysin valmis siihen.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Anna palaa! Katso tarkemmat treeniohjeet kellostasi!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Tänään voit olla mestari, joten anna palaa!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Sleep Plus Stages™ ‑toiminto mittaa unesi määrän ja laadun. Näet joka aamu numeerisen unituloksen (unen tilan), joka kuvaa sitä, miten hyvin nukuit verrattuna unitieteen tämänhetkisen tiedon mukaisiin hyvän yöunen indikaattoreihin.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Varaa aikaa rauhoittumiselle iltaisin. Saatat nukahtaa aiemmin ja nukkua pidempään.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Ota hetki aikaa itsellesi ohjatun Serene-hengitysharjoituksen parissa. Tekemällä harjoituksia säännöllisesti, Serene auttaa parantamaan unen laatua ja yleistä hyvinvointia.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Suosikit: %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/fi/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "<b>Maksimihapenottokyky (VO2max)</b> tarkoittaa kehon maksimaalista kapasiteettia käyttää happea maksimisuorituksen aikana.\n\nPäivittämällä VO2max-arvosi varmistat, että saat mahdollisimman tarkkaa ja käyttökelpoista dataa. VO2max vaikuttaa kaikkiin laskelmiin, missä huomioidaan kalorit.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Funktionaalinen kynnystehoarvo (FTP) kertoo tehon, jota hyvin harjoitellut pyöräilijä pystyy ylläpitämään tunnin ajan.\n\nPäivittämällä FTP-arvon saat tehoalueesi ajan tasalle, mikä auttaa sinua treenaamaan oikealla intensiteetillä.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Saat luotettavimmat tulokset pysymällä samalla tehoalueella koko testin ajan. Hidastaminen tekee tuloksista epäluotettavampia.\n\nEnsimmäisessä testissä ohjaamme sinua tehotavoitteella, joka perustuu taustatietoihisi. Se auttaa sinua ylläpitämään tehon tasaisena koko testin ajan. Kun toistat testin, tavoite perustuu aiempiin tuloksiisi.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Käytä testiä pyöräilykuntosi seuraamiseen ja yksilöllisten tehoalueidesi määrittämiseen. FTP-tulosta voi verrata muiden samaa sukupuolta olevien pyöräilijöiden tuloksiin, kun se jaetaan painolla. Muista päivittää painosi asetuksissa.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\najassa %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ ajassa %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ ajassa %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Jotta näet treenin nopeus- ja matkatiedot, salli Flow'n käyttää sijaintiasi käytettäessä appia tai aina.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Jotta näet treenin nopeus- ja matkatiedot, salli Flow'n käyttää tarkkaa sijaintiasi.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Jotta näet treenin nopeus- ja matkatiedot, salli Flow'n:\n– käyttää sijaintiasi käytettäessä appia tai aina\n– käyttää tarkkaa sijaintiasi";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Akku %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Voit palauttaa alkuperäisen ajan valitsemalla ’Palauta’";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Määrittelemme kuntotasosi VO2max-arvosi, ikäsi ja sukupuolesi perusteella asteikolla 'Heikosta' 'Huippuun'.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Tutkimus ja tuotekehitys";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "En halua, että tietojani käytetään %@. Tietojen käyttö auttaa Polaria kehittämään ja parantamaan tuotteita ja palveluita.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "tutkimukseen ja tuotekehitykseen";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Uni ja sisäinen rytmi";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Ennusteesi on pätevä, jos meillä on tiedot unestasi jokaiselta yöltä viimeisen 7 päivän ajalta";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "<b>Unipohjaisten vireystulosten</b> trendi näyttää, miten unesi on viime päivinä vaikuttanut vireystilaasi. Tulos voi olla <i>erinomainen</i>, <i>hyvä</i>, <i>kohtalainen</i> tai <i>vähäinen</i>. Erinomainen tulos kertoo, että olet onnistunut nukkumalla tukemaan päiväaikaista vireystilaasi niin hyvin kuin mahdollista. Vähäinen tulos voi johtua esimerkiksi univelasta.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Jos keskimääräinen <b>uniaikasi</b> ei ole lähelläkään <i>unentarvettasi</i>, kannattaa miettiä:\n\n– onko sinulla mahdollisesti univelkaa\n\n– olisiko aiheellista päivittää asetus vastaamaan todellista unentarvettasi";

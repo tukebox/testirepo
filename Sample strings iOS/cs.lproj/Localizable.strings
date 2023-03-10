@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Upozornění";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte „Synchronizovat s mobilem“ v postranní nabídce přístroje V650.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Základní trénink a trénink vytrvalosti";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Synchronizace dat s %@ byla dokončena.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Synchronizace dat s %@ se nezdařila. Zkuste to znovu.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Stav baterie při synchronizaci: %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Dbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Hmotnost, kterou jste právě naměřili (%@), se od předchozí hmotnosti (%@) liší o více než 10%%.";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Pro %@ je k dispozici aktualizace.\nAktualizace může trvat několik minut.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Prostřednictvím zón rychlosti/tempa můžete snadno vybírat a monitorovat intenzitu tréninku. Zde se zobrazují výchozí zóny.\n\nKdyž zvolíte možnost Upravené zóny, můžete všechny limity měnit.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Podíl levé a pravé nohy na šlapání";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Uložit a synchronizovat";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Hledat nebo filtrovat podle typu";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Souhlasím s tím, aby <b>společnost Polar shromažďovala a zpracovávala mé citlivé osobní údaje,</b> jako je tepová frekvence, jak je popsáno v Prohlášení společnosti Polar o ochraně osobních údajů.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Aktu\U00ADální čas";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Do\U00ADba v zó\U00ADně tem\U00ADpa";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Stou\U00ADpá\U00ADní";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Kle\U00ADsá\U00ADní";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Ver\U00ADti\U00ADkál\U00ADní rych\U00ADlost";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Po\U00ADdíl le\U00ADvé a pra\U00ADvé no\U00ADhy na šla\U00ADpá\U00ADní";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Riziko zranění & onemocnění</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Jak zajistím, aby se můj stav stále zlepšoval?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Měl(a) bych se snažit, aby se můj stav neustále zlepšoval?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Většina hlubokého spánku probíhá během <b>první poloviny noci</b>. U dospělých tvoří hluboký spánek průměrně asi 15 % doby spánku. Zhruba 17 % vám zajistí maximální hodnocení tohoto prvku hodnocení spánku. Vyšší nebo nižší procento hodnocení sníží.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM znamená rychlé pohyby očí. Ve spánku REM jsou vaše svaly uvolněné, ale mozek je aktivní. Spánek REM <b>regeneruje vaši mysl</b> a zlepšuje <b>paměť</b> a <b>schopnost učení</b>. V této fázi se většinou zdají sny.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Stav Nightly Recharge™ hodnotí schopnost těla zotavit se během spánku z tréninku a zátěže. Vychází z automaticky měřených údajů o spánku a činnosti autonomního nervového systému (ANS). Klíčem k těmto údajům je vaše srdce.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "ANS řídí dvě skupiny činností, které může vykonávat vaše tělo: zda je čas bojovat či utíkat, nebo odpočívat a trávit. Čím vyšší je kvalita ANS, tím více dominuje součást ANS zodpovědná za odpočinek a trávení ve srovnání s <b>obvyklým stavem</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Dnes je dobrý den na cvičení, ale nepřežeňte to, pokud vaše tělo říká \„no\“.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Dnes můžete trénovat, i když se možná necítíte na 100 % připraveni.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Jděte do toho! Podrobné pokyny k tréninku najdete v hodinkách.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Dnes máte kondici šampiona, jen do toho!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Funkce Sleep Plus Stages™ měří množství a kvalitu spánku. Každé ráno zobrazí číselné hodnocení spánku (kvalitu spánku) na základě porovnání uplynulé noci s ukazateli účinného nočního spánku dle nejnovějších vědeckých poznatků.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Večer si vyhraďte čas na zklidnění. Možná tak usnete dříve a budete spát déle.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Věnujte chvilku pouze sobě s řízeným dechovým cvičením Serene. Jeho pravidelné opakování může zlepšit kvalitu vašeho spánku a přispět k celkové životní pohodě.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Oblíbené v %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "Vaše <b>maximální spotřeba kyslíku (VO2max)</b> je maximální kapacita vašeho těla spotřebovávat kyslík během maximálního úsilí.\n\nAktualizujte svoji hodnotu VO2max, abyste se ujistili, že vám můžeme poskytnout nejpřesnější a nejvýznamnější data. VO2max ovlivňuje všechny výpočty, které zahrnují kalorie.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Hodnota funkčního prahového výkonu (FTP) odráží intenzitu, kterou může dobře trénovaný cyklista udržovat po dobu jedné hodiny.\n\nAktualizujte svou hodnotu FTP, aby byly vaše silové zóny aktuální, což vám pomůže trénovat se správnou intenzitou.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Nejlepších výsledků dosáhnete, pokud během testu udržíte stejnou úroveň silového výkonu. Zpomalení sníží spolehlivost výsledků.\n\nV prvním testu bude stanoven cíl, který vychází z vašich základních informací. To pomáhá s udržením stabilního silového výkonu po celý test. Při opakovaném testu je cíl založen na vašich dřívějších výsledcích.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Pomocí testu můžete sledovat svůj cyklistický výkon a určit své silové zóny. Váš výsledek FTP vydělený vaší hmotností umožňuje srovnání s ostatními cyklisty stejného pohlaví. Nezapomeňte aktualizovat svou hmotnost v nastavení.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\nza %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ za %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ za %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla používat informace o vaší poloze, pokud tuto aplikaci používáte nebo vždy.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla používat přesné informace o vaší poloze.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby:\n- mohla získat přístup k vaší poloze, pokud ji používáte, nebo aby vždy\n- mohla používat údaje o vaší přesné poloze";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Baterie %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Můžete „Přepnout zpět“ na původní údaje o spánku";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Na základě vašeho skóre VO2max, věku a pohlaví určíme vaši fyzickou kondici na stupnici od „velmi nízké“ po „elitní“.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Výzkum a vývoj";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Nechci, aby moje data byla použita pro %@. Použití údajů pomáhá společnosti Polar vyvíjet a zlepšovat produkty a služby.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "výzkum a vývoj";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Spánek a interní rytmus";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Vaše předpověď je platná, pokud máte k dispozici údaje o spánku z každé noci za posledních 7 dní.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Vývoj ukazatele <b>posilnění spánkem</b> ukazuje, jak spánek v poslední době přispěl k lepšímu prožívání vašich dnů. Hodnocení může být <i>vynikající</i>, <i>dobré</i>, <i>střední</i> nebo <i>mírné</i>. Dobré hodnocení znamená, že získáte všechny výhody kvalitního spánku, které vám pomohou v průběhu dne. Hodnocení „mírné“ může být například důsledkem velkého spánkového dluhu.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Pokud se vaše průměrná <b>doba spánku</b> ani zdaleka neblíží vašemu nastavení <i>preferované doby spánku</i>, bylo by vhodné zvážit:\n\n– zda nemáte spánkový dluh\n\n– zda byste neměli nastavení upravit tak, aby odpovídalo vaší skutečné potřebě spánku.";

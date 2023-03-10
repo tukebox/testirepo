@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_dut-NL.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Meldingen</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Selecteer %1$s in het zij-menu van je V650 om je V650 te synchroniseren met de Flow app.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% van FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Je moet ten minste 10 minuten trainen boven 50% van je berekende maximale hartslagwaarde om feedback te krijgen.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Basis- en constante training</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Gegevens synchroniseren met %1$s is voltooid.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Gegevens synchroniseren met %1$s is mislukt. Probeer het opnieuw.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Batterijstatus bij synchronisatie: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Zorg ervoor dat Bluetooth is ingeschakeld op je telefoon en het apparaat, en houd ze bij elkaar in de buurt tijdens de configuratie. Je kunt de configuratie eventueel ook op je computer uitvoeren.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Tussen je zojuist gemeten gewicht (%1$s) en je vorige gewicht (%2$s) zit meer dan 10%% verschil.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Er is een update beschikbaar voor je %1$s (%2$s)</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Met de snelheid-/tempozones kun je eenvoudig je trainingsintensiteiten selecteren en bewaken. De zones die je hier ziet, zijn de standaardzones.\n\nAls je Aangepaste zones kiest, kunnen alle limieten worden gewijzigd.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Links-rechtsbalans</string> <!--CURRENT_POWER_LEFT_RIGHT_BALANCE = 57; // GUITAR ARCHER-->
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Opslaan en synchroniseren</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Zoek of filter op type</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Ik ga akkoord <b>dat Polar mijn gevoelige persoonsgegevens, zoals hartslaggegevens, kan verzamelen en verwerken,</b> zoals beschreven in het Privacybeleid van Polar.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Tijd</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Tijd in tem\u00ADpo\u00ADzo\u00ADne</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Stij\u00ADging</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Da\u00ADling</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADca\u00ADle snel\u00ADheid</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Links-rechts\u00ADba\u00ADlans</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Risico voor blessures \&amp; ziekte</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Hoe houd ik een productieve status?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Moet ik proberen om altijd een productieve status te hebben?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">In de <b>eerste helft van de nacht</b> komt de meeste diepe slaap voor. Diepe slaap bestrijkt gemiddeld ongeveer 15% van de slaapduur van volwassenen. De maximale score voor dit onderdeel van de slaapscore is ongeveer 17%. Lagere of hogere percentages verminderen je score.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM (Rapid Eye Movement) staat voor snelle bewegingen van de ogen. In de REM-slaap zijn je spieren ontspannen maar je hersenen actief. REM-slaap <b>herstelt je geest</b>, en versterkt <b>het geheugen</b> en het <b>leervermogen</b>. Dit is de fase waarin je het vaakst droomt.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">De Nightly Recharge™-status laat zien hoe je lichaam zich heeft hersteld van training en stress terwijl je sliep. Het combineert automatisch gemeten informatie over je slaap en je autonome zenuwstelsel (AZS). Je hart is de sleutel tot deze inzichten.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Je AZS bestuurt twee soorten acties van je lichaam: je hart en je ademhaling als je actief bent, en je spijsvertering in rust. Hoe hoger je AZS-herstel, hoe groter de dominantie van het rust- en spijsverteringsgedeelte van je AZS in vergelijking met je <b>normale niveau</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Dit is een goede dag om te trainen, maar overdrijf niet en luister als je lichaam ”nee” zegt.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Je kunt vandaag gerust trainen, zelfs als je er niet 100% aan toe bent.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Ga ervoor! Gebruik je horloge voor gedetailleerde trainingsbegeleiding!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Vandaag kun jij de snelste zijn, ga ervoor!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">De functie Sleep Plus Stages™ meet de hoeveelheid en kwaliteit van je slaap. Elke ochtend krijg je een numerieke slaapscore (slaapherstel) die aangeeft hoe goed je hebt geslapen in vergelijking met de indicatoren van de huidige slaapwetenschap voor een goede nachtrust.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Plan tijd in om \&apos;s avonds tot rust te komen. Dit kan je helpen om in slaap te vallen en langer te slapen.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Neem een moment voor jezelf met de Serene begeleide ademoefeningen. Als je de oefeningen regelmatig uitvoert, kan dit je helpen de kwaliteit van je slaap en je gevoel van welbevinden te verbeteren.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Favorieten op %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/nl/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Je <b>maximale zuurstofopname (VO2max)</b> is de maximale capaciteit van je lichaam om zuurstof te verbruiken tijdens een maximale inspanning.\n\nWerk je VO2max bij om er zeker van te zijn dat we je de meest accurate en relevante gegevens kunnen leveren. VO2max beïnvloedt alle berekeningen die betrekking hebben op calorieën.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">De waarde voor functional threshold power (FTP) geeft de intensiteit weer die een goed getrainde fietser een uur lang kan volhouden.\n\nWerk je FTP-waarde bij om je vermogenszones up-to-date te houden; dit zal je helpen om op de juiste intensiteit te trainen.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Voor de nauwkeurigste resultaten moet je ervoor zorgen dat je gedurende de hele test op hetzelfde vermogensniveau blijft. Als je vertraagt maakt dit de resultaten minder betrouwbaar.\n\nIn de eerste test geven we je een doelvermogen op basis van je achtergrondinformatie. Als je de test herhaalt, is het doel gebaseerd op je eerdere resultaten.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Gebruik de test om je fietsprestaties bij te houden en je individuele vermogenszones te definiëren. Door je FTP-resultaat te delen door je gewicht kun je jezelf vergelijken met andere fietsers van hetzelfde geslacht. Vergeet niet om als dat nodig is je gewicht bij te werken in je instellingen.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s in %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Als je snelheid en afstand wilt krijgen tijdens je training, moet je toestaan dat Polar Flow altijd toegang heeft tot je locatie.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Als je snelheid en afstand wilt krijgen tijdens je training, moet je toestaan dat Polar Flow je exacte locatie gebruikt.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Als je tijdens de training je snelheid en afstand wilt weten, moet je Polar Flow toestaan:\n- je locatie te gebruiken tijdens het gebruik van de app, of altijd\n- je exacte locatie te gebruiken</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Batterij %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Kies \&apos;Autom. gegevens\&apos; om de oorspronkelijke tijdstippen te herstellen</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Op basis van je VO2max-score, leeftijd en geslacht bepalen we je conditieniveau op een schaal van \&apos;Zeer laag\&apos; tot \&apos;Uitstekend\&apos;.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Onderzoek en ontwikkeling</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Ik wil niet dat mijn gegevens worden gebruikt voor %1$s. Het gebruik van de gegevens helpt Polar bij het ontwikkelen en verbeteren van producten en services</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">onderzoek en ontwikkeling</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Slaap \&amp; biologische klok</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Je prognose is geldig wanneer je van elke nacht van de afgelopen 7 dagen slaapgegevens hebt</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Je <b>boostscore</b>trend laat zien hoe je slaap je dagen de laatste tijd heeft geboost. Je score kan <i>uitstekend</i>, <i>goed</i>, <i>redelijk</i> of <i>matig</i> zijn. Een uitstekende boostscore betekent dat je alle voordelen van een goede slaap krijgt om je dag te ondersteunen. Een matige boostscore is mogelijk het gevolg van bijvoorbeeld slaapgebrek.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Als je gemiddelde <b>slaapduur</b> niet eens in de buurt komt van je instelling voor <i>Gewenste slaapduur</i>, kun je overwegen:\n\n- of dat misschien door slaapgebrek komt\n\n- of je de instelling moet aanpassen aan je werkelijke slaapbehoefte</string>
+
+</resources>

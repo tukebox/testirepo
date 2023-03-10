@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Értesítések";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "A V650 óra szinkronizálásához a Polar Flow alkalmazással, válaszd ki a „Szinkronizálás mobillal” lehetőséget a V650 óra oldalsó menüjéből.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "FTP%";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Ahhoz, hogy visszajelzést kapj, legalább 10 percet kell edzened a számított maximális pulzus 50%-a felett.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Alap- és tartós edzés";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Befejeződött az adatszinkronizálás a következővel: %@.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Nem sikerült az adatszinkronizálás a következővel: %@. Kérjük, próbáld meg újra.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Akkumulátor-állapot szinkronizáláskor: %@%%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Győződj meg arról, hogy mind a telefonon, mind az eszközön be van kapcsolva a Bluetooth, és a beállítás során tartsd őket közel egymáshoz. Másik lehetőségként a beállítást a számítógépeden is elvégezheted, ha szeretnéd.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "A mért testsúly (%@) több mint 10%%-kal eltér a korábbi testsúlyodtól (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Harmadik féltől származó licencek\n\nA Polar Flow bizonyos, harmadik felektől származó nyílt forráskódú szoftvereket használ. Az alábbiakban megnézheted, hogy milyen szoftvereket használunk, és megnézheted a hozzájuk kapcsolódó szerzői jogi és egyéb megjegyzéseket, engedélyeket és visszaigazolásokat.\n\nKöszönettel tartozunk a fejlesztőknek.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Frissítés érhető el a(z) %@ eszközhöz.\nA frissítés eltarthat néhány percig.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "A sebesség/tempó zónákkal egyszerűen kiválaszthatod és figyelemmel követheted az edzési intenzitásokat. Az itt látható zónák Alapértelmezett zónák.\n\nHa az Egyéni zónákat választod, akkor az összes határérték módosítható.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Bal/jobb egyensúly";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Mentés és szinkronizálás";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Keresés vagy szűrés típus szerint";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Beleegyezem abba, hogy a <b>Polar gyűjtheti és feldolgozhatja érzékeny személyes adataimat</b>, mint például a pulzusomat, a Polar adatvédelmi nyilatkozatában leírtak szerint.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Pon\U00ADtos i\U00ADdő";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Tem\U00ADpó\U00ADzó\U00ADna i\U00ADde\U00ADje";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "E\U00ADmel\U00ADke\U00ADdés";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "E\U00ADresz\U00ADke\U00ADdés";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Füg\U00ADgő\U00ADle\U00ADges se\U00ADbes\U00ADség";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Bal/jobb e\U00ADgyen\U00ADsúly";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Sérülés és betegség kockázata</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Hogyan tarthatom fel eredményes állapotomat?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Meg kell próbálnom az eredményes állapot folyamatos fenntartását?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "A mélyalvás nagy részére <b>az éjszaka első felében</b> kerül sor. A mélyalvás felnőttek esetében átlagosan az alvási idő 15%-át teszi ki. Az alvásérték ezen összetevőjénél kb. 17% a maximális érték. Magasabb vagy alacsonyabb százalékok esetén az érték csökken.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "Az REM a „gyors szemmozgás” angol rövidítése. Az REM-alvás során az izmok ellazulnak, de az agy aktív. A REM-alvás <b>regenerálja az elmét</b>, valamint javítja a <b>memóriát</b> és a <b>tanulási képességet</b>. Általában ebben a szakaszban álmodunk.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "A Nightly Recharge™ státusz megjeleníti, hogy a szervezeted alvás közben mennyire volt képes regenerálódni az edzésekből és a stresszből. Automatikusan kombinálja az alvásodra és a vegetatív idegrendszeredre (ANS) vonatkozó mért információkat. Ezen adatok kulcsát a szíved jelenti.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "Az ANS kétfajta cselekvéssorozatot irányít, amit a szervezet elindíthat: hogy az „üss vagy fuss”, vagy az „pihenés és emésztés” ideje jött-e el. Minél magasabb az ANS-állapot, annál inkább dominál a pihenés és emésztés rész az ANS-állapotban az <b>általános szinthez</b> képest.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "A mai nap megfelelő a gyakorlatokhoz, de ne terheld túl magad, ha a szervezeted nemet mond.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Ma edzhetsz, még akkor is, ha úgy érzed, hogy nem vagy 100%-os az edzéshez.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Ne hagyd ki! Nézd meg az órádat a részletes edzési útmutatásért!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Ma bajnok lehetsz, hajrá!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "A Sleep Plus Stages™ funkció az alvás mennyiségét és minőségét méri. Minden reggel egy számszerű alvásértéket (kipihentségi állapotot) jelenít meg, amely tükrözi, hogy hogyan aludtál a jelenlegi tudományos alváskutatások alapján meghatározott mutatókhoz hasonlítva.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Hagyj időt az esti lenyugvásra. Ezáltal korábban elaludhatsz, és tovább alhatsz.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Szánj egy percet magadra a Serene irányított légzőgyakorlattal. A Serene rendszeresen végezve javíthatja az alvás minőségét és az általános jóllétet.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Kedvencek itt: %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "A <b>maximális oxigénfelvétel (VO2max)</b> a szervezeted maximális oxigénfogyasztási kapacitása maximális erőkifejtés esetén.\n\nFrissítsd a VO2max értékét annak érdekében, hogy a legpontosabb és legrelevánsabb adatokat biztosíthassuk a számodra. A VO2max a kalóriákat érintő összes számításra hatással van.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "A funkcionális teljesítményküszöb (FTP) értéke azt az intenzitást tükrözi, amelyet egy jó edzettségi szinten lévő kerékpáros egy órán át képes fenntartani.\n\nFrissítsd az FTP értékét, hogy teljesítmény zónád naprakész legyen, ami segít abban, hogy a megfelelő intenzitással végezd az edzést.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "A legmegbízhatóbb eredmények elérése érdekében győződj meg arról, hogy ugyanazon teljesítményszinten maradj a teszt során. Ha lassítasz, kevésbé megbízható eredményeket fogsz kapni.\n\nAz első teszted során a háttér-információidon alapuló teljesítménycéllal nyújtunk útmutatást. Ez segít állandó teljesítményt fenntartani a teszt során. A teszt megismétlésekor a célod alapjául a korábbi eredményeid szolgálnak.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Használd ezt a tesztet a kerékpározási teljesítményed nyomon követéséhez és az egyedi teljesítményzónák meghatározásához. A testsúlyoddal elosztott funkcionális teljesítményküszöb eredmények segítségével összehasonlíthatod magad a veled azonos nemű más kerékpárosokkal. Ne felejtsd el frissíteni testsúlyodat a beállításokban.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\n %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy az alkalmazás használata közben vagy mindig hozzáférjen tartózkodási helyedhez.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy használja a pontos tartózkodási helyedet.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Ahhoz, hogy edzés közben megkapd a sebesség és a táv értékét, engedélyezned kell a Polar Flow alkalmazás számára, hogy:\n- hozzáférjen tartózkodási helyedhez az alkalmazás használata közben, vagy\n- használja pontos tartózkodási helyedet";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Akkumulátor %@%%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Választhatod a „Visszaváltás” lehetőséget az eredeti időzítés beállításához";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "A VO2max pontszámod, az életkorod és a nemed alapján határozzuk meg edzettségi szinted a „Nagyon alacsony” és az „Elit” értékek között terjedő skálán.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Kutatás és fejlesztés";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Nem szeretném, hogy adataimat felhasználják a következőhöz: %@. Az adatok felhasználása segít a Polar számára a termékek és szolgáltatások fejlesztésében.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "kutatás és fejlesztés";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Alvás és belső ritmus";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Az előrejelzésed akkor érvényes, amikor rendelkezésre állnak az elmúlt 7 nap minden éjszakájának alvási adatai";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "A <b>töltődési pontszám</b> trendje azt mutatja, hogy az alvás hogyan tette jobbá napjaidat mostanában. Pontszámod <i>kiváló</i>, <i>jó</i>, <i>megfelelő</i> vagy <i>gyenge</i> lehet. A kiváló töltődési pontszám azt jelenti, hogy hozzájutsz a napodat támogató jó alvás összes előnyéhez. A töltődési pontszám gyenge lesz, ha például nagyon kialvatlan vagy.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Ha átlagos <b>alvásidőd</b> közelében sincs a <i>Kívánt alvásidő</i> beállításhoz, akkor hasznos lehet figyelembe venned a következőket:\n\n- nem vagy-e kialvatlan\n\n- esetleg nem kell-e módosítanod a beállításon, hogy a valós alvásigényednek megfeleljen";

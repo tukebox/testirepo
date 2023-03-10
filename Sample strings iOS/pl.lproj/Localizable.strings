@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Powiadomienia";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Aby zsynchronizować V650 z aplikacją Flow, wybierz opcję 'Synchronizuj z tel.' z poziomu bocznego menu V650.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Aby poznać informacje na temat treningu, musisz ćwiczyć przez co najmniej 10 minut z intensywnością powyżej 50% Twojego maksymalnego tętna.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Trening podstawowy i ogólnorozwojowy";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Zakończono synchronizowanie danych z %@.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Synchronizacja danych z %@ nieudana. Spróbuj ponownie.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Poziom baterii podczas synchronizacji: %@%%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Upewnij się, że funkcja Bluetooth na telefonie i urządzeniu jest włączona i podczas konfiguracji trzymaj oba urządzenia blisko siebie. Jeśli chcesz, możesz też przeprowadzić konfigurację z poziomu komputera.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Zmierzona przed chwilą masa ciała (%@) różni się o ponad 10%% od poprzednio zmierzonej masy (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Dla Twojego urządzenia %@ jest dostępna aktualizacja.\n Może potrwać kilka minut.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Dzięki strefom prędkości/tempa możesz łatwo wybierać i monitorować intensywność treningu. Strefy, które widzisz, są strefami domyślnymi.\n\nJeśli wybierzesz Strefy niestandardowe, wszystkie limity mogą zostać zmienione.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Nacisk lewej i prawej nogi";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Zapisz i synchronizuj";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Wyszukaj lub filtruj według rodzajów";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Wyrażam zgodę na <b>zbieranie i przetwarzanie przez Polar moich szczególnie chronionych danych osobowych</b>, takich jak dane dotyczące tętna, zgodnie z Oświadczeniem o ochronie prywatności w firmie Polar.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Po\U00ADra dnia";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Czas w stre\U00ADfie tem\U00ADpa";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Wznie\U00ADsie\U00ADnie";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Spa\U00ADdek te\U00ADre\U00ADnu";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Pręd\U00ADkość wzno\U00ADsze\U00ADnia";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Na\U00ADcisk le\U00ADwej i pra\U00ADwej no\U00ADgi";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Ryzyko urazu i infekcji</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Jak utrzymać progres treningowy?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Czy należy utrzymywać status progresu treningowego przez cały czas?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Najwięcej głębokiego snu występuje w <b>pierwszej połowie nocy</b>. Przeciętnie, głęboki sen stanowi około 15% długości snu osób dorosłych. Około 17% to najwyższa możliwa wartość tego składnika wyniku snu. Wyższy lub niższy udział pogarsza wynik.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM to angielski skrót oznaczający szybkie ruchy gałek ocznych. Podczas snu REM mięśnie są rozluźnione, ale mózg jest aktywny. Sen REM <b>regeneruje umysł</b>, poprawia <b>pamięć</b> i <b>zdolność uczenia się</b>. To podczas tej fazy najczęściej pojawiają się marzenia senne.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Status Nightly Recharge™ wskazuje w jakim stopniu organizm odpoczął podczas snu od wysiłku treningowego i stresu. Łączy informacje uzyskane dzięki automatycznym pomiarom parametrów snu i autonomicznego układu nerwowego (AUN). Najważniejsze znaczenie ma aktywność serca.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "AUN kontroluje dwa tryby, w których może funkcjonować Twoje ciało – tryb walki lub ucieczki oraz tryb odpoczynku i trawienia. Im wyższy status AUN, tym większa jest dominacja części AUN aktywnej w trybie odpoczynku i trawienia, w porównaniu do <b>poziomu standardowego</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "To dobry dzień na ćwiczenia, ale nie zmuszaj się, jeśli Twoje ciało powie Ci „nie”.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Możesz dzisiaj trenować, nawet jeśli nie odczuwasz 100% gotowości.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Do dzieła! Na swoim zegarku znajdziesz szczegółowe wskazówki treningowe!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Dzisiaj możesz być mistrzem, do dzieła!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Funkcja Sleep Plus Stages™ monitoruje ilość i jakość snu. Każdego poranka przedstawia w postaci liczbowej wynik snu (status snu), który informuje, jak użyteczny był Twój sen w porównaniu do wskaźników prawidłowego odpoczynku nocnego, które są oparte na aktualnej wiedzy naukowej.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Zarezerwuj czas na uspokojenie się wieczorem. Dzięki temu możesz usnąć wcześniej i spać dłużej.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Poświęć chwilę na kierowane ćwiczenia oddechowe Serene. Dzięki regularnemu wykonywaniu ćwiczeń Serene możesz poprawić jakość snu i ogólne samopoczucie.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Ulubione z %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "<b>Próg tlenowy (VO2max)</b> to maksymalna zdolność organizmu do zużywania tlenu podczas maksymalnego wysiłku.\n\nZaktualizuj swoją wartość VO2max, abyśmy mogli dostarczać Ci dokładnych i przydatnych informacji. VO2max wpływa na wszystkie obliczenia, które dotyczą kalorii.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Wartość progowa mocy (FTP) określa intensywność, którą wytrenowany kolarz może utrzymać przez godzinę.\n\nSprawdź swoje FTP, aby zaktualizować strefy mocy i upewnić się, że trenujesz z odpowiednią intensywnością.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Dla osiągnięcia najlepszych rezultatów utrzymuj stały poziom mocy przez cały test. Zmniejszenie prędkości spowoduje, że test będzie mniej dokładny.\n\nPierwszy test wyznacza cel na podstawie Twoich ogólnych informacji. Pomoże Ci to utrzymać stały poziom mocy podczas jego przeprowadzania. Przy kolejnych testach cel wyznaczany jest na podstawie wcześniejszych rezultatów.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Korzystaj z testu, aby monitorować swoje kolarskie rezultaty i określić indywidualne strefy mocy. Twój wynik FTP podzielony przez wagę umożliwia porównanie go z wynikami innych kolarzy tej samej płci. Pamiętaj, aby zaktualizować swoją wagę w Ustawieniach.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\nw %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ w %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ w %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na dostęp do Twojej lokalizacji podczas korzystania z aplikacji lub zawsze.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na dostęp do Twojej dokładnej lokalizacji.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Jeśli chcesz otrzymywać dane prędkości i dystansu podczas treningu, musisz zezwolić aplikacji Polar Flow na:\n- dostęp do Twojej lokalizacji podczas korzystania z aplikacji lub ciągłe\n- korzystanie z Twojej dokładnej lokalizacji.";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Bateria %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Możesz wybrać „Przełącz”, aby przywrócić pierwotny pomiar snu";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Na podstawie wyniku VO2max, wieku oraz płci określimy poziom Twojej kondycji na skali od „Bardzo niski” do „Elita”.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Badania i rozwój produktu";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Nie chcę, aby moje dane były wykorzystywane w celu %@. Używanie tych danych umożliwia firmie Polar tworzenie i doskonalenie produktów i usług.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "badania i rozwój produktu";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Sen i rytm dobowy";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Prognoza będzie ważna tylko, jeśli dostępne są dane z każdej nocy w ciągu ostatnich 7 dni";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Trend <b>ocena energii</b> pokazuje, w jaki sposób sen poprawił ostatnio poziom Twojej energii. Oceną może być stopień <i>doskonały</i>, <i>dobry</i>, <i>niezły</i> lub <i>średni</i>. Doskonały stopień oznacza, że wykorzystujesz wszystkie zalety dobrego nocnego wypoczynku. Poziom oceny energii może być „średni” na przykład przy znacznych niedoborach snu.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Jeśli średnia <b>długość snu</b> znacznie się różni od <i>preferowanej długości snu</i>, zastanów się:\n\n- czy cierpisz na niedobór snu\n\n- czy należy zmienić ustawienia, aby odpowiadały Twoim faktycznym potrzebom";

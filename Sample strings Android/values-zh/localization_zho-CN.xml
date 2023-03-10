@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_zho-CN.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">通知</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">如需用 Flow 应用程序与 V650 同步，请从 V650 的侧边侧边菜单中选择 %1$s。</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">FTP的百分比</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">您需要在计算出的最大速度心脏值的 50% 以上至少训练 10 分钟，才能得到反馈。</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">基本和稳定状态训练</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">完成与 %1$s 的数据同步。</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">与 %1$s 同步数据失败。请重试。</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">同步时的电池状态： %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">请确保您的手机和设备均已启用蓝牙功能，并让他们在安装过程中彼此接近。或者，如果您希望利用计算机进行安装也可以。</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">您刚测量的体重 (%1$s) 超出您之前体重 (%2$s) 以上。</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">您的 %1$s (%2$s) 存在可用更新</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">利用速度/配速区，您可以便捷地选择并监控训练强度。您现在在此看到的区域是默认区域。\n\n如果您选择“自定义区域”，则可以更改所有限制。</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">左/右平衡</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">保存并同步</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">搜索或按类型筛选</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">我同意 <b>Polar 可以按 Polar 隐私通知所述规定</b> 收集和处理我的敏感个人数据（如心率）。 </string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">当日时间</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">步速区中的时间</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">上升</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">下降</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">垂直速度</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">左/右平衡</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>损伤和疾病风险</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">如何保持有效的状态？</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">是否应该一直努力保持有效的状态？</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">大多数深层睡眠发生在<b>前半夜</b>。平均而言，深层睡眠占成人睡眠时间的约 15%。如果占到约 17%，此睡眠分数组成部分即可达到最高分。更高或更低的百分比会降低您的分数。</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">快动眼代表快速眼动。在快动眼睡眠中，您的肌肉放松，但大脑是活跃的。快动眼睡眠<b>可恢复精力</b>，并增强<b>记忆力</b>和<b>学习</b>能力。梦境主要发生在这个阶段。</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ 状态显示您在睡眠时身体从训练和压力中恢复的程度，它不仅提供自动测量的睡眠信息，还提供有关自主神经系统 (ANS) 的信息。您的心脏是提供这些信息的关键。</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ANS 控制身体能够采取的两组行动，即是否该采取战或逃的行动，还是该进行休息和消化的行动。与<b>平常水平</b>相比，ANS 恢复程度越高，ANS 的休息和消化部分就越占优势。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">今天适合练习，但如果您的身体说“不”，请不要硬撑。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">您今天可以训练，即使您可能觉得自己未完全做好准备。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">行动吧！请查看手表获取详细训练指导！</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">今天朝着冠军努力，行动起来吧！</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ 功能会测量睡眠量和睡眠质量，您每天早上都可以看到您的睡眠分数（即睡眠恢复情况），这个分数反映了基于当前睡眠数据，您的睡眠质量与标准良好夜间睡眠的比较情况。</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">晚上预留放松时间。这可以让您更早入睡，并且睡眠时间更长。</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">花时间练习 Serene 指导式呼吸练习。定期练习有助于提高睡眠质量和整体健康。</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">%1$s 上我的最爱 (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info"><b>最大摄氧量 (VO2max)</b> 是指身体在最大运动量时消耗氧气的最大能力。\n\n更新您的最大摄氧量可以确保我们能为您提供最准确和最相关的数据。最大摄氧量会影响所有涉及卡路里的计算。</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">功能性阈值功率 (FTP) 值可反映受过良好训练的骑行者在 1 小时内能保持的训练强度。\n\n更新您的 FTP 值可获取最新的功率区，以帮助您采用正确的训练强度。</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">为了获得最可靠的测试结果，请务必在测试期间保持相同的功率水平。放慢速度将降低测试结果的可信度。\n\n在首次测试中，会根据您的背景信息设置功率目标，并以此提供指导，以帮助您在整场测试期间保持稳定功率。您再次进行测试时，将根据之前测试结果生成目标。</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">利用该测试来跟踪了解您的骑行表现，以及确定您个人的功率区。将您的 FTP 结果除以体重，即可与您同性别的其他骑行者进行比较。务必记得在设置中更新您的体重。</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n用时 %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s，用时 %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s，用时 %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">要在训练期间了解速度和距离，您需要始终允许 Flow 访问您的位置。</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">要在训练期间了解速度和距离，您需要始终允许 Flow 使用您的精确位置。</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">要在训练期间了解速度和距离，您需要允许 Flow：\n- 在使用应用期间访问您的位置，或始终\n- 使用您的精确位置。</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">电池 %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">您可以选择“切换回”以恢复初始时间</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">根据您的最大摄氧量评分、年龄和性别，我们在“极低”到“优秀”的等级范围内定义您的适能水平。</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">研究和开发</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">我不希望我的数据被用于%1$s。使用这些数据有助于 Polar 开发和改进产品和服务。</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">研究和开发</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">睡眠和内在节奏</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">当您拥有过去 7 天每个晚上的睡眠数据时，您的预测将是有效的。</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one"><b>提升分数</b>趋势显示了睡眠最近让您的日常生活有何提升。您的分数可能是<i>极佳</i>、<i>优秀</i>、<i>良好</i>或<i>一般</i>。极佳的提升分数意味着您得到了良好睡眠的所有益处来支持日常生活。如果存在睡眠严重不足等情况，则您的提升分数就可能是一般。</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">如果您的平均<b>睡眠时间</b>与您的<i>首选睡眠时间</i>设置并不接近，以下考虑可能有用：\n\n- 您是否睡眠不足\n\n- 您是否应该调整设置以符合真正的睡眠需求</string>
+
+</resources>

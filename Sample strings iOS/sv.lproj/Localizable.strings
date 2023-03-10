@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Meddelanden";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Synkronisera din V650 med Flow-appen genom att välja 'Synkronisera med mobil' från sidomenyn på din V650.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% av FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Du måste träna minst 10 minuter över 50 % av ditt beräknade maxpulsvärde för att få feedback.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Grund- och Distansträning";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Synkronisering av data med %@ slutfördes.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Det gick inte att synkronisera data med %@. Försök igen.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Batteristatus vid synkning: %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Kontrollera att både din telefon och enhet har Bluetooth aktiverat och håll dem nära varandra under installationen. Alternativt kan du göra inställningarna med datorn om du vill.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Den angivna vikten (%@) skiljer sig mer än 10 %% från din föregående vikt (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Det finns en uppdatering tillgänglig för din %@.\nUppdateringen kan ta några minuter.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Med hastighets-/tempozonerna kan du enkelt välja och övervaka träningsintensiteter. De zoner du ser här är standardzonerna.\n\nOm du väljer Anpassade zoner kan alla gränser ändras.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Vänster/höger balans";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Spara och synka";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Sök eller filtrera efter typ";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Jag samtycker till att <b>Polar kan samla in och behandla mina känsliga personuppgifter</b> som t.ex. puls enligt beskrivningen i Polars sekretessmeddelande.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Klock\U00ADtid";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Tid i tem\U00ADpo\U00ADzon";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Stig\U00ADning";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Ut\U00ADför";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Vert\U00ADik\U00ADal has\U00ADtig\U00ADhet";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Vän\U00ADster/hög\U00ADer bal\U00ADans";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Skade- & sjukdomsrisk</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Hur fortsätter jag att utveckla min status?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Ska jag försöka förbättra min status hela tiden?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Merparten av djupsömnen inträffar under den <b>första halvan av natten</b>. I genomsnitt står djupsömn för cirka 15 % av sömntiden för vuxna. Omkring 17 % ger dig maxpoäng för detta sömnpoängstema. Högre eller lägre procentandelar minskar din poäng.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM står för snabb ögonrörelse. Under REM-sömnen är dina muskler avslappnade men din hjärna är aktiv. REM-sömn <b>återställer ditt sinne</b>, och förbättrar <b>minnet</b> och <b>lärndet</b>. Det är under denna fas som drömmar oftast förekommer.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Nightly Recharge™-status visar hur din kropp har kunnat återhämta sig efter träning och stress medan du har sovit. Det kombinerar uppmätt information om din sömn och ditt autonoma nervsystemet (ANS) automatiskt. Ditt hjärta är nyckeln till dessa insikter.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "Din ANS kontrollerar två set av åtgärder som din kropp kan ta: om det är dags att fly eller fäkta, eller om det är dags att vila och ta det lugnt. Ju högre ANS-status desto högre är dominansen av vila och ta det lugnt-delen av ANS jämfört med din <b>normala nivå</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Det är en bra dag för träning, men överträna inte om din kropp säger \"nej\".";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Du kan träna idag, även om du kanske känner att du inte är 100 % redo för det.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Ge järnet! Kolla in din klocka för att få detaljerad träningsvägledning.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Idag kan du bli en mästare, sätt igång!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Funktionen Sleep Plus Stages™ mäter din sömnmängd och sömnkvalitet. Varje morgon anger den en numerisk sömnpoäng (sömnstatus) som visar hur bra du har sovit jämfört med indikatorer för en god natts sömn som baserats på rådande sömnvetenskap.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Avsätt tid för nedvarvning på kvällen. Det kan göra att du somnar tidigare och sover längre.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Ta en stund för dig själv med Serenes vägledda andningsövning. Genom att göra övningen regelbundet kan Serene hjälpa dig att förbättra din sömnkvalitet och ditt allmänna välmående.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Favoriter på %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/sv/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "Din <b>maximal syreupptagningsförmåga (VO2max)</b> är din kropps maximala kapacitet att konsumera syre under maximal ansträngning.\n\nUppdatera din VO2max för att vara säker på att vi kan ge dig så exakta och relevanta data som möjligt. VO2max påverkar alla beräkningar som har med kalorier att göra.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Värdet för funktionell tröskeleffekt (FTP) visar den intensitet som en vältränad cyklist kan hålla i en timme.\n\nUppdatera ditt FTP-värde för att uppdatera effektzonerna, som hjälper dig att träna med rätt intensitet.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "För det mest tillförlitliga resultatet bör du se till att hålla samma effektnivå under hela testet. Om du saktar ner blir resultatet mindre tillförlitligt.\n\nI det första testet sätter vi upp ett mål som baseras på din bakgrundsinformation. Det hjälper dig att bibehålla en jämn effekt under hela testet. När du gör testet igen baseras målet på dina tidigare resultat.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Använd testet för att hålla koll på din cyklingsprestation och definiera dina individuella effektzoner. Ditt FTP-resultat dividerat med din vikt gör att du kan jämföra dig med andra cyklister av samma kön som du. Kom ihåg att uppdatera din vikt i dina inställningar.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\npå %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ på %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ på %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "För att du ska kunna se hastighet och distans under träningen måste du tillåta Flow att använda din plats när du använder appen, eller alltid.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "För att du ska kunna se hastighet och distans under träningen måste du tillåta Flow att använda din exakta plats.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "För att du ska kunna se hastighet och distans under träningen måste du tillåta Flow att:\n- använda din plats när du använder appen, eller alltid\n- använda din exakta plats";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Batteri %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Du kan välja Återgå om du vill återgå till ursprunglig tidtagning";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Baserat på maximal syreupptagningsförmåga (VO2max), ålder och kön definierar vi din konditionsnivå på en skala från \”Mycket låg\” till \”Elit\”.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Forskning och utveckling";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Jag vill inte att mina data ska användas till %@. Användning av data hjälper Polar att utveckla och förbättra produkter och tjänster.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "forskning och utveckling";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Sömn och biorytm";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Din prognos är giltig när du har sömndata från varje natt under de senaste 7 dygnen";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "<b>Boostpoängens</b> trend visar hur sömnen har boostat dina dagar på sistone. Din poäng kan vara <i>utmärkt</i>, <i>bra</i>, <i>ganska bra</i> eller <i>mindre bra</i>. Utmärkt boostpoäng innebär att du får alla fördelar med bra sömn som stöd under dagen. Din boostpoäng kan vara mindre bra om du till exempel har en stor sömnskuld.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Om din genomsnittliga <b>sömntid</b> inte är nära inställningen för din <i>önskade sömntid</i> kan du fundera på följande:\n\n- om du kanske har en sömnskuld\n\n- om du ska ändra inställningen så att den mostsvarar ditt verkliga sömnbehov";

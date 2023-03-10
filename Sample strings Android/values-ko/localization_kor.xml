@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_kor.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">알림</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">V650과 Flow 앱을 동기화하려면, V650의 사이드 메뉴에서 %1$s를 선택하십시오.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">FTP의 %</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">훈련에 관한 피드백을 받으시려면 계산된 최대 심박수 수치의 50% 이상의 수치로 적어도 10분 이상 훈련하셔야 합니다.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">기본 및 스테디 상태 훈련</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">%1$s와(과) 데이터 동기화를 완료했습니다.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">%1$s와(과) 데이터를 동기화하는 데 실패했습니다. 다시 시도하십시오.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">동기화 시 배터리 상태: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">전화기와 장치 모두에 블루투스가 켜져 있는지 확인하고 설정을 하는 동안 서로 가까운 상태로 유지해 주십시오. 또는 원하실 경우 컴퓨터를 이용하여 설정하실 수 있습니다.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">방금 측정한 체중(%1$s)과 이전 체중(%2$s)의 차이가 10% 이상입니다.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">%1$s (%2$s)의 사용 가능한 업데이트가 있습니다.</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">속도/페이스 구역을 통해 트레이닝 강도를 쉽게 선택하고 모니터링할 수 있습니다. 여기에 나타난 구역은 디폴트 구역입니다.\n\n사용자 맞춤 구역을 선택하면 모든 한계를 변경할 수 있습니다.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">좌/우 균형</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">저장 및 동기화</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">유형별 검색 혹은 필터</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">본인은 <b>Polar 개인 정보 보호 공지에 설명된 대로</b> 심박수 등 본인의 민감한 개인 데이터를 Polar가 수집하고 처리할 수 있다는 데 동의합니다.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">시간</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">페이스 구역의 시간</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">상승</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">하강</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">수직 속도</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">좌/우 균형</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>부상 및 질병 위험</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">내 상태를 생산적으로 유지하려면 어떻게 하나요?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">내 상태를 항상 생산적으로 유지하도록 해야 하나요?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">대부분의 깊은 수면은 <b>야간의 전반기</b>에 이루어집니다. 평균적으로 깊은 수면은 성인의 경우 수면 시간의 약 15%를 차지합니다. 이 비율이 약 17%가 되면 이 수면 점수 구성요소에서 최대 점수를 받습니다. 비율이 더 높아지거나 낮아진다고 해서 점수가 낮아지는 것은 아닙니다.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM은 빠른 안구 운동으로 상징됩니다. REM 수면에서 근육은 이완되지만 두뇌는 활동합니다. REM 수면은 <b>마음을 회복시키고</b> <b>기억력</b>과 <b>학습력</b>을 향상시킵니다. 이 단계는 주로 꿈을 꾸는 수면 단계입니다.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ 상태에서는 신체가 취침하는 동안 훈련 및 스트레스에서 어떻게 회복했는지 보여줍니다. 여기에서는 수면과 자율신경계(ANS)에서 측정된 정보를 자동으로 결합합니다. 심장이 이러한 세부 분석 정보의 핵심입니다.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ANS는 몸이 취할 수 있는 두 가지 행동(즉, 투쟁이나 도피 시간 또는 휴식과 소화 시간)을 제어합니다. ANS 상태가 높을수록 <b>보통 수준</b>에 비해 ANS에서 휴식-소화 시간이 많은 것입니다.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">오늘은 운동하기 좋은 날이지만, 몸에서 받아들이지 \&quot;않으면\&quot; 과도하게 운동하지 마세요.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">오늘은 훈련하고 싶은 마음이 100%가 아니더라도 훈련을 하는 것이 괜찮습니다.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">지금 시작하세요! 워치에서 상세한 트레이닝 안내를 확인하세요!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">오늘은 챔피언이 될 수 있습니다. 지금 시작하세요!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ 기능은 수면량과 수면의 질을 측정합니다. 매일 아침, 최신 수면 과학을 근거로 한 숙면을 취한 날의 지표와 비교하여 얼마나 수면을 잘 취했는지를 반영하는 숫자 수면 점수(수면 상태)를 나타냅니다.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">저녁에 시간을 내어 마음을 진정시키세요. 이렇게 하면 더 일찍 잠들고 더 오래 잘 수 있습니다.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">잠시 시간을 내어 Serene의 안내식 호흡 운동을 직접 실시해보세요. 정기적으로 수행하면 Serene은 수면의 질과 전반적인 웰빙을 개선하는 데 도움을 줄 수 있습니다.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">%1$s의 선호사항(%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info"><b>최대 산소 섭취량(VO2max)</b>은 최대치로 노력할 때 신체가 산소를 소모할 수 있는 최대 능력입니다.\n\n당사가 가장 정확하고 관련 있는 데이터를 제공해 드릴 수 있도록 VO2max를 업데이트하십시오. VO2max는 칼로리와 관련된 모든 계산에 영향을 미칩니다.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">기능적 역치 파워(FTP) 값은 잘 훈련된 사이클리스트가 1시간 동안 유지할 수 있는 강도를 나타냅니다.\n\n기능적 역치 파워(FTP) 값을 업데이트하여 파워 구역을 최신 상태로 만들면 올바른 강도에서 트레이닝하는 데 도움이 됩니다.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">가장 신뢰할 수 있는 결과를 위해 테스트 전반에 걸쳐 동일한 파워 수준을 유지하고 있는지 확인하세요. 감속할수록 결과의 신뢰도는 떨어집니다.\n\n첫 번째 테스트에서 배경 정보에 기반한 파워 목표를 통해 안내해드립니다. 그렇게 하면 테스트 전반에 걸쳐 파워를 꾸준히 유지하는 데 도움이 됩니다. 테스트를 반복할 때 목표는 이전 결과를 기반으로 합니다.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">테스트를 사용하여 사이클링 성과를 추적하고 개인적 파워 구역을 정의합니다. FTP 결과를 체중으로 나누면 사용자와 동일한 성별의 다른 사이클리스트들과 비교할 수 있습니다. 설정에서 체중을 반드시 업데이트하세요.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s, %3$s 소요</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s, %3$s 소요</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 Flow가 항상 위치에 액세스할 수 있도록 해야 합니다.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 Flow가 정확한 위치를 사용하도록 해야 합니다.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">트레이닝 동안 속도 및 거리를 확인하려면 Flow가 다음과 같이 하도록 해야 합니다.\n- 앱을 사용하는 동안 또는 항상 위치에 액세스할 수 있도록 해야 합니다.\n- 정확한 위치를 사용하도록 해야 합니다.</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">배터리 %1$s%%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">다시 전환을 선택해 원래의 타이밍 불러오기 가능</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">사용자의 VO2max 점수, 나이 및 성별에 기반하여 \&apos;매우 낮음\&apos;부터 \&apos;엘리트\&apos;까지 피트니스 레벨을 정의합니다.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">연구 개발</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">제 데이터를 %1$s에 사용하고 싶지 않습니다. 데이터를 사용하면 Polar가 제품과 서비스를 개발하고 개선하는 데 도움이 됩니다.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">연구 개발</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">수면 및 체내 리듬</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">지난 7일 동안 매일 밤마다 얻은 수면 데이터가 있으면 예보가 유효합니다</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one"><b>촉진 점수</b> 동향은 최근 신체활동 촉진에 수면이 얼마나 도움이 되었는지 보여줍니다. 점수는 <i>우수</i>, <i>양호</i>, <i>보통</i>, <i>미미</i>일 수 있으며 \'우수\'는 양질의 수면이 주는 이점을 모두 활용해 하루를 잘 보낼 수 있음을 의미합니다. 수면이 매우 부족한 경우 등에는 촉진 점수가 \'미미\'할 수 있습니다.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">평균 <b>수면 시간</b>이 <i>선호하는 수면 시간</i> 설정에 근접하지 않은 경우 다음 사항을 고려하면 도움이 될 수 있습니다.\n\n- 수면이 부족할 수 있는지 여부\n\n- 실제 수면 시간 필요에 맞게 설정을 조금 변경해야 하는지 여부</string>
+
+</resources>
