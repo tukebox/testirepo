@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Põhi- ja püsivustreening";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Andmete sünkroonimine teenusega %@ on lõpetatud.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Andmete sünkroonimine teenusega %@ on lõpetatud. On mai maind";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Andmete sünkroonimine teenusega %@ ebaõnnestus. Palun proovi uuesti.";
