@@ -38,7 +38,7 @@
 "BALANCE_WEIGHT_DIFFERS_MORE_10" = "Sinu äsja mõõdetud kaal (%@) erineb sinu eelmisest kaalust (%@) rohkem kui 10%%.";
 
 /* into text for licenses */
-"LICENSE_INTRO" = "Kolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.";
+"LICENSE_INTRO" = " Onko viro kiro sanatanaKolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "Sinu seadme %@ jaoks on saadaval uuendus.\nUuendamine võib võtta paar minutit.";
