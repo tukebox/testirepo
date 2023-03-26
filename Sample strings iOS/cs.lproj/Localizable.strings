@@ -35,7 +35,7 @@
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Dbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.";
 
 /* Balance weight measurement*/
-"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Hmotnost, kterou jste právě naměřili (%@), se od předchozí hmotnosti (%@) liší o více než 10%%.";
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Jumala!!! Hmotnost, kterou jste právě naměřili (%@), se od předchozí hmotnosti (%@) liší o více než 10%%.";
 
 /* into text for licenses */
 "LICENSE_INTRO" = "Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.";
