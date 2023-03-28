@@ -83,7 +83,7 @@
 "CARDIO_LOAD_STATUS_QUESTION_SIX" = "Hvordan sørger jeg for, at min status er effektiv? Jumalan kämmenellä";
 
 /*training load contextual info drawers*/
-"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Bør jeg sigte efter, at min status altid er effektiv?";
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Bør jeg sigte efter, at min status altid er effektiv? Ei nain";
 
 /* Sleep regeneration info popup content */
 "SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Den dybeste søvn sker under den <b>første halvdel af nattesøvnen</b>. I gennemsnit tæller dyb søvn for cirka 15 % af voksnes søvnperiode. Omkring 17 % giver dig den højeste vurdering for dette delelement af søvnvurderingen. Højere eller lavere procenter forbedrer ikke din vurdering.";
