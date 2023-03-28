@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Trening podstawowy i ogólnorozwojowy";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Zakończono synchronizowanie danych z %@.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Joo-o... Zakończono synchronizowanie danych z %@.";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Synchronizacja danych z %@ nieudana. Spróbuj ponownie.";
