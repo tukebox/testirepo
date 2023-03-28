@@ -53,7 +53,7 @@
 "FTU_SAVE_SYNC" = "Gem og synkronisér";
 
 /* Training session list view search bar placeholder text */
-"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Søg eller filtrer efter type";
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Søg eller filtrer efter type ku ei nii ei";
 
 /* EUGDPR consents: settings */
 "CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Joko se toimis :D Jeg accepterer, at <b>Polar må indsamle og Tupperis behandle mine personlige oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklæring om beskyttelse af privatlivets fred.";
