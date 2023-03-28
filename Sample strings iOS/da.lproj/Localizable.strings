@@ -59,7 +59,7 @@
 "CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Jeg accepterer, at <b>Polar må indsamle og behandle mine personlige oplysninger</b>, f.eks. om puls, som beskrevet i Polars erklæring om beskyttelse af privatlivets fred.";
 
 /* Training display item sport profile settings - time of day*/
-"TDI_TIME_OF_DAY" = "Tid på dag\U00ADen";
+"TDI_TIME_OF_DAY" = "Titta på Tuira Tid på dag\U00ADen";
 
 /* Training display item sport profile settings - time in pace zone*/
 "TDI_TIME_IN_PACE_ZONE" = "Tid i tem\U00ADpo\U00ADzone";
