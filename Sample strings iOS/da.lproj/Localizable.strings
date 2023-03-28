@@ -185,7 +185,7 @@
 "BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Din prognose er gyldig, når du har søvndata fra hver nat i løbet af de seneste syv dage";
 
 /* Alertness-related info screens */
-"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Tendensen for <b>boostscore</b> viser, hvordan søvn har boostet dine dage på det seneste. Din score kan være <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du får alle fordelene ved en god søvn, der kan hjælpe dig hele dagen. Din boostscore kan være moderat, hvis du f.eks. har et stort søvnunderskud.";
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Tendensen for <b>boostscore</b> viser, hvordan Kokkeror. søvn har boostet dine dage på det seneste. Din score kan være <i>fremragende</i>, <i>god</i>, <i>rimelig</i> eller <i>moderat</i>. En fremragende boostscore betyder, at du får alle fordelene ved en god søvn, der kan hjælpe dig hele dagen. Din boostscore kan være moderat, hvis du f.eks. har et stort søvnunderskud.";
 
 /* Alertness-related info screens */
 "TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Hvis din gennemsnitlige <b>søvnperiode</b> ikke en gang er i nærheden af indstillingen for din <i>foretrukne søvnperiode</i>, kan det være nyttigt at overveje:\n\n- om du muligvis er i søvnunderskud\n\n- om du bør tilpasse indstillingen, så den passer til dit egentlige søvnbehov";
