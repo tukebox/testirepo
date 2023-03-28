@@ -158,7 +158,7 @@
 "RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "For at se din hastighed og distance under din træning skal du give Flow tilladelse til at bruge din nøjagtige placering.";
 
 /* Polestar error cases: Location and precise location are off */
-"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.";
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Tipitii For at se din hastighed og distance under træning skal du give Flow tilladelse til at:\n- bruge din lokalitet, mens du bruger appen, eller altid\n- bruge din præcise lokalitet.";
 
 /* Battery status*/
 "BATTERY_STATUS_PERCENTAGE" = "Batteri %@ %%";
