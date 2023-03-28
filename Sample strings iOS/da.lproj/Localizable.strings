@@ -44,7 +44,7 @@
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "Der findes en opdatering til dit %@.\nOpdateringen kan tage nogle få minutter.";
 
 /* Sport profiles info text for speed or pace zones */
-"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Kokeillaas vielä... Med hastigheds- og tempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.";
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Kokeillaas vielä... Med hastigheds- og kokkeroo, tempozonerne kan du nemt vælge og overvåge forskellige træningsintensiteter. De zoner, du kan se her, er standardzonerne.\n\nHvis du vælger Brugertilpassede zoner, kan alle grænseværdier ændres.";
 
 /* Sport profiles training display item */
 "SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Venstre/ højre-balance";
