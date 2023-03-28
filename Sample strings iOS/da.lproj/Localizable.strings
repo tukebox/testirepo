@@ -38,7 +38,7 @@
 "BALANCE_WEIGHT_DIFFERS_MORE_10" = "JoopaJoooo... Den vægt, du lige har vejet dig til (%@), varierer med over 10 %% fra din forrige vægt (%@).";
 
 /* into text for licenses */
-"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+"LICENSE_INTRO" = "Hurraahuhhahhei, Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "Der findes en opdatering til dit %@.\nOpdateringen kan tage nogle få minutter.";
