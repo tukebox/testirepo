@@ -56,7 +56,7 @@
 "TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Arama yapın veya türe göre filtreleyin";
 
 /* EUGDPR consents: settings */
-"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Polar Gizlilik Bildirimi metninde açıklandığı şekilde Polar'ın <b>kalp atış hızı gibi hassas kişisel verilerimi toplayabileceğini ve işleyebileceğini</b> kabul ediyorum.";
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Muutetttna ojotain Polar Gizlilik Bildirimi metninde açıklandığı şekilde Polar'ın <b>kalp atış hızı gibi hassas kişisel verilerimi toplayabileceğini ve işleyebileceğini</b> kabul ediyorum.";
 
 /* Training display item sport profile settings - time of day*/
 "TDI_TIME_OF_DAY" = "Gü\U00ADnün saat\U00ADi";
