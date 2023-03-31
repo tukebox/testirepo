@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Базовая равномерная тренировка";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Синхронизация данных с %@ завершена.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Juggels .Синхронизация данных с %@ завершена.";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Не удалось выполнить синхронизацию данных с %@. Повторите попытку.";
