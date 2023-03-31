@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_rus.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Уведомления</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Чтобы синхронизировать V650 с приложением Flow, выберите %1$s из бокового меню V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Чтобы получить обратную связь, необходимо тренироваться по крайней мере по 10 минут при 50% значении от вашей рассчитанной максимальной ЧСС.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Базовая равномерная тренировка</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Синхронизация данных с %1$s завершена.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Не удалось выполнить синхронизацию данных с %1$s. Повторите попытку.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Статус аккумулятора во время синхронизации: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Убедитесь, что на телефоне и на устройстве включен Bluetooth. Во время настройки держите эти устройства близко друг к другу. Кроме того, настройку можно также выполнить с помощью компьютера.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Только что определенный вами вес (%1$s) отличается от предыдущего веса (%2$s) более чем на 10%%.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Для %1$s доступно обновление (%2$s)</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">С помощью зон скорости/темпа можно легко выбирать и контролировать интенсивность тренировок. Здесь отображены зоны по умолчанию.\n\nПри выборе параметра «Настраиваемые зоны» все пределы можно изменить.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Соотношение \&quot;левая/правая\&quot;</string> <!--CURRENT_POWER_LEFT_RIGHT_BALANCE = 57; // GUITAR ARCHER-->
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Сохранить и синхронизировать</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Искать или фильтровать по типу</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Я согласен (согласна) с тем, что <b>Polar может собирать и обрабатывать мои особо конфиденциальные данные,</b> например частоту сердечных сокращений, так, как указано в Уведомлении о конфиденциальности Polar.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Вре\u00ADмя дня</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Вре\u00ADмя в зо\u00ADне тем\u00ADпа</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Подъ\u00ADем</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Спуск</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Вер\u00ADти\u00ADкаль\u00ADна\u00ADя ско\u00ADрость</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Со\u00ADот\u00ADно\u00ADше\u00ADни\u00ADе «ле\u00ADва\u00ADя/пра\u00ADва\u00ADя»</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Риск получить травму или заболеть</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Как добиться эффективного статуса?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Нужно ли постоянно поддерживать эффективный статус?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Самый глубокий сон происходит <b>в первую половину ночи</b>. В среднем, у взрослых глубокий сон занимает около 15 % времени сна. Примерно 17 % дают максимальную оценку для этого компонента оценки сна. Более высокие или низкие проценты ухудшают вашу оценку.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">Быстрый сон еще называют БДГ, что обозначает «быстрое движение глаз». Во время быстрого сна ваши мышцы расслаблены, но ваш мозг активен. Быстрый сон <b>восстанавливает ум</b> и улучшает <b>память</b> и <b>способность к обучению</b>. Большая часть сновидений происходит именно во время этой фазы.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Уровень Nightly Recharge™ показывает, как ваше тело восстановилось после тренировок и нагрузок, пока вы спали. Функция объединяет автоматически измеренную информацию о вашем сне и вегетативной нервной системе (ВНС). Ваше сердце — ключ к этим данным.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ВНС контролирует два набора действий, которые может выполнять ваше тело: «борьба или бегство» и «отдых и усвоение». Чем выше статус ВНС, тем больше преобладает система, которая отвечает за «отдых и усвоение», по сравнению с вашим <b>обычным уровнем</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Это хороший день для тренировок, но не переусердствуйте, если ваше тело говорит «нет».</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Вы можете сегодня тренироваться, даже если чувствуете, что не на 100 % готовы к этому.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Занимайтесь! Смотрите рекомендации по тренировке на своих часах.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Сегодня ты можешь стать чемпионом, дерзай!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Функция Sleep Plus Stages™ измеряет продолжительность и качество сна. Каждое утро она дает оценку сна в виде числа (статуса сна), которая отражает, насколько хорошо вы спали в сравнении с показателями хорошего ночного сна, основанными на современных научных данных.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Найдите вечером время для релаксации. Это может помочь вам заснуть раньше и спать дольше.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Найдите время для дыхательного упражнения Serene. Регулярное выполнение Serene поможет вам улучшить качество сна и общее самочувствие.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Избранное на %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Ваше <b>максимальное потребление кислорода (VO2max)</b> – это максимальная способность вашего тела поглощать кислород в ходе максимального уровня усилия.\n\nОбновите ваше VO2max, чтобы мы могли предоставлять вам самые точные и актуальные данные. VO2max затрагивает все расчеты, связанные с калориями.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Показатель функциональной пороговой мощности (FTP) отражает интенсивность, которую велосипедист с хорошей подготовкой может поддерживать в течение часа.\n\nОбновите свой показатель FTP, чтобы обеспечить актуальность ваших зон мощности: это поможет вам тренироваться с правильной интенсивностью.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Чтобы получить максимально точные результаты, необходимо поддерживать один и тот же уровень мощности на протяжении всего теста.\n\nЦелевой показатель для первого теста устанавливается на основе ваших исходных данных. Это помогает поддерживать постоянную мощность на протяжении всего теста. При повторных тестах цель задается с учетом предыдущих результатов.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Используйте тест, чтобы отслеживать свои показатели в велоспорте и определять индивидуальные зоны мощности. Ваше значение FTP, разделенное на вес тела, позволит вам оценить свой результат в сравнении с показателями других велосипедистов вашего пола. Не забудьте обновить вес в своих настройках.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s за %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s за %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Чтобы получать данные о скорости и дистанции во время тренировки, необходимо разрешить Polar Flow всегда получать доступ к вашему местоположению.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Чтобы получать данные о скорости и дистанции во время тренировки, необходимо разрешить Polar Flow использовать ваше точное местоположение.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Чтобы определять скорость и дистанцию во время тренировки, необходимо разрешить Polar Flow:\n- получать вашу геопозицию во время использования приложения или всегда; \n- использовать вашу точную геопозицию.</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Аккумулятор %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Вы можете выбрать «Вернуть обратно», чтобы вернуть исходное время.</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">На основании вашего показателя VO2max, возраста и пола мы определяем ваш уровень физической подготовки по шкале от \"Очень низкого\" до \"Элитного\".</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Исследования и разработки</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Я не хочу, чтобы мои данные использовались в целях %1$s. Использование данных помогает Polar разрабатывать и улучшать продукты и сервисы.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">исследований и разработок</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Сон и внутренний ритм</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Ваш прогноз действителен, если у вас есть данные о сне за каждую ночь в течение последних 7 дней.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Динамика <b>оценки заряда энергии</b> показывает, насколько сон придал вам бодрости в последнее время. Согласно оценке, заряд может быть <i>отличным</i>, <i>хорошим</i>, <i>удовлетворительным</i> или <i>низким</i>. Отличный заряд энергии означает, что сон был для вас максимально полезным, а низкий — возможный дефицит сна.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Если ваше среднее <b>время сна</b> даже не приближается к <i>желаемому времени сна</i>, возможно, будет полезно рассмотреть следующее: \n\n— есть ли у вас дефицит сна;\n\n— следует ли настроить параметр так, чтобы он соответствовал вашей реальной потребности во сне.</string>
+
+</resources>

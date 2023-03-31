@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_est.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Teatised</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">V650 sünkroonimiseks Polar Flow\&apos; rakendusega vali V650 külgmenüüst %1$s.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% FTP-st</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Tagasiside saamiseks pead treenima vähemalt 10 minutit nii, et südame löögisagedus oleks rohkem kui 50% arvutatud löögisageduse maksimumist.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Põhi- ja püsivustreening</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Andmete sünkroonimine teenusega %1$s on lõpetatud.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Andmete sünkroonimine teenusega %1$s ebaõnnestus. Palun proovi uuesti.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Aku olek sünkroonimisel: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Veendu, et nii telefonil kui ka seadmel oleks Bluetooth sisse lülitatud, ja hoia neid seadistamise ajal teineteise lähedal. Teise võimalusena saad seadistada arvutiga.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Sinu äsja mõõdetud kaal (%1$s) erineb sinu eelmisest kaalust (%2$s) rohkem kui 10%%.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Kolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Sinu seadme %1$s (%2$s) jaoks on saadaval uuendus.</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Kiiruse/tempo tsoonide abil saad hõlpsalt valida ja jälgida treeningu intensiivsust. Tsoonid, mida siin näed, on vaiketsoonid.\n\nKui valid Kohandatud tsoonid, saad kõiki piire muuta.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Parema/vasaku jõuvõrdsus</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Salvesta ja sünkrooni</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Otsi või filtreeri tüübi järgi</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Olen nõus, et <b>Polar võib koguda ja töödelda minu tundlikke isikuandmeid</b>, näiteks südame löögisagedust, nagu on kirjeldatud Polari privaatsusteatises.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Kella\u00ADaeg</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Tem\u00ADpo\u00ADtsoo\u00ADni aeg</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Tõus</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Las\u00ADku\u00ADmi\u00ADne</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkaal\u00ADne kii\u00ADrus</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Pa\u00ADre\u00ADma/va\u00ADsa\u00ADku jõu\u00ADvõrd\u00ADsus</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Vigastus- ja haigestumisoht</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Kuidas hoida oma olekut arendavana?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Kas peaksin proovima hoida oma olekut kogu aeg arendavana?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Enamik sügavat und toimub <b>öö esimesel poolel</b>. Sügav uni moodustab keskmiselt 15% täiskasvanute uneajast. Umbes 17% annab sulle selle uneskoori komponendi maksimaalse skoori. Suurem või väiksem protsent vähendab sinu skoori.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM (rapid eye movement) tähendab silma kiiret liikumist. REM-une ajal on sinu lihased lõdvestunud, kuid sinu aju on aktiivne. REM-uni <b>taastab</b> sinu meele ning parandab <b>mälu</b> ja <b>õppimisvõimet</b>. See on unefaas, kui nähakse unenägusid.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™-i olek näitab, kuidas sinu keha suutis une ajal treenimisest ja stressist taastuda. See ühendab automaatselt mõõdetud teabe sinu une ja autonoomse närvisüsteemi (ANS) kohta. Sinu süda on selle teabe võti.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Sinu ANS kontrollib kahte liiki tegevusi, mida su keha saab teha: kas on aeg võidelda või põgeneda või on aeg puhata ja seedida. Mida kõrgem on ANS-i olek, seda domineerivam on ANS-i puhke- ja seedimisosa võrreldes sinu <b>tavalise tasemega</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Täna on sobiv päev enda liigutamiseks, kuid ära üle pinguta, kui keha "ei" ütleb.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Täna võid trenni teha, isegi kui tunned, et väga ei viitsi.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Lase käia! Oma kellast leiad üksikasjalikud trennijuhised!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Täna võib sinust tšempion saada, nii et lase käia!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Funktsioon Sleep Plus Stages™ mõõdab su une hulka ja kvaliteeti. Igal hommikul näitab see sulle arvulist uneskoori (une olekut), mis võrdleb sinu une näitajaid kaasaegse uneteaduse hea une näitajatega, ja annab hinnangu, kui hästi sa magasid.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Varu õhtul aega maharahunemiseks. See võib aidata sul varem uinuda ja kauem magada.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Leida enda jaoks hetk Serene\&apos;i juhendatud hingamisharjutustega. Kui teha Serene\&apos;i harjutusi regulaarselt, aitab see parandada une kvaliteeti ja üldist heaolu.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Lemmikud %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Sinu <b>maksimaalne hapnikutarbimine (VO2max)</b> on keha maksimaalne hapnikutarbimise võime maksimaalse pingutuse ajal.\n\nVärskenda oma VO2max-i, et saaksime pakkuda sulle kõige täpsemaid ja asjakohasemaid andmeid. VO2max mõjutab kõiki kaloreid sisaldavaid arvutusi.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Funktsionaalse lävivõimsuse (FTP) väärtus peegeldab intensiivsust, mida hästi treenitud jalgrattur võib tund aega hoida.\n\nVärskenda oma FTP väärtust, et võimsustsoonid oleksid ajakohased, mis aitab sul treenida õige intensiivsusega. Kui oled oma võimsustsoone varem käsitsi kohandanud, ei muuda me neid.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Kõige usaldusväärsemate tulemuste saamiseks veendu, et püsiksid kogu testi vältel samal võimsustasemel. Aeglustamine muudab tulemused vähem usaldusväärseks.\n\nEsimeses testis juhendame sind võimsuseesmärgi saavutamisel, mis põhineb sinu taustteabel. See aitab sul kogu testi vältel püsivat võimsust säilitada. Testi kordamisel põhineb eesmärk sinu varasematel tulemustel.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Testi abil saad jälgida oma rattasõidu sooritust ja määratleda oma individuaalsed võimsustsoonid. Sinu funktsionaalse lävivõimsuse tulemus jagatuna sinu kehakaaluga võimaldab sul võrrelda end samast soost jalgratturitega. Ära unusta oma kaalu sätetes uuendada.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s ajaga %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s ajaga %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Kiiruse ja distantsi andmete saamiseks treeningu ajal pead lubama Polar Flow\&apos; rakendusel alati kasutada sinu asukohta.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Kiiruse ja distantsi andmete saamiseks treeningu ajal pead lubama Polat Flow\&apos;l kasutada sinu täpset asukohta.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Kiiruse ja distantsi andmete saamiseks treeningu ajal pead andma Polar Flow\&apos;le:\n- juurdepääsu oma asukohale rakenduse kasutamise ajal või alati\n- kasuta oma täpset asukohta</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Aku %1$s%%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Algse aja taastamiseks võid valida Lülitu tagasi</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Sinu maksimaalse hapnikutarbimise, vanuse ja soo põhjal määratleme sinu sobivuse skaalal „Väga madal” kuni „Eliit”.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Teadus- ja arendustegevus</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Ma ei soovi, et minu andmeid kasutataks %1$s eesmärgil. Andmete kasutamine aitab Polaril tooteid ja teenuseid arendada ja täiustada.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">teadus- ja arendustegevus</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Une- ja sisemine rütm</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Sinu prognoos kehtib, kui sul on uneandmeid iga öö kohta viimase 7 päeva jooksul</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one"><b>Energiaskoori</b> suundumusest on näha, kuidas uni on sulle viimastel päevadel energiat andnud. Sinu skoor võib olla <i>suurepärane</i>, <i>hea</i>, <i>mõõdukas</i> või <i>vähene</i>. Suurepärane energiaskoor tähendab, et sul on päeva toetamiseks olemas kõik hea une hüved. Kui sul on näiteks unevõlg, võib su energiaskoor olla vähene.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Kui su keskmine <b>une kestus</b> ei ole su <i>soovitava unekestuse</i> sättele isegi lähedal, oleks ehk kasulik mõelda,\n\n- kas sul võib olla unevõlg,\n\n- kas peaksid sätet kohandama, et see kattuks su tegeliku unevajadusega</string>
+
+</resources>

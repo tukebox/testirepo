@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_cze.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Upozornění</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Chcete-li synchronizovat přístroj V650 s aplikací Flow, zvolte %1$s v postranní nabídce přístroje V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">%% FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Abyste získali zpětnou vazbu, musíte trénovat alespoň 10 minut nad 50 % vaší vypočtené maximální tepové frekvence.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Základní trénink a trénink vytrvalosti</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Synchronizace dat s %1$s byla dokončena.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Synchronizace dat s %1$s se nezdařila. Zkuste to znovu.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Stav baterie při synchronizaci: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Dbejte na to, aby na telefonu i na přístroji bylo aktivovano Bluetooth, a mějte při nastavení obě zařízení položená vedle sebe. Pokud chcete, můžete nastavení provést i přes počítač.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Hmotnost, kterou jste právě naměřili (%1$s), se od předchozí hmotnosti (%2$s) liší o více než 10%%.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Licence třetích stran\n\nPolar Flow používá software s otevřeným zdrojovým kódem třetích stran. Níže uvádíme výčet používaného softwaru a také příslušné informace o autorských právech a další informace, povolení a poděkování.\n\nDěkujeme vývojářům.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Pro %1$s (%2$s) je k dispozici aktualizace</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Prostřednictvím zón rychlosti/tempa můžete snadno vybírat a monitorovat intenzitu tréninku. Zde se zobrazují výchozí zóny.\n\nKdyž zvolíte možnost Upravené zóny, můžete všechny limity měnit.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Podíl levé a pravé nohy na šlapání</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Uložit a synchronizovat</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Hledat nebo filtrovat podle typu</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Souhlasím s tím, aby <b>společnost Polar shromažďovala a zpracovávala mé citlivé osobní údaje,</b> jako je tepová frekvence, jak je popsáno v Prohlášení společnosti Polar o ochraně osobních údajů.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Aktu\u00ADální čas</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Do\u00ADba v zó\u00ADně tem\u00ADpa</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Stou\u00ADpá\u00ADní</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Kle\u00ADsá\u00ADní</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkál\u00ADní rych\u00ADlost</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Po\u00ADdíl le\u00ADvé a pra\u00ADvé no\u00ADhy na šla\u00ADpá\u00ADní</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Riziko zranění \&amp; onemocnění</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Jak zajistím, aby se můj stav stále zlepšoval?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Měl(a) bych se snažit, aby se můj stav neustále zlepšoval?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Většina hlubokého spánku probíhá během <b>první poloviny noci</b>. U dospělých tvoří hluboký spánek průměrně asi 15 % doby spánku. Zhruba 17 % vám zajistí maximální hodnocení tohoto prvku hodnocení spánku. Vyšší nebo nižší procento hodnocení sníží.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM znamená rychlé pohyby očí. Ve spánku REM jsou vaše svaly uvolněné, ale mozek je aktivní. Spánek REM <b>regeneruje vaši mysl</b> a zlepšuje <b>paměť</b> a <b>schopnost učení</b>. V této fázi se většinou zdají sny.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Stav Nightly Recharge™ hodnotí schopnost těla zotavit se během spánku z tréninku a zátěže. Vychází z automaticky měřených údajů o spánku a činnosti autonomního nervového systému (ANS). Klíčem k těmto údajům je vaše srdce.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ANS řídí dvě skupiny činností, které může vykonávat vaše tělo: zda je čas bojovat či utíkat, nebo odpočívat a trávit. Čím vyšší je kvalita ANS, tím více dominuje součást ANS zodpovědná za odpočinek a trávení ve srovnání s <b>obvyklým stavem</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Dnes je dobrý den na cvičení, ale nepřežeňte to, pokud vaše tělo říká „no“.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Dnes můžete trénovat, i když se možná necítíte na 100 % připraveni.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Jděte do toho! Podrobné pokyny k tréninku najdete v hodinkách.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Dnes máte kondici šampiona, jen do toho!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Funkce Sleep Plus Stages™ měří množství a kvalitu spánku. Každé ráno zobrazí číselné hodnocení spánku (kvalitu spánku) na základě porovnání uplynulé noci s ukazateli účinného nočního spánku dle nejnovějších vědeckých poznatků.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Večer si vyhraďte čas na zklidnění. Možná tak usnete dříve a budete spát déle.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Věnujte chvilku pouze sobě s řízeným dechovým cvičením Serene. Jeho pravidelné opakování může zlepšit kvalitu vašeho spánku a přispět k celkové životní pohodě.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Oblíbené v %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Vaše <b>maximální spotřeba kyslíku (VO2max)</b> je maximální kapacita vašeho těla spotřebovávat kyslík během maximálního úsilí.\n\nAktualizujte svoji hodnotu VO2max, abyste se ujistili, že vám můžeme poskytnout nejpřesnější a nejvýznamnější data. VO2max ovlivňuje všechny výpočty, které zahrnují kalorie.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Hodnota funkčního prahového výkonu (FTP) odráží intenzitu, kterou může dobře trénovaný cyklista udržovat po dobu jedné hodiny.\n\nAktualizujte svou hodnotu FTP, aby byly vaše silové zóny aktuální, což vám pomůže trénovat se správnou intenzitou.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Nejlepších výsledků dosáhnete, pokud během testu udržíte stejnou úroveň silového výkonu. Zpomalení sníží spolehlivost výsledků.\n\nV prvním testu bude stanoven cíl, který vychází z vašich základních informací. To pomáhá s udržením stabilního silového výkonu po celý test. Při opakovaném testu je cíl založen na vašich dřívějších výsledcích.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Pomocí testu můžete sledovat svůj cyklistický výkon a určit své silové zóny. Váš výsledek FTP vydělený vaší hmotností umožňuje srovnání s ostatními cyklisty stejného pohlaví. Nezapomeňte aktualizovat svou hmotnost v nastavení.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nza %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s za %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s za %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla stále používat údaje o vaší poloze.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby mohla používat přesné informace o vaší poloze.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Chcete-li získat informace o rychlosti a vzdálenosti při tréninku, musíte aplikaci Polar Flow povolit, aby:\n- mohla získat přístup k vaší poloze, pokud ji používáte, nebo aby vždy\n- mohla používat údaje o vaší přesné poloze</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Baterie %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Můžete „Přepnout zpět“ na původní údaje o spánku</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Na základě vašeho skóre VO2max, věku a pohlaví určíme vaši fyzickou kondici na stupnici od „velmi nízké“ po „elitní“.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Výzkum a vývoj</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Nechci, aby moje data byla použita pro %1$s. Použití údajů pomáhá společnosti Polar vyvíjet a zlepšovat produkty a služby.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">výzkum a vývoj</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Spánek a interní rytmus</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Vaše předpověď je platná, pokud máte k dispozici údaje o spánku z každé noci za posledních 7 dní.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Vývoj ukazatele <b>posilnění spánkem</b> ukazuje, jak spánek v poslední době přispěl k lepšímu prožívání vašich dnů. Hodnocení může být <i>vynikající</i>, <i>dobré</i>, <i>střední</i> nebo <i>mírné</i>. Dobré hodnocení znamená, že získáte všechny výhody kvalitního spánku, které vám pomohou v průběhu dne. Hodnocení „mírné“ může být například důsledkem velkého spánkového dluhu.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Pokud se vaše průměrná <b>doba spánku</b> ani zdaleka neblíží vašemu nastavení <i>preferované doby spánku</i>, bylo by vhodné zvážit:\n\n– zda nemáte spánkový dluh\n\n– zda byste neměli nastavení upravit tak, aby odpovídalo vaší skutečné potřebě spánku.</string>
+
+</resources>

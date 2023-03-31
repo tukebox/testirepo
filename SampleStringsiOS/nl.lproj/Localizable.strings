@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Meldingen";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Selecteer 'Synchroniseren met mobiel' in het zij-menu van je V650 om je V650 te synchroniseren met de Flow app.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% van FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Je moet minstens 10 minuten boven 50% van je berekende maximale hartslag trainen om feedback over het trainingseffect te ontvangen.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Basis- en constante training";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Gegevens synchroniseren met %@ is voltooid.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Gegevens synchroniseren met %@ is mislukt. Probeer het opnieuw.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Batterijstatus bij synchronisatie: %@%%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Zorg ervoor dat Bluetooth is ingeschakeld op je telefoon en het apparaat, en houd ze bij elkaar in de buurt tijdens de configuratie. Je kunt de configuratie eventueel ook op je computer uitvoeren.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Tussen je zojuist gemeten gewicht (%@) en je vorige gewicht (%@) zit meer dan 10%% verschil.";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Er is een update beschikbaar voor je %@.\nHet bijwerken kan enkele minuten duren.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Met de snelheid-/tempozones kun je eenvoudig je trainingsintensiteiten selecteren en bewaken. De zones die je hier ziet, zijn de standaardzones.\n\nAls je Aangepaste zones kiest, kunnen alle limieten worden gewijzigd.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Links-rechtsbalans";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Opslaan en synchroniseren";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Zoek of filter op type";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Ik ga ermee akkoord dat <b>Polar mijn gevoelige persoonsgegevens, zoals hartslaggegevens, kan verzamelen en verwerken</b>, zoals beschreven in het Privacybeleid van Polar.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Tijd";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Tijd in tem\U00ADpo\U00ADzo\U00ADne";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Stij\U00ADging";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Da\U00ADling";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Ver\U00ADti\U00ADca\U00ADle snel\U00ADheid";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Links-rechts\U00ADba\U00ADlans";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Risico voor blessures \& ziekte</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Hoe houd ik een productieve status?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Moet ik proberen om altijd een productieve status te hebben?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "In de <b>eerste helft van de nacht</b> komt de meeste diepe slaap voor. Diepe slaap bestrijkt gemiddeld ongeveer 15% van de slaapduur van volwassenen. De maximale score voor dit onderdeel van de slaapscore is ongeveer 17%. Lagere of hogere percentages verminderen je score.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM (Rapid Eye Movement) staat voor snelle bewegingen van de ogen. In de REM-slaap zijn je spieren ontspannen maar je hersenen actief. REM-slaap <b>herstelt je geest</b>, en versterkt <b>het geheugen</b> en het <b>leervermogen</b>. Dit is de fase waarin je het vaakst droomt.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "De Nightly Recharge™-status laat zien hoe je lichaam zich heeft hersteld van training en stress terwijl je sliep. Het combineert automatisch gemeten informatie over je slaap en je autonome zenuwstelsel (AZS). Je hart is de sleutel tot deze inzichten.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "Je AZS bestuurt twee soorten acties van je lichaam: je hart en je ademhaling als je actief bent, en je spijsvertering in rust. Hoe hoger je AZS-herstel, hoe groter de dominantie van het rust- en spijsverteringsgedeelte van je AZS in vergelijking met je <b>normale niveau</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Dit is een goede dag om te trainen, maar overdrijf niet en luister als je lichaam \”nee\” zegt.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Je kunt vandaag gerust trainen, zelfs als je er niet 100% aan toe bent.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Ga ervoor! Gebruik je horloge voor gedetailleerde trainingsbegeleiding!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Vandaag kun jij de snelste zijn, ga ervoor!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "De functie Sleep Plus Stages™ meet de hoeveelheid en kwaliteit van je slaap. Elke ochtend krijg je een numerieke slaapscore (slaapherstel) die aangeeft hoe goed je hebt geslapen in vergelijking met de indicatoren van de huidige slaapwetenschap voor een goede nachtrust.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Plan tijd in om \'s avonds tot rust te komen. Dit kan je helpen om in slaap te vallen en langer te slapen.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Neem een moment voor jezelf met de Serene begeleide ademoefeningen. Als je de oefeningen regelmatig uitvoert, kan dit je helpen de kwaliteit van je slaap en je gevoel van welbevinden te verbeteren.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Favorieten op %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/nl/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "Je <b>maximale zuurstofopname (VO2max)</b> is de maximale capaciteit van je lichaam om zuurstof te verbruiken tijdens een maximale inspanning.\n\nWerk je VO2max bij om er zeker van te zijn dat we je de meest accurate en relevante gegevens kunnen leveren. VO2max beïnvloedt alle berekeningen die betrekking hebben op calorieën.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "De waarde voor functional threshold power (FTP) geeft de intensiteit weer die een goed getrainde fietser een uur lang kan volhouden.\n\nWerk je FTP-waarde bij om je vermogenszones up-to-date te houden; dit zal je helpen om op de juiste intensiteit te trainen.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Voor de nauwkeurigste resultaten moet je ervoor zorgen dat je gedurende de hele test op hetzelfde vermogensniveau blijft. Als je vertraagt maakt dit de resultaten minder betrouwbaar.\n\nIn de eerste test geven we je een doelvermogen op basis van je achtergrondinformatie. Als je de test herhaalt, is het doel gebaseerd op je eerdere resultaten.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Gebruik de test om je fietsprestaties bij te houden en je individuele vermogenszones te definiëren. Door je FTP-resultaat te delen door je gewicht kun je jezelf vergelijken met andere fietsers van hetzelfde geslacht. Vergeet niet om als dat nodig is je gewicht bij te werken in je instellingen.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ in %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ in %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Als je tijdens de training je snelheid en afstand wilt weten, moet je Polar Flow toestaan je locatie te gebruiken tijdens het gebruik van de app, of altijd";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Als je snelheid en afstand wilt krijgen tijdens je training, moet je toestaan dat Polar Flow je exacte locatie gebruikt.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Als je tijdens de training je snelheid en afstand wilt weten, moet je Polar Flow toestaan:\n- je locatie te gebruiken tijdens het gebruik van de app, of altijd\n- je exacte locatie te gebruiken";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Batterij %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Kies 'Autom. gegevens' om de oorspronkelijke tijdstippen te herstellen";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Op basis van je VO2max-score, leeftijd en geslacht bepalen we je conditieniveau op een schaal van 'Zeer laag' tot 'Uitstekend'.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Onderzoek en ontwikkeling";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Ik wil niet dat mijn gegevens worden gebruikt voor %@. Het gebruik van de gegevens helpt Polar bij het ontwikkelen en verbeteren van producten en services";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "onderzoek en ontwikkeling";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Slaap & biologische klok";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Je prognose is geldig wanneer je van elke nacht van de afgelopen 7 dagen slaapgegevens hebt";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Je <b>boostscore</b>trend laat zien hoe je slaap je dagen de laatste tijd heeft geboost. Je score kan <i>uitstekend</i>, <i>goed</i>, <i>redelijk</i> of <i>matig</i> zijn. Een uitstekende boostscore betekent dat je alle voordelen van een goede slaap krijgt om je dag te ondersteunen. Een matige boostscore is mogelijk het gevolg van bijvoorbeeld slaapgebrek.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Als je gemiddelde <b>slaapduur</b> niet eens in de buurt komt van je instelling voor <i>Gewenste slaapduur</i>, kun je overwegen:\n\n- of dat misschien door slaapgebrek komt\n\n- of je de instelling moet aanpassen aan je werkelijke slaapbehoefte";

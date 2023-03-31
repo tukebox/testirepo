@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "お知らせ";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "V650をFlowアプリと同期するには、V650のサイドメニューから'モバイルと同期'を選択します。";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "％FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "フィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "基礎と安定状態のトレーニング";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@とのデータの同期が完了しました。";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "%@とのデータの同期に失敗しました。もう一度やり直してください。";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "同期後のバッテリー残量： %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "設定中はスマートフォンとデバイスのBluetoothをオンにし、お互いをそばに置いてください。またコンピュータから設定を行うこともできます。";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "測定した体重（%@）は、前回の体重（%@）に比べて10 %%を超える差異が見られます。";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "%@の更新情報があります。\n更新には数分かかります。";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "スピード/ペースゾーンを利用すると、簡単にトレーニング強度を選択して、モニタリングできます。ここでは、デフォルトのゾーンが表示されています。\n\nカスタムゾーンを選択すると、すべてのリミットが変更できます。";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "左/右バランス";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "保存して同期";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "タイプ別に検索、’または絞り込む";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "私はPolarが、Polarプライバシーに関するお知らせに機密データ対象内容として記載している、心拍数やその他の健康データなどの、<b>個人の機密に関わるデータを収集’および使用すること</b>に同意します。";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "時刻";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "ペースゾーン\U2060内の\U2060時間";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "上昇";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "下降";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "垂直スピード";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "左/右バランス";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>外傷 \& 病気のリスク</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "私のステータスをさらに効果的にするにはどうすればよいですか？";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "常に効果的なステータス状態を保つべきですか？";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "深い睡眠状態は、夜間の時間帯の<b>最初の半分</b>の間に発生します。成人の平均データとして、睡眠時間のおよそ15%がこの深い睡眠にあたるといわれています。これが約17%に到達すると、この項目での睡眠スコアが最大値となります。パーセント値が変動しても、スコアが減ることはありません。";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM（レム）とは、Rapid Eye Movement（敏速な眼の動き）を意味します。レム睡眠におちると、筋肉がリラックスしますが、脳内活動が活発化します。レム睡眠は、<b>心的な回復を促し</b>、<b>記憶力</b>や<b>学習能力を</b>伸ばす効果があります。このステージにある状態に夢を見る事が多いと考えられます。";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Nightly Recharge™ ステータスは、トレーニングやストレスなどの負荷要素から、睡眠中にあなたの身体がどの程度回復したかを示します。 この方法で抽出したあなたの睡眠データと自律神経系（ANS）の測定データを自動的に照合します。心臓の働きが、この分析に重要な意味合いをもたらします。";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "ANS は、身体の2種類の状態をつかさどります：一つは闘争または逃走反応時、もう一つは休息・消化時です。自律神経ステータスの値が高いほど、<b>通常のレベルと</b>比較した時に、ANSにおける闘争または逃走反応の割合が高めであると考えられます。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "今日はエクササイズに励むといいでしょう。但し頑張りすぎると、身体が\"NO! \"と悲鳴をあげるかもしれませんよ。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "今日は100％力がみなぎる感じではないかもしれませんが、トレーニングをしても大丈夫です。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "さあやってみましょう！詳しいトレーニングガイダンスを腕時計で確認しましょう。";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "きっと今日は頂点に立つことができます。さあチャレンジ！";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Sleep Plus Stages™ 機能で、睡眠量とその質を測定できます。現在の睡眠における科学的な見解において、「良質」とされる睡眠の基準と比較したときに、あなたがどの程度良く眠れたかどうかを、毎朝睡眠スコア（睡眠ステータス）として、数字で表示します。";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "夜、心身を落ち着ける時間をとってみてください。眠りに早くつくことができ、睡眠時間も長くなります。";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Serene 呼吸エクササイズでひと休み。定期的に行うと睡眠の質を向上するだけでなく、全体的な生活の質もよくすることができます。";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "%@ のお気に入り（%@/%@）";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/ja/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "Your <b>最大酸素摂取量（VO2max）</b>とは、最大限の身体能力を発揮している時に、あなたの身体が最大限に摂取できる酸素の量を示します。\n\n精度と’有用性の高いデータを抽出するため、VO2max値の更新を行ってください。VO2max値は、カロリーに関わるすべての数値に影響を及ぼします。";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "機能的体力閾値（FTP）は、トレーニングを積んだサイクリストが1時間維持できる運動強度です。パワーゾーンを現時点のコンディションに合わせるために、FTP値を更新してください。そうすることで的確な強度でトレーニングを進めることができます。";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "ベストな結果を得るために、テスト中ずっと同じパワーレベルを維持してください。途中でスローダウンすると、結果の正確性が低下します。\n\n最初のテストでは、テスト中一定のパワーを維持するため、あなたの過去の情報に基づいてパワー目標を設定します。テストを繰り返し行う過程では、前に行ったテストの結果に基づき目標を設定します。";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "サイクリングのパフォーマンスを継続してモニタリングし、あなた個人のパワーゾーンを把握するためにも、このテストは役立つでしょう。機能的体力閾値（FTP）の結果を体重で割った値で、他の同性サイクリストとの比較もできます。設定で体重の更新を忘れないようにして下さい。";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "トレーニング中にスピードと距離をチェックするには、常時またはアプリ使用中に、Flowが正確な位置情報を把握できるよう設定を許可にしておく必要があります。";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "トレーニング中にスピードと距離をチェックするには、Flowが正確な位置情報を把握できるよう設定を許可しておく必要があります。";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "トレーニング中にスピードと距離をチェックするには、Flowが:\n- 常時またはアプリ使用中に位置情報を把握できるよう設定を許可にしておく、または常時\n- 正確な位置情報を使う必要があります。";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "バッテリー %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "「元に戻る」を選択すると、もとのタイミングに戻すことができます。";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "VO2maxのスコア、年齢、性別、をもとに、あなたのフィットネスレベルを「とても低い」～「最高」のランクに分けて示します。";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "研究開発 (R&D)";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "自分のデータが%@のために使用されることを希望しません。データを使用することは、Polarが製品・サービスを開発および改善するのに役立ちます。";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "研究開発 (R&D)";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "睡眠＆体内リズム";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "有効な予測には、過去7日間の毎晩の睡眠データが必要です";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "<b>睡眠効果スコア</b>のトレンドは、睡眠が最近のあなたの日々にどれくらいの効果を与えているかを示すものです。スコアには<i>最高</i>、<i>良い</i>、<i>普通</i>、または<i>まあまあ</i>があります。睡眠効果スコアが「最高」であることは、良い睡眠がもたらす恩恵をすべて獲得し、一日のサポートに役立てていることを意味します。睡眠負債がたまっている場合は、睡眠効果スコアは「まあまあ」となる場合があります。";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "あなたの平均<b>睡眠時間</b>が <i>希望の睡眠時間</i> の設定とかけ離れている場合は、次の可能性を考慮してください: \n\n- 多くの睡眠負債を抱えている可能性\n\n- 本当に必要な睡眠量に合わせて設定を微調整する必要があるかどうか";

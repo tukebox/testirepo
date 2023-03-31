@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Notificações";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Para sincronizar o seu V650 com a aplicação Flow, selecione 'Sincronizar com móvel' no menu lateral do seu V650.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% de FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Para obter comentários precisa de treinar, no mínimo, 10 minutos acima de 50% do valor calculado para a sua frequência cardíaca máxima.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Treino Base e Estacionário";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "A sincronização de dados com o %@ foi concluída.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Falhou a sincronização de dados com o %@. Tente novamente.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Estado da bateria após a sincronização: %@%%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Verifique se tem o Bluetooth ativado no telemóvel e no dispositivo e mantenha-os próximos um do outro durante a configuração. Em alternativa, poderá fazer a configuração com o computador, caso o pretenda.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "O peso que acabou de medir (%@) difere em mais de 10%% do seu peso anterior (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Está disponível uma atualização para o seu %@.\nA atualização pode demorar alguns minutos.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Com as zonas de velocidade/ritmo, pode selecionar e monitorizar facilmente as intensidades de treino. As zonas aqui apresentadas são as zonas predefinidas.\n\nSe selecionar as zonas Personalizadas, poderá alterar todos os limites.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Equilíbrio esquerda/direita";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Guardar e sincronizar";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Pesquisar ou filtrar por tipo";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Aceito que a <b>Polar recolha e processe os meus dados pessoais sensíveis</b> tais como a frequência cardíaca, conforme descrito no Aviso de privacidade da Polar.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Ho\U00ADra";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Tem\U00ADpo na zo\U00ADna de rit\U00ADmo";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Su\U00ADbi\U00ADda";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Des\U00ADci\U00ADda";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Ve\U00ADlo\U00ADci\U00ADda\U00ADde ver\U00ADti\U00ADcal";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "E\U00ADqui\U00ADlí\U00ADbri\U00ADo es\U00ADquer\U00ADda/di\U00ADrei\U00ADta";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Risco de lesão e de doença</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Como consigo manter o meu estado produtivo?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Devo tentar manter o meu estado sempre como produtivo?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Grande parte do sono profundo ocorre durante <b>a primeira metade da noite</b>. Em média, o sono profundo corresponde a cerca de 15% do tempo de sono dos adultos. Um valor próximo de 17% corresponde à pontuação máxima deste componente da pontuação do sono. Percentagens mais elevadas ou mais baixas diminuem a sua pontuação.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "O termo REM significa movimento rápido dos olhos. No sono REM, os seus músculos estão relaxados, mas o seu cérebro está ativo. O sono REM <b>regenera a sua mente</b> e melhora a <b>memória</b> e a <b>aprendizagem</b>. Esta é a fase onde ocorrem a maior parte dos sonhos.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "O estado do Nightly Recharge™ indica de que forma o seu corpo conseguiu recuperar do treino e do esforço durante o sono. Combina informações medidas de forma automática sobre o sono e o sistema nervoso autónomo (SNA). O seu coração é a chave para obter tais informações.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "O seu SNA controla dois conjuntos de ações que o seu corpo pode adotar: se é tempo de «lutar ou fugir» ou se é tempo de «descansar e digerir». Quanto mais elevada for a carga do SNA, maior será o domínio da componente de descanso e digestão do SNA por comparação com o seu <b>nível habitual</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "É um bom dia para fazer exercício físico, mas não se exceda caso sinta o seu corpo a dizer \"não\".";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Hoje pode treinar mesmo que não se sinta 100% disposto a fazê-lo.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Treine à vontade! Consulte o seu relógio para obter orientações de treino detalhadas!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Hoje pode tornar-se num campeão, avance sem receio!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "A funcionalidade Sleep Plus Stages™ mede a quantidade e a qualidade do seu sono. Todas as manhãs, fornece uma pontuação numérica do sono (carga do sono) que reflete a qualidade do seu sono quando comparado com os indicadores de uma boa noite de sono baseados na ciência do sono atual.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "À noite, reserve algum tempo para relaxar. Poderá ajudá-lo a adormecer mais depressa e a dormir mais tempo.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Reserve um período de tempo para fazer o exercício respiratório orientado Serene. Se efetuado regularmente, o Serene pode ajudar a melhorar a qualidade do seu sono e o seu bem-estar geral.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Favoritos no %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "O <b>consumo máximo de oxigénio (VO2max)</b> é a capacidade máxima do seu corpo para consumir oxigénio durante o esforço máximo.\n\nAtualize o seu VO2max para garantir que lhe conseguimos fornecer os dados mais precisos e relevantes. O VO2max afeta todos os cálculos que envolvam calorias.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "O valor do limiar de potência funcional (FTP) reflete a intensidade que um ciclista bem treinado consegue manter durante uma hora.\n\nAtualize o valor do seu FTP para manter as suas zonas de potência atualizadas, o que lhe permitirá treinar na intensidade correta.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Para obter resultados mais fiáveis, permaneça no mesmo nível de potência durante todo o teste. Se abrandar, fará com que os resultados do teste não sejam tão fiáveis.\n\nNo primeiro teste, iremos orientá-lo com um objetivo de potência baseado no seu historial. Conseguirá, assim, manter uma potência constante durante todo o teste. Quando repetir o teste, o objetivo irá basear-se nos primeiros resultados.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Utilize o teste para monitorizar o seu desempenho no ciclismo e para definir as suas zonas de potência individuais. O resultado do FTP dividido pelo seu peso permitirá fazer uma comparação com outros ciclistas do mesmo sexo. Não se esqueça de atualizar o seu peso nas suas definições.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\nem %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ em %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ em %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Para obter a velocidade e a distância durante o treino, é necessário dar permissão ao Flow para utilizar a sua localização durante o uso da aplicação ou sempre.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Para obter a velocidade e a distância durante o treino, é necessário dar permissão ao Flow para utilizar sempre a sua localização exata.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Para obter a velocidade e a distância durante o treino, é necessário dar permissão ao Flow para:\n- aceder à sua localização durante o uso da aplicação ou\n- utilizar sempre a sua localização exata";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Bateria %@%%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Pode selecionar a opção \“Reverter\” para repor o tempo de sono original";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Com base na pontuação do VO2max, na idade e no sexo, definimos o seu nível de fitness numa escala que varia entre 'Muito baixo' e 'Elite'.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Pesquisa e desenvolvimento";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Não quero que os meus dados sejam utilizados para %@. A utilização dos dados ajuda a Polar a desenvolver e a melhorar produtos e serviços.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "pesquisa e desenvolvimento";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Sono & ritmo interno";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "A sua previsão só é válida se tiver dados do sono de todas as noites dos últimos 7 dias";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "A tendência da <b>pontuação do estímulo</b> mostra como o sono melhorou os seus dias recentemente. A sua pontuação pode ser <i>excelente</i>, <i>boa</i>, <i>razoável</i> ou <i>moderada</i>. Uma pontuação de estímulo Excelente significa que obtém todos os benefícios de um sono de boa qualidade para realizar os afazeres do dia. A sua pontuação do estímulo pode ser moderada se, por exemplo, tiver muito sono atrasado.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Se o seu <b>tempo médio de sono</b> não estiver nem perto do seu <i>tempo de sono preferido</i>, pode ser útil considerar:\n\n- se possivelmente tem sono atrasado\n\n- se deve ajustar a configuração para corresponder à sua necessidade de sono real";

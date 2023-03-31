@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Obvestila";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Če želite kolesarski računalnik V650 sinhronizirati z aplikacijo Polar Flow, izberite »Sinhroniziraj z mobilno napravo« (»Sync with Mobile«) v stranskem meniju V650.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Če želite dobiti povratno informacijo, morate vsaj 10 minut trenirati na ravni, ki je več kot 50 % višja od vaše izračunane maksimalne vrednosti srčnega utripa.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Osnovni trening in trening z enakomernim tempom";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sinhronizacija podatkov s/z %@ zaključena.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Sinhronizacija podatkov s/z %@ zaključena. Poskusite znova.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Status baterije po sinhronizaciji: %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Prepričajte se, da je funkcija Bluetooth vklopljena tako na vaši napravi kot na vašem telefonu, med namestitvijo pa naj bosta postavljena eden ob drugem. Namestitev lahko opravite tudi preko računalnika.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Teža, ki ste jo pravkar izmerili (%@) se za več kot 10 %% razlikuje od vaše prejšnje teže (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Licence tretjih oseb\n\nAplikacija Polar Flow uporablja odprtokodno programsko opremo tretjih oseb. Spodaj si lahko ogledate, katero programsko opremo uporabljamo, skupaj z vsemi ustreznimi navedbami pravic intelektualne lastnine in drugimi opombami, dovoljenji ter pripoznanji.\n\nZahvaljujemo se razvijalcem programske opreme.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Na voljo je posodobitev za %@.\nPosodabljanje lahko traja nekaj minut.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Z območji hitrosti/tempa lahko enostavno izberete in spremljate intenzivnost treninga. Območja, ki jih vidite tukaj, so privzeta območja.\n\nČe izberete območja po meri, lahko spremenite vse mejne vrednosti.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Razmerje moči leva/desna";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Shrani in sinhroniziraj";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Iščite ali razvrstite glede na vrsto";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Strinjam se, da <b>Polar zbira in obdeluje moje občutljive osebne podatke</b>, npr. podatke o srčnem utripu, kot je to opisano v Obvestilu o varovanju zasebnosti Polar.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Čas v dne\U00ADvu";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Čas v ob\U00ADmoč\U00ADju tem\U00ADpa";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Vzpon";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Spust";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Ver\U00ADti\U00ADkal\U00ADna hit\U00ADrost";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Raz\U00ADmer\U00ADje mo\U00ADči le\U00ADva/des\U00ADna";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Tveganje za poškodbe in bolezni</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Kako poskrbim, da bo moj status produktiven?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Moram svoj status ves čas ohranjati produktiven?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Večina globokega spanca se odvija v <b>prvi polovici noči</b>. Povprečna količina globokega spanca za odraslo osebo predstavlja 15 % celotnega časa spanja. Približno 17 % predstavlja največji rezultat za to komponento rezultata spanca. Višji ali nižji odstotki zmanjšujejo vaš rezultat.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "Kratica REM v angleščini pomeni hitro premikanje oči. Med REM-spancem so vaše mišice sproščene, vaši možgani pa so aktivni. REM-spanec <b>regenerira vaš um</b> ter izboljša sposobnost <b>pomnjenja</b> in <b>učenja</b>. V tej fazi najpogosteje sanjamo.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Status Nightly Recharge™ prikazuje, v kolikšni meri se je vaše telo med spanjem regeneriralo od treninga in stresa. Združuje samodejno izmerjene podatke o vašem spancu in avtonomnem živčnem sistemu (angl. ANS). Ključni dejavnik za pridobivanje teh podatkov je vaše srce.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "Vaš AŽS nadzoruje dva sklopa aktivnosti, ki jih opravlja vaše telo: ne glede na to, ali je čas za »boj ali beg« ali čas za »počitek in regeneracijo«. Višji kot je status AŽS, bolj prevladuje tisti del AŽS, ki opravlja aktivnosti »počitka in regeneracije«, v primerjavi z vašo <b>običajno ravnjo</b>.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Danes je dober dan za vadbo, a ne pretiravajte, če vam telo pravi \»ne\«.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Danes lahko vadite, čeprav se morda počutite, kot da niste 100-odstotno pripravljeni.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Dajte si duška! Podrobna navodila za trening najdete v svoji uri.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Danes lahko postanete prvak, gremo!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Funkcija Sleep Plus Stages™ meri količino in kakovost vašega spanca. Vsako jutro vam pokaže številčni rezultat spanca (status spanca), ki odraža, kako dobro ste spali glede na kazalnike dobrega spanca, ki temeljijo na aktualni znanosti spanja.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Prihranite si čas za večerno umirjanje. Tako boste lahko zaspali prej in spali dlje.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Vzemite si trenutek zase z vodeno dihalno vajo Serene. Če jo izvajate redno, vam lahko dihalna vaja Serene pomaga izboljšati kakovost spanca in splošno dobro počutje.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Priljubljene na %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "Vaš <b>maksimalni sprejem kisika (VO2max)</b> je vaša maksimalna zmogljivost sprejema kisika med maksimalnim naporom.\n\nPosodobite svoj maksimalni sprejem kisika in zagotovite, da boste prejemali najbolj točne in ustrezne podatke. Vrednost maksimalnega sprejema kisika vpliva na vse izračune, ki zajemajo kalorije.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Funkcionalni prag zmogljivosti (FTP) odraža intenziteto, s katero lahko dobro natreniran kolesar kolesari eno uro.\n\nPosodobite svojo vrednost FTP in s tem tudi svoja območja moči, kar vam bo pomagalo pri zagotavljanju pravilne intenzivnosti vaše vadbe.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Za kar najbolj zanesljive rezultate vzdržujte enako raven moči od začetka do konca testa. Če boste popustili, bodo rezultati testa manj zanesljivi.\n\nMed prvim testom vas bomo vodili s ciljno močjo na podlagi vaših osnovnih podatkov. To vam bo pomagalo ohranjati enakomerno moč od začetka do konca testa. Ob ponovitvi ali ponovitvah testa bo ciljna moč temeljila na rezultatih predhodnih testov.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Test lahko uporabljate za spremljanje svoje kolesarske zmogljivosti in za določitev individualnih območij moči. Na podlagi FTP-rezultata, deljenega s telesno težo, se lahko primerjate z drugimi kolesarji istega spola. Ne pozabite v nastavitvah posodobiti podatka o telesni teži.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\nin %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ v %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ v %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti dostop do lokacije med uporabo aplikacije ali neprestano.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti dostop do vaše točne lokacije.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti:\n- dostop do lokacije med uporabo aplikacije ali neprestan\n- dostop do vaše točne lokacije";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Baterija %@%%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Izberete lahko »Zamenjaj nazaj«, če želite uporabljati prvotno beleženje časa.";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Vašo raven fizične pripravljenosti določimo na podlagi vašega rezultata za VO2max, starosti in spola, in sicer na lestvici od \"zelo nizko\" do \"vrhunsko\".";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Raziskave in razvoj";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Ne želim, da se moji podatki uporabljajo za %@. Polar lahko s pomočjo teh podatkov razvija in izboljšuje izdelke ter storitve.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "raziskave in razvoj";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Spanje in notranji ritem";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Vaša napoved je veljavna, ko zberemo podatke o spanju za vsako noč v zadnjih 7 dneh";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Trend <b>ocena energije</b> prikazuje, v kolikšni meri se je vaš spanec v zadnjih dneh okrepil. Rezultat je lahko <i>odličen</i>, <i>dober</i>, <i>zadovoljiv</i> ali <i>nezadosten</i>. Če je ocena odlična, to pomeni, da boste čez dan deležni vseh koristi dobrega spanca. Če je rezultat nezadosten, to na primer pomeni, da velikokrat premalo spite.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Če vaš povprečni <b>čas spanja</b> ni niti približno blizu vašega <i>želenega časa spanja</i>, ki ste ga nastavili, je morda dobro upoštevati naslednje:\n\n- morda velikokrat spite premalo;\n\n- morda morate prilagoditi nastavitev, da bo ustrezala vašemu dejanskemu času spanja.";

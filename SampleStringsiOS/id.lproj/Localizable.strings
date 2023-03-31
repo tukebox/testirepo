@@ -1,0 +1,191 @@
+/*
+ Localizable.strings
+ PolarFlow
+
+ Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+ 
+ Copyright © 2023 Polar Electro Oy. All rights reserved.
+ */
+
+/* Notifications main title */
+"MAIN_TITLE_NOTIFICATIONS" = "Notifikasi";
+
+/* How to sync: V650 */
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Untuk menyinkronkan V650 dengan aplikasi Flow, pilih 'Sinkronkan dengan Ponsel' dari menu samping V650 Anda.";
+
+/* % of FTP unit */
+"UNIT_PERCENT_OF_FTP" = "% dari FTP";
+
+/* Benefit no description */
+"BENEFIT_NO_DESCRIPTION" = "Anda harus berlatih setidaknya 10 menit di atas 50% nilai denyut jantung maksimal Anda untuk mendapatkan umpan balik.";
+
+/* Basic steady state training benefit (SRP.02038.71.61) */
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Latihan Dasar & Stabil";
+
+/* Sync notification success */
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Menyinkronkan data dengan %@ selesai.";
+
+/* Sync notification failed */
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Menyinkronkan data dengan %@ gagal. Harap coba lagi.";
+
+/* Battery status title in devices view */
+"DEVICES_BATTERY_STATUS_TITLE" = "Status baterai saat disinkronkan: %@ %%";
+
+/* Registration do initial mobile FTU setup info text */
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Silakan pastikan Bluetooth kedua ponsel dan perangkat Anda telah menyala, dan tetap dekatkan satu sama lain selama penyetelan. Alternatif lain, Anda dapat melakukan penyetelan dengan komputer Anda jika Anda ingin.";
+
+/* Balance weight measurement*/
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Berat badan yang baru Anda timbang (%@) lebih besar 10%% dari berat badan sebelumnya (%@).";
+
+/* into text for licenses */
+"LICENSE_INTRO" = "Lisensi pihak ketiga\n\nPolar Flow menggunakan software sumber terbuka dari pihak ketiga yang khusus. Di bawah ini Anda dapat melihat software mana yang kami telah gunakan, dan juga hak cipta yang berlaku serta pemberitahuan, izin dan pengakuan lain.\n\nKami berterima kasih pada para pengembang.";
+
+/* A pop-up is shown to the user, which informs that a new SW update is available. */
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Terdapat pembaruan yang tersedia untuk %@ Anda.\nPembaruan dapat berlangsung beberapa menit.";
+
+/* Sport profiles info text for speed or pace zones */
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Dengan zona kecepatan/laju Anda dapat memilih dan memantau intensitas latihan dengan mudah. Zona yang Anda lihat di sini adalah zona Default.\n\nJika Anda memilih zona Kustom, semua batas dapat diubah.";
+
+/* Sport profiles training display item */
+"SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Keseimbangan kiri/kanan";
+
+/* FTU Save and sync */
+"FTU_SAVE_SYNC" = "Simpan dan sinkronkan";
+
+/* Training session list view search bar placeholder text */
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Cari atau saring berdasarkan jenis";
+
+/* EUGDPR consents: settings */
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Saya menyetujui bahwa <b>Polar dapat mengumpulkan dan memproses data pribadi sensitif saya</b> seperti denyut jantung yang dijelaskan di Pemberitahuan Privasi Polar.";
+
+/* Training display item sport profile settings - time of day*/
+"TDI_TIME_OF_DAY" = "Waktu";
+
+/* Training display item sport profile settings - time in pace zone*/
+"TDI_TIME_IN_PACE_ZONE" = "Wak\U00ADtu pa\U00ADda zo\U00ADna la\U00ADju";
+
+/* Training display item sport profile settings - ascent*/
+"TDI_ASCENT" = "Pen\U00ADda\U00ADki\U00ADan";
+
+/* Training display item sport profile settings - descent*/
+"TDI_DESCENT" = "Pe\U00ADnu\U00ADru\U00ADnan";
+
+/* Training display item sport profile settings - vertical speed*/
+"TDI_VERTICAL_SPEED_MOVING_AVG" = "Ke\U00ADce\U00ADpa\U00ADtan ver\U00ADti\U00ADkal";
+
+/* Training display item sport profile settings - left/right balance*/
+"TDI_CURRENT_POWER_LEFT_RIGHT_BALANCE" = "Ke\U00ADse\U00ADim\U00ADba\U00ADngan ki\U00ADri/ka\U00ADnan";
+
+/*cardio load*/
+"CARDIO_LOAD_BUILDUP_INFO_INJURY_AND_ILLNESS_RISK" = "<b>Risiko cedera & sakit</b>";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_SIX" = "Bagaimana cara menjaga status saya tetap produktif?";
+
+/*training load contextual info drawers*/
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Haruskah saya berusaha menjaga status saya tetap produktif?";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Kebanyakan tidur lelap terjadi selama <b>paruh pertama malam hari</b>. Rata-rata, tidur lelap sekitar 15% dari waktu tidur orang dewasa. Sekitar 17% memberi Anda nilai maksimum untuk komponen nilai tidur ini. Persentase yang lebih tinggi atau rendah mengurangi nilai Anda.";
+
+/* Sleep regeneration info popup content */
+"SLEEP_REGENERATION_POPUP_PAGE3_PARA1" = "REM adalah gerakan mata yang cepat. Dalam tidur REM, otot-otot Anda rileks tetapi otak Anda aktif. Tidur REM <b>memulihkan pikiran Anda</b>, dan meningkatkan <b>memori</b> dan <b>pembelajaran</b>. Ini adalah tahapan ketika mimpi sebagian besar terjadi.";
+
+/* Empty state for Nightly Recharge */
+"NIGHTLY_RECHARGE_EMPTY_STATE_DESCRIPTION" = "Status Nigthly Recharge™ menampilkan bagaimana tubuh Anda mampu memulihkan dari latihan dan mendorong selama tidur. Hal tersebut mengkombinasikan secara otomatis informasi yang terukur mengenai tidur dan sistem nervous otonomi (ANS). Jantung Anda adalah kunci pada kilasan ini.";
+
+/* Nightly Recharge status info popup content */
+"NIGHTLY_RECHARGE_STATUS_POPUP_ANS_CHARGE_PARA2" = "ANS Anda mengontrol dua rangkaian tindakan yang dapat dilakukan tubuh Anda: apakah sudah waktunya untuk bertarung atau terbang, atau jika sudah waktunya untuk beristirahat dan mencernanya. Semakin tinggi pengisian ANS, semakin tinggi dominasi bagian istirahat-dan-cerna ANS dibandingkan dengan <b>tingkat biasa</b> Anda.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E73" = "Ini hari yang baik untuk latihan, tetapi jangan berlebihan jika tubuh Anda mengatakan \"tidak\".";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E92" = "Anda dapat melatih hari ini, bahkan jika Anda mungkin merasa tidak 100% siap untuk itu.";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E123" = "Ayo! Lihat jam tangan Anda untuk panduan latihan yang detail!";
+
+/* Tip for exercise */
+"EXERCISE_TIP_E181" = "Hari ini Anda bisa menjadi juara, lakukanlah!";
+
+/* Empty state for Sleep Plus Stages */
+"SLEEP_PLUS_STAGES_EMPTY_STATE_DESCRIPTION" = "Fitur Sleep Plus Stages™ mengukur jumlah dan kualitas tidur Anda. Setiap pagi, itu menunjukkan Anda nilai tidur numerik (pengisian tidur) yang mencerminkan seberapa baik Anda tidur dibandingkan dengan indikator tidur nyenyak berdasarkan ilmu tidur saat ini.";
+
+/* Sleep tip category: General */
+"SLEEP_TIP_G643" = "Cadangan waktu untuk menenangkan diri di malam hari. Ini mungkin membuat Anda tertidur lebih awal dan tidur lebih lama.";
+
+/*Ignite ftu info screen*/
+"IGNITE_FTU_SERENE_PARA" = "Luangkan waktu sejenak untuk diri sendiri dengan latihan napas yang dipandu Serene. Dilakukan secara teratur, Serene dapat membantu Anda meningkatkan kualitas tidur dan kesehatan Anda secara menyeluruh.";
+
+/* Favorites library: Device favorites */
+"FAV_LIB_FAVS_ON_DEVICE_HEADER" = "Favorit pada %@ (%@/%@)";
+
+/* Smart Coaching Link, localized resource because no redirect at polar.com */
+"SMART_COACHING_URL" = "https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_ios&utm_medium=in-app&utm_campaign=smartcoaching_liftup";
+
+/*Running test - update*/
+"RUNNING_TEST_VO2MAX_INFO" = "<b>Serapan oksigen maksimal (VO2max)</b> Anda adalah kapasitas maksimum tubuh Anda untuk mengonsumsi oksigen selama upaya maksimal.\n\nPerbarui VO2max Anda untuk memastikan kami dapat memberikan Anda data yang paling akurat dan relevan. VO2max memengaruhi semua perhitungan yang melibatkan kalori.";
+
+/* Cycling test: FTP information */
+"CYCLING_TEST_FTP_INFO" = "Nilai daya ambang fungsional (FTP) mencerminkan intensitas yang dapat dipertahankan oleh seorang pesepeda yang terlatih dengan baik selama satu jam.\n\nPerbarui nilai FTP Anda untuk memperbarui zona daya, yang akan membantu Anda berlatih dengan intensitas yang tepat.";
+
+/* Cycling test info pop-up 2 */
+"CYCLING_TEST_INFO2" = "Untuk hasil yang paling dapat diandalkan, pastikan Anda tetap pada tingkat daya yang sama selama uji. Perlambatan akan membuat hasilnya kurang dapat diandalkan.\n\nDalam uji pertama, kamu memandu Anda dengan target daya yang berdasarkan pada informasi latar belakang Anda. Ini akan membantu Anda menjaga daya stabil melalui uji. Ketika Anda mengulangi uji, target berdasarkan pada hasil sebelumnya.";
+
+/* Cycling test info pop-up 3 */
+"CYCLING_TEST_INFO3" = "Gunakan uji untuk melacak kinerja bersepeda Anda dan untuk menentukan zona daya individu Anda. Hasil FTP Anda yang dibagi dengan berat badan Anda memungkinkan untuk membandingkan dengan pesepeda lain dari jenis kelamin yang sama dengan Anda. Ingatlah untuk memperbarui berat badan Anda dalam pengaturan Anda.";
+
+/* Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. */
+"PS_DIARY_COMPLETE_TRAINING_TIME" = "%1$@:\ndalam %2$@";
+
+/* Polestar timeline items: indoor sportsing: calories */
+"PS_DIARY_COMPLETE_TRAINING_CALORIES" = "%1$@:\n%2$@";
+
+/* Polestar timeline items: outdoor sportsing: distance in an amount of time */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_TIME" = "%1$@:\n%2$@ dalam %3$@";
+
+/* Polestar timeline items: outdoor sportsing: (linebreak) distance, calories */
+"PS_DIARY_COMPLETE_TRAINING_DISTANCE_CALORIES" = "%1$@:\n%2$@ %3$@";
+
+/* Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. */
+"PS_DIARY_TRAINING_TIME_CALORIES" = "%1$@:\n%2$@ dalam %3$@";
+
+/* Polestar error cases: Location is off */
+"RECORD_EXERCISE_LOCATION_OFF" = "Untuk mendapatkan kecepatan dan jarak selama latihan, Anda harus memperbolehkan Flow untuk menggunakan lokasi Anda selama menggunakan aplikasi atau selalu.";
+
+/* Polestar error cases: Precise location is off */
+"RECORD_EXERCISE_PRECISE_LOCATION_OFF" = "Untuk mendapatkan kecepatan dan jarak selama latihan, Anda harus memperbolehkan Flow untuk menggunakan lokasi tepat Anda.";
+
+/* Polestar error cases: Location and precise location are off */
+"RECORD_EXERCISE_LOCATION_OFF_PRECISE_LOCATION_OFF" = "Untuk mendapatkan kecepatan dan jarak selama latihan, Anda harus memperbolehkan Flow untuk:\n- mengakses lokasi Anda selama menggunakan aplikasi atau selalu\n- menggunakan lokasi tepat Anda.";
+
+/* Battery status*/
+"BATTERY_STATUS_PERCENTAGE" = "Baterai %@ %%";
+
+/* sleep edit */
+"SLEEP_EDIT_RULES_POPUP_RULE_FOUR" = "Anda dapat memilih 'Alihkan kembali' untuk mengembalikan waktu semula";
+
+/* walking test */
+"WALKING_TEST_INFO_PART_THREE" = "Berdasarkan skor VO2max Anda, usia dan jenis kelamin, kami mendefinisikan tingkat kebugaran Anda dalam skala mulai dari 'Sangat rendah' hingga 'Elit'.";
+
+/* R&D refusal tick box header */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_HEADER" = "Penelitian dan pengembangan";
+
+/* R&D refusal tick box text */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_TEXT" = "Saya tidak ingin data saya digunakan untuk %@. Menggunakan data membantu Polar mengembangkan dan meningkatkan produk dan layanan.";
+
+/* R&D refusal tick box variable link */
+"SETTINGS_REFUSE_DATA_USE_FOR_RD_PURPOSES_LINK" = "penelitian dan pengembangan";
+
+/* Alertness */
+"SLEEP_AND_INTERNAL_RHYTHM" = "Ritme tidur & internal";
+
+/* Alertness */
+"BOOST_FROM_SLEEP_ACCURACY_DISCLAIMER" = "Ramalan cuaca Anda valid jika Anda memiliki data tidur setiap malam selama 7 hari terakhir";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_ONE_TEXT_ONE" = "Tren <b>skor boost</b> menunjukkan bagaimana tidur telah meningkatkan hari-hari Anda baru-baru ini. Skor Anda mungkin <i>bagus sekali</i>, <i>baik</i>, <i>cukup</i>, atau <i>sedang</i>. Skor boost yang bagus sekali berarti Anda mendapatkan semua manfaat tidur yang baik untuk mendukung hari Anda. Skor boost Anda mungkin sedang jika Anda, misalnya, memiliki banyak utang tidur.";
+
+/* Alertness-related info screens */
+"TRENDS_INFO_SCREEN_TWO_TEXT_TWO" = "Jika <b>waktu tidur</b> rata-rata Anda bahkan tidak mendekati pengaturan <i>Pilihan waktu tidur</i> Anda, mungkin berguna untuk mempertimbangkan:\n\n- jika Anda mungkin memiliki utang tidur\n\n- apakah Anda harus mengubah pengaturan agar sesuai dengan kebutuhan tidur Anda yang sebenarnya";

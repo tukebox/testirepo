@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_jpn.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">お知らせ</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">V650をFlowアプリと同期するには、V650のサイドメニューから%1$sを選択します。</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">％FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">フィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">基礎と安定状態のトレーニング</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">%1$sとのデータの同期が完了しました。</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">%1$sとのデータの同期に失敗しました。もう一度やり直してください。</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">同期後のバッテリー残量： %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">設定中はスマートフォンとデバイスのBluetoothをオンにし、お互いをそばに置いてください。またコンピュータから設定を行うこともできます。</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">測定した体重（%1$s）は、前回の体重（%2$s）に比べて10 %%を超える差異が見られます。</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">%1$s (%2$s)の更新情報があります。</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">スピード/ペースゾーンを利用すると、簡単にトレーニング強度を選択して、モニタリングできます。ここでは、デフォルトのゾーンが表示されています。\n\nカスタムゾーンを選択すると、すべてのリミットが変更できます。</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">左/右バランス</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">保存して同期</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">タイプ別に検索、’または絞り込む</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">次の内容に関し同意します： <b>Polarが</b> 「Polarプライバシーに関するお知らせ」に機密データ対象内容として記載している、心拍数などの、個人の機密に関わるデータを収集及び使用することに同意します。 </string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">時刻</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">ペースゾーン\u2060内の\u2060時間</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">上昇</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">下降</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">垂直スピード</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">左/右バランス</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>外傷 \&amp; 病気のリスク</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">私のステータスをさらに効果的にするにはどうすればよいですか？</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">常に効果的なステータス状態を保つべきですか？</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">深い睡眠状態は、夜間の時間帯の<b>最初の半分</b>の間に発生します。成人の平均データとして、睡眠時間のおよそ15%がこの深い睡眠にあたるといわれています。これが約17%に到達すると、この項目での睡眠スコアが最大値となります。パーセント値が変動しても、スコアが減ることはありません。</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM（レム）とは、Rapid Eye Movement（敏速な眼の動き）を意味します。レム睡眠におちると、筋肉がリラックスしますが、脳内活動が活発化します。レム睡眠は、<b>心的な回復を促し</b>、<b>記憶力</b>や<b>学習能力を</b>伸ばす効果があります。このステージにある状態に夢を見る事が多いと考えられます。</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ ステータスは、トレーニングやストレスなどの負荷要素から、睡眠中にあなたの身体がどの程度回復したかを示します。 この方法で抽出したあなたの睡眠データと自律神経系（ANS）の測定データを自動的に照合します。心臓の働きが、この分析に重要な意味合いをもたらします。</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ANS は、身体の2種類の状態をつかさどります：一つは闘争または逃走反応時、もう一つは休息・消化時です。自律神経ステータスの値が高いほど、<b>通常のレベルと</b>比較した時に、ANSにおける闘争または逃走反応の割合が高めであると考えられます。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">今日はエクササイズに励むといいでしょう。但し頑張りすぎると、身体が\&quot;NO!\&quot;と悲鳴をあげるかもしれませんよ。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">今日は100％力がみなぎる感じではないかもしれませんが、トレーニングをしても大丈夫です。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">さあやってみましょう！詳しいトレーニングガイダンスを腕時計で確認しましょう。</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">きっと今日は頂点に立つことができます。さあチャレンジ！</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ 機能で、睡眠量とその質を測定できます。現在の睡眠における科学的な見解において、「良質」とされる睡眠の基準と比較したときに、あなたがどの程度良く眠れたかどうかを、毎朝睡眠スコア（睡眠ステータス）として、数字で表示します。</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">夜、心身を落ち着ける時間をとってみてください。眠りに早くつくことができ、睡眠時間も長くなります。</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Serene 呼吸エクササイズでひと休み。定期的に行うと睡眠の質を向上するだけでなく、全体的な生活の質もよくすることができます。</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">%1$s のお気に入り（%2$s/%3$s）</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/ja/smart-coaching?utm_source=flow_featureguidance_android\&amp;utm_medium=in-app\&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Your <b>最大酸素摂取量（VO2max）</b>とは、最大限の身体能力を発揮している時に、あなたの身体が最大限に摂取できる酸素の量を示します。\n\n精度と\&apos;有用性の高いデータを抽出するため、VO2max値の更新を行ってください。VO2max値は、カロリーに関わるすべての数値に影響を及ぼします。</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">機能的体力閾値（FTP）は、トレーニングを積んだサイクリストが1時間維持できる運動強度です。パワーゾーンを現時点のコンディションに合わせるために、FTP値を更新してください。そうすることで的確な強度でトレーニングを進めることができます。</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">ベストな結果を得るために、テスト中ずっと同じパワーレベルを維持してください。途中でスローダウンすると、結果の正確性が低下します。\n\n最初のテストでは、テスト中一定のパワーを維持するため、あなたの過去の情報に基づいてパワー目標を設定します。テストを繰り返し行う過程では、前に行ったテストの結果に基づき目標を設定します。</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">サイクリングのパフォーマンスを継続してモニタリングし、あなた個人のパワーゾーンを把握するためにも、このテストは役立つでしょう。機能的体力閾値（FTP）の結果を体重で割った値で、他の同性サイクリストとの比較もできます。設定で体重の更新を忘れないようにして下さい。</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n%2$sで完了</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s %3$sで</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s %3$sで</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">トレーニング中にスピードと距離をチェックするには、Flowが位置情報に常にアクセスできるよう設定を許可しておく必要があります。</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">トレーニング中にスピードと距離をチェックするには、Flowが正確な位置情報を把握できるよう設定を許可しておく必要があります。</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">トレーニング中にスピードと距離をチェックするには、Flowが:\n- 常時またはアプリ使用中に位置情報を把握できるよう設定を許可にしておく、または常時\n- 正確な位置情報を使う必要があります。</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">バッテリー %1$s %%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">「元に戻る」を選択すると、もとのタイミングに戻すことができます。</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">VO2maxのスコア、年齢、性別、をもとに、あなたのフィットネスレベルを「とても低い」～「最高」のランクに分けて示します。</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">研究開発 (R\&amp;D)</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">自分のデータが%1$sのために使用されることを希望しません。データを使用することは、Polarが製品・サービスを開発および改善するのに役立ちます。</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">研究開発 (R\&amp;D)</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">睡眠＆体内リズム</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">有効な予測には、過去7日間の毎晩の睡眠データが必要です</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one"><b>睡眠効果スコア</b>のトレンドは、睡眠が最近のあなたの日々にどれくらいの効果を与えているかを示すものです。スコアには<i>最高</i>、<i>良い</i>、<i>普通</i>、または<i>まあまあ</i>があります。睡眠効果スコアが「最高」であることは、良い睡眠がもたらす恩恵をすべて獲得し、一日のサポートに役立てていることを意味します。睡眠負債がたまっている場合は、睡眠効果スコアは「まあまあ」となる場合があります。</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">あなたの平均<b>睡眠時間</b>が <i>希望の睡眠時間</i> の設定とかけ離れている場合は、次の可能性を考慮してください: \n\n- 多くの睡眠負債を抱えている可能性\n\n- 本当に必要な睡眠量に合わせて設定を微調整する必要があるかどうか</string>
+
+</resources>

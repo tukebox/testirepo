@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_tur.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Bildirimler</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">V650\&apos;nizi Flow uygulaması ile senkronize etmek için V650\&apos;nizin yan menüsünden %1$s seçeneğini seçin.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">FTP %</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Egzersizden fayda sağlamak istiyorsanız hesaplanan maksimum kalp atış hızı değerinizin %50\&apos;sinin üzerinde bir kalp atış hızıyla en az 10 dakika boyunca egzersiz yapmanız gerekir.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Temel \&amp; kararlı durum egzersizi</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">%1$s ile veri eşitleme işlemi tamamlandı.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">%1$s ile veri eşitleme işlemi başarısız oldu. Lütfen yeniden deneyin.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Eşitlendiğinde pil durumu: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Hem telefonunuz hem de cihazınızdaki Bluetooth özelliğinin açık olduğundan emin olun ve kurulum sırasında birbirlerine yakın tutun. Alternatif olarak, isterseniz kurulumu bilgisayarınızla birlikte de yapabilirsiniz.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Az önce tartıldığınız kiloyla (%1$s) önceki kilonuz (%2$s) arasındaki fark %%10'un üzerinde.</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we\&apos;ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">%1$s (%2$s) cihazınız için bir güncelleme mevcut</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Hız/tempo alanları ile egzersiz yoğunluklarını kolayca seçip izleyebilirsiniz. Burada gördüğünüz alanlar Varsayılan alanlardır.\n\nÖzel alanları seçerseniz tüm sınırlar değiştirilebilir.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Sol/sağ dengesi</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Kaydet ve senkronize et</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Arama yapın veya türe göre filtreleyin</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Polar Gizlilik Bildirimi metninde <b>metninde açıklandığı şekilde, Polar\&apos;ın kalp atış hızı ve hassas veri olarak varsayılan hassas kişisel verilerimi toplayabileceğini ve</b> işleyebileceğini kabul ediyorum.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Gü\u00ADnün saat\u00ADi</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Tempo böl\u00ADge\u00ADsin\u00ADde\u00ADki sü\u00ADre</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Tır\u00ADma\u00ADnış</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">İ\u00ADniş</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Di\u00ADkey hız</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Sol/sağ den\u00ADge\u00ADsi</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Sakatlık ve hastalık riski</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Durumumu nasıl verimli olarak koruyabilirim?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Durumumu sürekli verimli olarak tutmaya çalışmam gerekiyor mu?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Derin uykunun çoğu <b>gecenin ilk yarısında</b> meydana gelir. Derin uyku yetişkinlerde uyku süresinin ortalama %15\&apos;ini oluşturur. Bu uyku puanı bileşeni için en yüksek puan yaklaşık %17\&apos;dir. Daha yüksek veya düşük yüzdeler puanınızı düşürür.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">REM\&apos;in açılımı hızlı göz hareketidir. REM uykusunda kaslarınız gevşer ama beyniniz aktiftir. REM uykusu <b>zihninizi yeniler</b>, <b>hafızayı</b> ve <b>öğrenmeyi</b> geliştirir. Rüyalar genelde bu aşamada görülür.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Nightly Recharge™ durumu, uyurken vücudunuzun egzersizin ardından ne kadar dinlenebildiğini ve stresten ne oranda kurtulabildiğini gösterir. Uykunuz ve otonom sinir sisteminiz (ANS) hakkında otomatik olarak ölçülen bilgileri birleştirir. Bu noktada kalbiniz ile ilgili veriler son derece önemlidir.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">ANS\&apos;niz vücudunuzun gerçekleştirebileceği iki farklı hareket dizisini kontrol eder: Bunlardan biri savaş ya da kaç tepkisinin harekete geçmesi, diğeri ise dinlen ve sindir tepkisinin etkinleşmesidir. ANS durumunuz ne kadar yüksek olursa ANS\&apos;nin dinlen ve sindir tepkisi <b>normal seviyenize</b> kıyasla o kadar ağır basar.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Egzersiz için güzel bir gün, fakat vücudunuz \&quot;hayır\&quot; diyorsa fazla abartmayın.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Bugün kendinizi %100 hissetmeseniz bile egzersiz yapabilirsiniz.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Haydi başlayın! Ayrıntılı egzersiz rehberliği için saatinize göz atın!</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Bugün bir şampiyon olabilirsiniz, haydi başlayın!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Sleep Plus Stages™ özelliği, uykunuzun miktarını ve kalitesini ölçer. Her sabah, mevcut uyku bilimine göre iyi bir gece uykusuna işaret eden göstergelerle karşılaştırıldığında ne kadar iyi uyuduğunuzu gösteren sayısal bir uyku puanı (uyku durumu) gösterir.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Akşamları sakinleşmek için zaman ayırın. Bu daha erken uykuya dalmanıza ve daha uzun uyumanıza yardımcı olabilir.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Zaman ayırıp Serene nefes egzersizi yapın. Düzenli yapıldığında Serene uyku kalitenizi ve genel sağlık durumunuzu iyileştirmeye yardımcı olur.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">%1$s Favorileri (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info"><b>Maksimal oksijen alımı (VO2max)</b>, maksimum efor sırasında vücudunuzun oksijen tüketmek için ulaştığı maksimum kapasitedir.\n\nSize en uygun ve alakalı verileri sağlayabilmemiz için VO2max değerinizi güncel tutun. VO2max, kalori miktarı içeren tüm hesaplamaları etkiler.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Fonksiyonel eşik gücü (FTP) değeri, iyi antrenman yapan bir bisikletçinin bir saat boyunca koruyabileceği egzersiz yoğunluğunu ifade eder.\n\nGüç alanlarınızı güncellemek için FTP değerinizi güncelleyin. Böylece doğru yoğunlukta egzersiz yapmanız kolaylaşır.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">En güvenilir sonuçları elde edebilmek için test boyunca güç seviyenizi koruduğunuzdan emin olun. Yavaşlarsanız sonuçlar daha az güvenilir olacaktır.\n\nİlk testte, kişisel bilgileriniz doğrultusunda sizi bir güç hedefiyle yönlendiririz. Bu hedef, test süresince gücünüzü sabit tutmanıza yardımcı olur. Testi tekrar yaptığınızda ise hedef, daha önceki sonuçlarınıza göre belirlenir.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Bisiklet performansınızı takip etmek ve kişisel güç alanlarınızı tanımlamak için testten yararlanın. FTP sonucunuzu kilonuza bölerek performansınızı sizinle aynı cinsiyetten bisikletçilerle karşılaştırabilirsiniz. Ayarlarınızda kilonuzu güncellemeyi unutmayın.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n %3$s içinde %2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s - %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%3$s içinde %2$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow\&apos;un her zaman konumunuza erişmesine izin vermeniz gerekir.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow'un tam konumunuzu kullanmasına izin vermeniz gerekir.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Egzersiz sırasında hız ve mesafe bilgilerini alabilmek için Flow'a şu izinleri vermeniz gerekir:\n- siz uygulamayı kullanırken veya her zaman konumunuza erişme\n- tam konumunuzu kullanma</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Pil %%%1$s</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">İlk ölçülen uyku zamanına dönmek için \"Eskiye döndür\" düğmesine tıklayabilirsiniz</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Kondisyon seviyenizi VO2max değeriniz, yaşınız ve biyolojik cinsiyetinize göre \"Çok düşük\" ile \"Üst seviye\" arasında tanımlıyoruz.</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Araştırma ve geliştirme</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Verilerimin %1$s için kullanılmasını istemiyorum. Verilerin kullanımı, Polar\&apos;ın ürün ve hizmetlerini geliştirip iyileştirmesine yardımcı olur.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">araştırma ve geliştirme</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Uyku ve iç ritim</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Sizin için yapılan tahmin, son 7 gün içerisindeki her geceye ait uyku verilerinize ulaştığımızda geçerlidir</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one"><b>Enerji puanı</b> grafiği, uykunuzun son zamanlarda günlerinizi nasıl etkilediğini gösterir. Puanlar <i>çok iyi</i>, <i>iyi</i>, <i>orta</i>, <i>az</i> olarak değişmektedir. Çok iyi enerji puanı, uykunun gününüzü en iyi şekilde desteklediğini gösterir. Örneğin ihtiyacınız olandan daha az süre uyursanız enerji puanınız az olabilir.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Eğer ortalama <b>uyku süreniz</b> <i>Tercih ettiğiniz uyku süresi</i> ayarından çok uzaksa şunları kontrol etmek iyi olabilir:\n\n- Vücudunuzun ihtiyacı olan süreden daha az mı uyudunuz?\n\n- Ayarı gerçek uyku ihtiyacınıza göre değiştirmeniz gerekiyor mu?</string>
+
+</resources>

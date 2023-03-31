@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- localization_slv.xml
+    PolarFlow
+
+    Created by Henriikka Helistö on 03/02/23 for Oulun Yliopisto project only
+    
+    Copyright © 2023 Polar Electro Oy. All rights reserved. -->
+
+<resources>
+
+    <!-- Notifications main title -->
+    <string name="main_title_notifications">Obvestila</string>
+
+    <!-- How to sync: V650 -->
+    <string name="support_item_how_to_sync_polar_v650">Če želite napravo V650 sinhronizirati z aplikacijo Polar Flow, izberite %1$s v stranskem meniju naprave V650.</string>
+
+    <!-- % of FTP unit -->
+    <string name="unit_percent_of_ftp">% FTP</string>
+
+    <!-- Benefit no description -->
+    <string name="benefit_no_description">Če želite dobiti povratno informacijo, morate vsaj 10 minut trenirati na ravni, ki je več kot 50 % višja od vaše izračunane maksimalne vrednosti srčnega utripa.</string>
+
+    <!-- Basic steady state training benefit (SRP.02038.71.61) -->
+    <string name="benefit_value_basic_steady_state_basic">Osnovni trening in trening z enakomernim tempom</string>
+
+    <!-- Sync notification success -->
+    <string name="sync_notification_device_success">Sinhronizacija podatkov s/z %1$s zaključena.</string>
+
+    <!-- Sync notification failed -->
+    <string name="sync_notification_device_failed">Sinhronizacija podatkov s/z %1$s zaključena. Poskusite znova.</string>
+
+    <!-- Battery status title in devices view -->
+    <string name="devices_battery_status_title">Status baterije po sinhronizaciji: %1$s</string>
+
+    <!-- Registration do initial mobile FTU setup info text -->
+    <string name="registration_do_initial_mobile_ftu_setup_info_text">Prepričajte se, da je funkcija Bluetooth vklopljena tako na vaši napravi kot na vašem telefonu, med namestitvijo pa naj bosta postavljena eden ob drugem. Namestitev lahko opravite tudi preko računalnika.</string>
+
+    <!-- Balance weight measurement -->
+    <string name="balance_weight_differs_more_10">Teža, ki ste jo pravkar izmerili (%1$s) se za več kot 10 %% razlikuje od vaše prejšnje teže (%2$s).</string>
+
+    <!-- into text for licenses -->
+    <string name="license_intro">Licence tretjih oseb\n\nAplikacija Polar Flow uporablja odprtokodno programsko opremo tretjih oseb. Spodaj si lahko ogledate, katero programsko opremo uporabljamo, skupaj z vsemi ustreznimi navedbami pravic intelektualne lastnine in drugimi opombami, dovoljenji ter pripoznanji.\n\nZahvaljujemo se razvijalcem programske opreme.</string>
+
+    <!-- A pop-up is shown to the user, which informs that a new SW update is available. -->
+    <string name="sensor_fwu_startup_description">Na voljo je posodobitev za %1$s (%2$s)</string>
+
+    <!-- Sport profiles info text for speed or pace zones -->
+    <string name="sport_profiles_info_text_speed_pace_zones">Z območji hitrosti/tempa lahko enostavno izberete in spremljate intenzivnost treninga. Območja, ki jih vidite tukaj, so privzeta območja.\n\nČe izberete območja po meri, lahko spremenite vse mejne vrednosti.</string>
+
+    <!-- Sport profiles training display item -->
+    <string name="sport_profiles_training_display_item_power_lr_balance">Razmerje moči leva/desna</string>
+
+    <!-- FTU Save and sync -->
+    <string name="ftu_save_sync">Shrani in sinhroniziraj</string>
+
+    <!-- Training session list view search bar placeholder text -->
+    <string name="training_session_list_view_filter_placeholder_text">Iščite ali razvrstite glede na vrsto</string>
+
+    <!-- EUGDPR consents: settings -->
+    <string name="consents_sensitive_data_checkbox">Strinjam se, da <b>Polar zbira in obdeluje moje občutljive osebne podatke</b>, npr. podatke o srčnem utripu, kot je to opisano v obvestilu o varovanju zasebnosti Polar.</string>
+
+    <!-- Training display item sport profile settings - time of day -->
+    <string name="tdi_time_of_day">Čas v dne\u00ADvu</string>
+
+    <!-- Training display item sport profile settings - time in pace zone -->
+    <string name="tdi_time_in_pace_zone">Čas v ob\u00ADmoč\u00ADju tem\u00ADpa</string>
+
+    <!-- Training display item sport profile settings - ascent -->
+    <string name="tdi_ascent">Vzpon</string>
+
+    <!-- Training display item sport profile settings - descent -->
+    <string name="tdi_descent">Spust</string>
+
+    <!-- Training display item sport profile settings - vertical speed -->
+    <string name="tdi_vertical_speed_moving_avg">Ver\u00ADti\u00ADkal\u00ADna hit\u00ADrost</string>
+
+    <!-- Training display item sport profile settings - left/right balance -->
+    <string name="tdi_current_power_left_right_balance">Raz\u00ADmer\u00ADje mo\u00ADči le\u00ADva/des\u00ADna</string>
+
+    <!-- cardio load -->
+    <string name="cardio_load_buildup_info_injury_and_illness_risk"><b>Tveganje za poškodbe in bolezni</b></string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_six">Kako poskrbim, da bo moj status produktiven?</string>
+
+    <!-- training load contextual info drawers -->
+    <string name="cardio_load_status_question_twelve">Moram svoj status ves čas ohranjati produktiven?</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page2_para2">Velik del globokega spanca se odvija v <b>prvi polovici noči</b>. Povprečna količina globokega spanca za odraslo osebo predstavlja 15 % celotnega časa spanja. Približno 17 % predstavlja največji rezultat za to komponento rezultata spanca. Višji ali nižji odstotki zmanjšujejo vaš rezultat.</string>
+
+    <!-- Sleep regeneration info popup content -->
+    <string name="sleep_regeneration_popup_page3_para1">Kratica REM v angleščini pomeni hitro premikanje oči. Med REM-spancem so vaše mišice sproščene, vaši možgani pa so aktivni. REM-spanec <b>regenerira vaš um</b> ter izboljša sposobnost <b>pomnjenja</b> in <b>učenja</b>. V tej fazi najpogosteje sanjamo.</string>
+
+    <!-- Empty state for Nightly Recharge -->
+    <string name="nightly_recharge_empty_state_description">Status Nightly Recharge™ prikazuje, v kolikšni meri se je vaše telo med spanjem regeneriralo od treninga in stresa. Združuje samodejno izmerjene podatke o vašem spancu in avtonomnem živčnem sistemu (angl. ANS). Ključni dejavnik za pridobivanje teh podatkov je vaše srce.</string>
+
+    <!-- Nightly Recharge status info popup content -->
+    <string name="nightly_recharge_status_popup_ans_charge_para2">Vaš AŽS nadzoruje dva sklopa aktivnosti, ki jih opravlja vaše telo: čas za »boj ali beg« ali čas za »počitek in regeneracijo«. Višji kot je status AŽS, bolj prevladuje tisti del AŽS, ki opravlja aktivnosti »počitka in regeneracije«, v primerjavi z vašo <b>običajno ravnjo</b>.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e73">Danes je dober dan za vadbo, a ne pretiravajte, če vam telo pravi »ne«.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e92">Danes lahko vadite, čeprav se morda počutite, kot da niste 100-odstotno pripravljeni.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e123">Dajte si duška! Podrobna navodila za trening najdete v svoji uri.</string>
+
+    <!-- Tip for exercise -->
+    <string name="exercise_tip_e181">Danes lahko postanete prvak, gremo!</string>
+
+    <!-- Empty state for Sleep Plus Stages -->
+    <string name="sleep_plus_stages_empty_state_description">Funkcija Sleep Plus Stages™ meri količino in kakovost vašega spanca. Vsako jutro vam pokaže številčni rezultat spanca (status spanca), ki odraža, kako dobro ste spali glede na kazalnike dobrega spanca, ki temeljijo na aktualni znanosti spanja.</string>
+
+    <!-- Sleep tip category: General -->
+    <string name="sleep_tip_g643">Prihranite si čas za večerno umirjanje. Tako boste lahko zaspali prej in spali dlje.</string>
+
+    <!-- Ignite ftu info screen -->
+    <string name="ignite_ftu_serene_para">Vzemite si trenutek zase z vodeno dihalno vajo Serene. Če jo izvajate redno, vam lahko dihalna vaja Serene pomaga izboljšati kakovost spanca in splošno dobro počutje.</string>
+
+    <!-- Favorites library: Device favorites -->
+    <string name="fav_lib_favs_on_device_header">Priljubljene v %1$s (%2$s/%3$s)</string>
+
+    <!-- Smart Coaching Link, localized resource because no redirect at polar.com -->
+    <string name="smart_coaching_url">https://www.polar.com/en/smart-coaching?utm_source=flow_featureguidance_android&amp;utm_medium=in-app&amp;utm_campaign=smartcoaching_liftup</string>
+
+    <!-- Running test - update -->
+    <string name="running_test_vo2max_info">Vaš <b>maksimalni sprejem kisika (VO2max)</b> je vaša maksimalna zmogljivost sprejema kisika med maksimalnim naporom.\n\nPosodobite svoj maksimalni sprejem kisika in zagotovite, da boste prejemali najbolj točne in ustrezne podatke. Vrednost VO2max vpliva na vse izračune, ki zajemajo kalorije.</string>
+
+    <!-- Cycling test: FTP information -->
+    <string name="cycling_test_ftp_info">Vrednost funkcionalnega praga zmogljivosti (FTP) odraža intenzivnost, s katero lahko dobro natreniran kolesar kolesari eno uro.\n\nPosodobite svojo vrednost FTP in s tem tudi svoja območja moči, kar vam bo pomagalo pri zagotavljanju pravilne intenzivnosti vaše vadbe. Če ste svoja območja moči prilagodili ročno, jih ne bomo spremenili.</string>
+
+    <!-- Cycling test info pop-up 2 -->
+    <string name="cycling_test_info2">Za kar najbolj zanesljive rezultate vzdržujte enako raven moči od začetka do konca testa. Če boste popustili, bodo rezultati testa manj zanesljivi.\n\nMed prvim testom vas bomo vodili s ciljno močjo na podlagi vaših osnovnih podatkov. To vam bo pomagalo ohranjati enakomerno moč od začetka do konca testa. Ob ponovitvi ali ponovitvah testa bo ciljna moč temeljila na rezultatih predhodnih testov.</string>
+
+    <!-- Cycling test info pop-up 3 -->
+    <string name="cycling_test_info3">Test lahko uporabljate za spremljanje svoje kolesarske zmogljivosti in za določitev individualnih območij moči. Na podlagi FTP-rezultata, deljenega s telesno težo, se lahko primerjate z drugimi kolesarji istega spola. Ne pozabite v nastavitvah posodobiti podatka o telesni teži.</string>
+
+    <!-- Polestar timeline items: (indoor sportsname): (linebreak) in (1 h 2 m 5 s). Do not add s for seconds or other time units. Variable contains the unit. -->
+    <string name="ps_diary_complete_training_time">%1$s:\nin %2$s</string>
+
+    <!-- Polestar timeline items: indoor sportsing: calories -->
+    <string name="ps_diary_complete_training_calories">%1$s:\n%2$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: distance in an amount of time -->
+    <string name="ps_diary_complete_training_distance_time">%1$s:\n%2$s v %3$s</string>
+
+    <!-- Polestar timeline items: outdoor sportsing: (linebreak) distance, calories -->
+    <string name="ps_diary_complete_training_distance_calories">%1$s:\n%2$s %3$s</string>
+
+    <!-- Polestar timeline result: sportsname: (linebreak) (123 kcal) in (1 h 2 m 5 s). Do not add s for seconds or other units. Variable contains the unit. -->
+    <string name="ps_diary_training_time_calories">%1$s:\n%2$s v %3$s</string>
+
+    <!-- Polestar error cases: Location is off -->
+    <string name="record_exercise_location_off">Če želite prejemati podatke o hitrosti in razdalji med treningom, morate aplikaciji Polar Flow omogočiti, da ima vedno dostop do vaše lokacije.</string>
+
+    <!-- Polestar error cases: Precise location is off -->
+    <string name="record_exercise_precise_location_off">Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti dostop do vaše točne lokacije.</string>
+
+    <!-- Polestar error cases: Location and precise location are off -->
+    <string name="record_exercise_location_off_precise_location_off">Za prejemanje podatkov o hitrosti in razdalji med treningom morate aplikaciji Polar Flow omogočiti:\n- dostop do lokacije med uporabo aplikacije ali neprestan\n- dostop do vaše točne lokacije</string>
+
+    <!-- Battery status -->
+    <string name="battery_status_percentage">Baterija %1$s%%</string>
+
+    <!-- sleep edit -->
+    <string name="sleep_edit_rules_popup_rule_four">Izberete lahko »Zamenjaj nazaj«, če želite uporabljati prvotno beleženje časa.</string>
+
+    <!-- walking test -->
+    <string name="walking_test_info_part_three">Vašo raven fizične pripravljenosti določimo na podlagi vašega rezultata za VO2max, starosti in spola, in sicer na lestvici od \"zelo nizko\" do \"vrhunsko\".</string>
+
+    <!-- R&D refusal tick box header -->
+    <string name="settings_refuse_data_use_for_rd_purposes_header">Raziskave in razvoj</string>
+
+    <!-- R&D refusal tick box text -->
+    <string name="settings_refuse_data_use_for_rd_purposes_text">Ne želim, da se moji podatki uporabljajo za %1$s. Polar lahko s pomočjo teh podatkov razvija in izboljšuje izdelke ter storitve.</string>
+
+    <!-- R&D refusal tick box variable link -->
+    <string name="settings_refuse_data_use_for_rd_purposes_link">raziskave in razvoj</string>
+
+    <!-- Alertness -->
+    <string name="sleep_and_internal_rhythm">Spanje in notranji ritem</string>
+
+    <!-- Alertness -->
+    <string name="boost_from_sleep_accuracy_disclaimer">Vaša napoved je veljavna, ko zberemo podatke o spanju za vsako noč v zadnjih 7 dneh</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_one_text_one">Trend <b>ocena energije</b> prikazuje, v kolikšni meri se je vaš spanec v zadnjih dneh okrepil. Rezultat je lahko <i>odličen</i>, <i>dober</i>, <i>zadovoljiv</i> ali <i>nezadosten</i>. Če je ocena odlična, to pomeni, da boste čez dan deležni vseh koristi dobrega spanca. Če je rezultat nezadosten, to na primer pomeni, da velikokrat premalo spite.</string>
+
+    <!-- Alertness-related info screens -->
+    <string name="trends_info_screen_two_text_two">Če vaš povprečni <b>čas spanja</b> ni niti približno blizu vašega <i>želenega časa spanja</i>, ki ste ga nastavili, je morda dobro upoštevati naslednje:\n\n- morda velikokrat spite premalo;\n\n- morda morate prilagoditi nastavitev, da bo ustrezala vašemu dejanskemu času spanja.</string>
+
+</resources>
