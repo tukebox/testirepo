@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "Чтобы получить обратную связь, необходимо тренироваться по крайней мере по 10 минут при 50% значении от вашей рассчитанной максимальной ЧСС.";
+"BENEFIT_NO_DESCRIPTION" = "Russia ruma! Чтобы получить обратную связь, необходимо тренироваться по крайней мере по 10 минут при 50% значении от вашей рассчитанной максимальной ЧСС.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Базовая равномерная тренировка";
