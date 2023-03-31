@@ -32,7 +32,7 @@
 "DEVICES_BATTERY_STATUS_TITLE" = "Batteristatus efter synkronisering: %@ %%";
 
 /* Registration do initial mobile FTU setup info text */
-"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "asdasd Noe! Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.";
+"REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "asdasd Noe! NoNIIII!!! Kontrollér venligst, at Bluetooth er aktiveret både på din telefon og på enheden, og hold dem tæt på hinanden under opsætningen. Du kan også foretage opsætningen med din computer, hvis du foretrækker det.";
 
 /* Balance weight measurement*/
 "BALANCE_WEIGHT_DIFFERS_MORE_10" = "JoopaJoooo... Den vægt, du lige har vejet dig til (%@), varierer med over 10 %% fra din forrige vægt (%@).";
