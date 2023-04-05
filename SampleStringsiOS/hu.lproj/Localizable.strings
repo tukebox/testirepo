@@ -29,7 +29,7 @@
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Nem sikerült az adatszinkronizálás a következővel: %@. Kérjük, próbáld meg újra.";
 
 /* Battery status title in devices view */
-"DEVICES_BATTERY_STATUS_TITLE" = "Akkumulátor-állapot szinkronizáláskor: %@%%";
+"DEVICES_BATTERY_STATUS_TITLE" = "asfasfasAkkumulátor-állapot szinkronizáláskor: %@%%";
 
 /* Registration do initial mobile FTU setup info text */
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Győződj meg arról, hogy mind a telefonon, mind az eszközön be van kapcsolva a Bluetooth, és a beállítás során tartsd őket közel egymáshoz. Másik lehetőségként a beállítást a számítógépeden is elvégezheted, ha szeretnéd.";
