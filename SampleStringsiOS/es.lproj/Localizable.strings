@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sincronización de datos con tu %@ completada.";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "Fallo de sincronización de datos con tu %@. Inténtalo de nuevo.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Fallo de sincronización de datos con tu %@. Inténtalo de nuevo. Jumala";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Estado de la batería al sincronizarse: %@ %%";
