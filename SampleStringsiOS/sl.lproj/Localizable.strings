@@ -20,7 +20,7 @@
 "BENEFIT_NO_DESCRIPTION" = "Če želite dobiti povratno informacijo, morate vsaj 10 minut trenirati na ravni, ki je več kot 50 % višja od vaše izračunane maksimalne vrednosti srčnega utripa.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
-"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Osnovni trening in trening z enakomernim tempom";
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Eipä ollu. Osnovni trening in trening z enakomernim tempom";
 
 /* Sync notification success */
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sinhronizacija podatkov s/z %@ zaključena.";
