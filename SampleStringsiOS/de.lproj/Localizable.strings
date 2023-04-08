@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Basis- und Herz-Kreislauftraining";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Synchronisierung der Daten mit %@ abgeschlossen";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "katokku saksa Synchronisierung der Daten mit %@ abgeschlossen";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Synchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal.";
