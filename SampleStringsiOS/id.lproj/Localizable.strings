@@ -41,7 +41,7 @@
 "LICENSE_INTRO" = "Lisensi pihak ketiga\n\nPolar Flow menggunakan software sumber terbuka dari pihak ketiga yang khusus. Di bawah ini Anda dapat melihat software mana yang kami telah gunakan, dan juga hak cipta yang berlaku serta pemberitahuan, izin dan pengakuan lain.\n\nKami berterima kasih pada para pengembang.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
-"SENSOR_FWU_STARTUP_DESCRIPTION" = "Terdapat pembaruan yang tersedia untuk %@ Anda.\nPembaruan dapat berlangsung beberapa menit.";
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "VOKAKÄ Terdapat pembaruan yang tersedia untuk %@ Anda.\nPembaruan dapat berlangsung beberapa menit.";
 
 /* Sport profiles info text for speed or pace zones */
 "SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Dengan zona kecepatan/laju Anda dapat memilih dan memantau intensitas latihan dengan mudah. Zona yang Anda lihat di sini adalah zona Default.\n\nJika Anda memilih zona Kustom, semua batas dapat diubah.";
