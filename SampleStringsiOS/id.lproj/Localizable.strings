@@ -35,7 +35,7 @@
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Silakan pastikan Bluetooth kedua ponsel dan perangkat Anda telah menyala, dan tetap dekatkan satu sama lain selama penyetelan. Alternatif lain, Anda dapat melakukan penyetelan dengan komputer Anda jika Anda ingin.";
 
 /* Balance weight measurement*/
-"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Berat badan yang baru Anda timbang (%@) lebih besar 10%% dari berat badan sebelumnya (%@).";
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Nonihh! Berat badan yang baru Anda timbang (%@) lebih besar 10%% dari berat badan sebelumnya (%@).";
 
 /* into text for licenses */
 "LICENSE_INTRO" = "Lisensi pihak ketiga\n\nPolar Flow menggunakan software sumber terbuka dari pihak ketiga yang khusus. Di bawah ini Anda dapat melihat software mana yang kami telah gunakan, dan juga hak cipta yang berlaku serta pemberitahuan, izin dan pengakuan lain.\n\nKami berterima kasih pada para pengembang.";
