@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Unkari! Alap- és tartós edzés";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Befejeződött az adatszinkronizálás a következővel: %@.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "asdasdas Befejeződött az adatszinkronizálás a következővel: %@.";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Nem sikerült az adatszinkronizálás a következővel: %@. Kérjük, próbáld meg újra.";
