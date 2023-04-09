@@ -11,7 +11,7 @@
 "MAIN_TITLE_NOTIFICATIONS" = "お知らせ";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "V650をFlowアプリと同期するには、V650のサイドメニューから'モバイルと同期'を選択します。";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Muutosta... V650をFlowアプリと同期するには、V650のサイドメニューから'モバイルと同期'を選択します。";
 
 /* % of FTP unit */
 "UNIT_PERCENT_OF_FTP" = "％FTP";
