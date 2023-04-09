@@ -35,7 +35,7 @@
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Vérifiez que le Bluetooth est activé sur votre téléphone et votre dispositif, et maintenez ceux-ci près l'un de l'autre pendant la configuration. Si vous le souhaitez, vous pouvez aussi procéder à la configuration avec votre ordinateur.";
 
 /* Balance weight measurement*/
-"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Le poids que vous venez de mesurer (%@) diffère de plus de 10 %% de votre poids précédent (%@).";
+"BALANCE_WEIGHT_DIFFERS_MORE_10" = "Ranskaaaa!! Le poids que vous venez de mesurer (%@) diffère de plus de 10 %% de votre poids précédent (%@).";
 
 /* into text for licenses */
 "LICENSE_INTRO" = "Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
