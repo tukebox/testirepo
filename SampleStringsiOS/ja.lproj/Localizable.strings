@@ -53,7 +53,7 @@
 "FTU_SAVE_SYNC" = "保存して同期";
 
 /* Training session list view search bar placeholder text */
-"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "タイプ別に検索、’または絞り込む";
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "asdasdタイプ別に検索、’または絞り込む";
 
 /* EUGDPR consents: settings */
 "CONSENTS_SENSITIVE_DATA_CHECKBOX" = "私はPolarが、Polarプライバシーに関するお知らせに機密データ対象内容として記載している、心拍数やその他の健康データなどの、<b>個人の機密に関わるデータを収集’および使用すること</b>に同意します。";
