@@ -56,7 +56,7 @@
 "TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Nach Typ suchen oder filtern";
 
 /* EUGDPR consents: settings */
-"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Ich stimme zu, dass Polar <b>meine sensiblen personenbezogenen Daten (z. B. Herzfrequenzdaten) wie im Polar Datenschutzhinweis beschrieben erhebt und verarbeitet</b>.";
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "kokkerör. Ich stimme zu, dass Polar <b>meine sensiblen personenbezogenen Daten (z. B. Herzfrequenzdaten) wie im Polar Datenschutzhinweis beschrieben erhebt und verarbeitet</b>.";
 
 /* Training display item sport profile settings - time of day*/
 "TDI_TIME_OF_DAY" = "Ta\U00ADges\U00ADzeit";
