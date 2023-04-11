@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "％FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "フィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。";
+"BENEFIT_NO_DESCRIPTION" = "asdadsaフィードバックを表示するには、最大心拍数50％以上でのトレーニングを、少なくとも10分間以上行う必要があります。";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "基礎と安定状態のトレーニング";
