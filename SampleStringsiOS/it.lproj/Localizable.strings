@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% di FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "È necessario allenarsi almeno 10 minuti oltre il 50% del valore di frequenza cardiaca massima calcolato per ottenere il feedback.";
+"BENEFIT_NO_DESCRIPTION" = "È asdasdnecessario allenarsi almeno 10 minuti oltre il 50% del valore di frequenza cardiaca massima calcolato per ottenere il feedback.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Allenamento di fondo lento & fondo medio";
