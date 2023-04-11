@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@とのデータの同期が完了しました。";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "%@とのデータの同期に失敗しました。もう一度やり直してください。";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdsad %@とのデータの同期に失敗しました。もう一度やり直してください。";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "同期後のバッテリー残量： %@ %%";
