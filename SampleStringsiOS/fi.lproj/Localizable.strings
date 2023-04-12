@@ -56,7 +56,7 @@
 "TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "perkkelle Hae tai suodata tyypin mukaan";
 
 /* EUGDPR consents: settings */
-"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.";
+"CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Nyt pitäs toimia. Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.";
 
 /* Training display item sport profile settings - time of day*/
 "TDI_TIME_OF_DAY" = "Kel\U00ADlon\U00ADai\U00ADka";
