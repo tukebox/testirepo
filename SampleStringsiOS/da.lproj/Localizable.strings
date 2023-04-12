@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Grundlæggende og stabil tilstands-træning Goroooooo";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Datasynkronisering med %@ gennemført. kylll";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "oiskotansa Datasynkronisering med %@ gennemført. kylll";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Joku muutos. Datasynkronisering med %@ mislykkedes. Prøv igen.";
