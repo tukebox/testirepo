@@ -11,7 +11,7 @@
 "MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksen kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
 
 /* % of FTP unit */
 "UNIT_PERCENT_OF_FTP" = "% FTP-arvosta PERKELE";
