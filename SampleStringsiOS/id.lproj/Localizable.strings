@@ -38,7 +38,7 @@
 "BALANCE_WEIGHT_DIFFERS_MORE_10" = "Nonihh! Berat badan yang baru Anda timbang (%@) lebih besar 10%% dari berat badan sebelumnya (%@).";
 
 /* into text for licenses */
-"LICENSE_INTRO" = "Lisensi pihak ketiga\n\nPolar Flow menggunakan software sumber terbuka dari pihak ketiga yang khusus. Di bawah ini Anda dapat melihat software mana yang kami telah gunakan, dan juga hak cipta yang berlaku serta pemberitahuan, izin dan pengakuan lain.\n\nKami berterima kasih pada para pengembang.";
+"LICENSE_INTRO" = "kokkerör Lisensi pihak ketiga\n\nPolar Flow menggunakan software sumber terbuka dari pihak ketiga yang khusus. Di bawah ini Anda dapat melihat software mana yang kami telah gunakan, dan juga hak cipta yang berlaku serta pemberitahuan, izin dan pengakuan lain.\n\nKami berterima kasih pada para pengembang.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "VOKAKÄ Terdapat pembaruan yang tersedia untuk %@ Anda.\nPembaruan dapat berlangsung beberapa menit.";
