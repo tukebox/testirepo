@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% de FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "Ranska tosi on Vous devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.";
+"BENEFIT_NO_DESCRIPTION" = "Ranska tosi on Vous ranske devez vous entraîner au moins 10 minutes au-dessus de 50 % de votre FC max calculée pour bénéficier de commentaires.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "asdasdBENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "PElaan ranskalla, Entraînement de base et régulier";
