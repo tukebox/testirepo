@@ -29,7 +29,7 @@
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdsad %@とのデータの同期に失敗しました。もう一度やり直してください。";
 
 /* Battery status title in devices view */
-"DEVICES_BATTERY_STATUS_TITLE" = "同期後のバッテリー残量： %@ %%";
+"DEVICES_BATTERY_STATUS_TITLE" = "同期後のバッテリー残量： %@ %%asdasd";
 
 /* Registration do initial mobile FTU setup info text */
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "設定中はスマートフォンとデバイスのBluetoothをオンにし、お互いをそばに置いてください。またコンピュータから設定を行うこともできます。";
