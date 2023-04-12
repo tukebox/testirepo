@@ -41,7 +41,7 @@
 "LICENSE_INTRO" = " Onko viro kiro sanatanaKolmanda osapoole litsentsid\n\nPolar Flow kasutab teatud kolmanda osapoole avatud lähtekoodiga tarkvara. Allpool näed, millist tarkvara oleme kasutanud, samuti kehtivaid autoriõiguse ja muid teatisi, lubasid ja kinnitusi.\n\nTäname arendajaid.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
-"SENSOR_FWU_STARTUP_DESCRIPTION" = "Sinu seadme %@ jaoks on saadaval uuendus.\nUuendamine võib võtta paar minutit.";
+"SENSOR_FWU_STARTUP_DESCRIPTION" = "Sinu asdseadme %@ jaoks on saadaval uuendus.\nUuendamine võib võtta paar minutit.";
 
 /* Sport profiles info text for speed or pace zones */
 "SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Kiiruse/tempo tsoonide abil saad hõlpsalt valida ja jälgida treeningu intensiivsust. Tsoonid, mida siin näed, on vaiketsoonid.\n\nKui valid Kohandatud tsoonid, saad kõiki piire muuta.";
