@@ -53,7 +53,7 @@
 "FTU_SAVE_SYNC" = "Tallenna ja synkronoi";
 
 /* Training session list view search bar placeholder text */
-"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "Hae tai suodata tyypin mukaan";
+"TRAINING_SESSION_LIST_VIEW_FILTER_PLACEHOLDER_TEXT" = "perkkelle Hae tai suodata tyypin mukaan";
 
 /* EUGDPR consents: settings */
 "CONSENTS_SENSITIVE_DATA_CHECKBOX" = "Hyväksyn, että <b>Polar voi kerätä ja käsitellä arkaluonteisia henkilötietojani</b>, kuten sykettä, Polarin tietosuojakäytännössä kuvatulla tavalla.";
