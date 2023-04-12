@@ -29,7 +29,7 @@
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Sincronizzazione dei dati con %@ non riuscita. Riprovare";
 
 /* Battery status title in devices view */
-"DEVICES_BATTERY_STATUS_TITLE" = "Stato della batteria in seguito alla sincronizzazione: %@%%";
+"DEVICES_BATTERY_STATUS_TITLE" = "asdasdStato della batteria in seguito alla sincronizzazione: %@%%";
 
 /* Registration do initial mobile FTU setup info text */
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Assicurarsi che il telefono e il dispositivo dispongano di Bluetooth attivato e tenerli vicini durante l\’impostazione. In alternativa, se lo si desidera, è possibile eseguire l\’impostazione con il computer.";
