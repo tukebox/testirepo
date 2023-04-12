@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi ";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Ois Suomi nouse! Laitteen %@ synkronointi epäonnistui. Yritä uudelleen.";
