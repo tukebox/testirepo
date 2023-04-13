@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "katokku saksa Synchronisierung der Daten mit %@ abgeschlossen";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "Synchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdSynchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal.";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Akkustatus wenn synchronisiert: %@ %%";
