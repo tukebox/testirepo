@@ -38,7 +38,7 @@
 "BALANCE_WEIGHT_DIFFERS_MORE_10" = "SAKSA! Das Gewicht, das du gerade gemessen hast (%@), weicht um mehr als 10 %% von deinem vorhergien Gewicht ab (%@).";
 
 /* into text for licenses */
-"LICENSE_INTRO" = "saksaaa Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
+"LICENSE_INTRO" = "saksaaa joo Third-party licenses\n\nPolar Flow uses certain third-party open-source software. Below you can see which software we’ve been using, and also the applicable copyright and other notices, permissions and acknowledgements.\n\nOur thanks goes to the developers.";
 
 /* A pop-up is shown to the user, which informs that a new SW update is available. */
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "Für dein Gerät %@ ist ein Update verfügbar.\nDas Aktualisieren kann ein paar Minuten dauern.";
