@@ -29,7 +29,7 @@
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Syncing data with %@ failed. Please try again.";
 
 /* Battery status title in devices view */
-"DEVICES_BATTERY_STATUS_TITLE" = "Battery status when synced: %@ %%";
+"DEVICES_BATTERY_STATUS_TITLE" = "asdasdBattery status when synced: %@ %%";
 
 /* Registration do initial mobile FTU setup info text */
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Please make sure both your phone and device have Bluetooth turned on, and keep them close to each other during the setup. Alternatively, you can do the setup with your computer if you wish.";
