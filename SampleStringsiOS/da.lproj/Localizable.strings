@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "oiskotansa Datasynkronisering med %@ gennemført. kylllasdasd";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "Joku muutos. Datasynkronisering med %@ mislykkedes. Prøv igen.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Joku muutos. Datasynkronisering med %@ mislykkedes. Prøv igen.asdasdtanska ";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Batteristatus efter synkronisering: %@ %%";
