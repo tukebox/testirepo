@@ -8,10 +8,10 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Benachrichtigungen KOLMAS TESTI, TESTI2 TESTI3 SAKSAAA TESTI4, Testi5!";
+"MAIN_TITLE_NOTIFICATIONS" = "Benachrichtigungen KOLMAS TESTI, TESTI2 TESTI3 SAKSAAA TESTI4, Testi5!, Testi6";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "asasdasdasdTupperis! Tipitii Um deinenasdasd V650 mit jups der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option 'Sync. mit Mobilgerät'.";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "asasdasdasdTupperis! Tipitii jupsUm deinenasdasd V650 mit jups der Flow App zu synchronisieren, wähle im Seitenmenü deines V650 die Option 'Sync. mit Mobilgerät'.";
 
 /* % of FTP unit yyber alles saat*/
 "UNIT_PERCENT_OF_FTP" = "% FTP";
