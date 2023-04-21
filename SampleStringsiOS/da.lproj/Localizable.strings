@@ -8,10 +8,10 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6";
+"MAIN_TITLE_NOTIFICATIONS" = "Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6, Testi7";
 
 /* How to sync: V650 */
-"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Joku muutos. Lisää muutosta. Muutossss. sdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge 'Synkroniser med mobil' fra sidemenuen af din V650.";
+"SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Joku muutos. Lisää muutosta. Muutossss. jupssdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge 'Synkroniser med mobil' fra sidemenuen af din V650.";
 
 /* % of FTP unit */
 "UNIT_PERCENT_OF_FTP" = "% af FTP";
