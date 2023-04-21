@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4!";
+"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
