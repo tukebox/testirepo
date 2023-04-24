@@ -29,7 +29,7 @@
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdSynchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal.";
 
 /* Battery status title in devices view */
-"DEVICES_BATTERY_STATUS_TITLE" = "Akkustatus wenn synchronisiert: %@ %%";
+"DEVICES_BATTERY_STATUS_TITLE" = "testi topille Akkustatus wenn synchronisiert: %@ %%";
 
 /* Registration do initial mobile FTU setup info text */
 "REGISTRATION_DO_INITIAL_MOBILE_FTU_SETUP_INFO_TEXT" = "Stelle sicher, dass Bluetooth auf deinem Smartphone und deinem Gerät aktiviert ist und halte beide Geräte während der Einrichtung nah aneinander. Alternativ kannst du die Einrichtung mit deinem Computer vornehmen.";
