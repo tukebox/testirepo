@@ -44,7 +44,7 @@
 "SENSOR_FWU_STARTUP_DESCRIPTION" = "Päivitys saatavilla laitteelle %@.\nPäivittäminen voi kestää muutaman minuutin.";
 
 /* Sport profiles info text for speed or pace zones */
-"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "katotaa. Nopeus-/vauhtialueiden avulla voit helposti suunnitella ja seurata treenisi intensiteettiä. Tässä näet oletusalueet.\n\nJos valitset Mukautetut alueet, voit muuttaa kaikkia rajoja.";
+"SPORT_PROFILES_INFO_TEXT_SPEED_PACE_ZONES" = "Eipä ollu Nopeus-/vauhtialueiden avulla voit helposti suunnitella ja seurata treenisi intensiteettiä. Tässä näet oletusalueet.\n\nJos valitset Mukautetut alueet, voit muuttaa kaikkia rajoja.";
 
 /* Sport profiles training display item */
 "SPORT_PROFILES_TRAINING_DISPLAY_ITEM_POWER_LR_BALANCE" = "Vasemman ja oikean tasapaino";
