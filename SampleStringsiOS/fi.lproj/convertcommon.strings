@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...";
+"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti... asd";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi asdasd";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Ois Suomi nouse! Laitteen %@ synkronointi epäonnistui. Yritä uudelleen.";
