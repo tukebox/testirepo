@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti... asd";
+"MAIN_TITLE_NOTIFICATIONS" = "Ilmoitukset TESTI2, TESTI3, Testi4! depthTesti, seuraavaTesti...";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "nonih. Jos haluat synkronoida V650-laitteesi Flow-sovelluksensuomi  kanssa, valitse V650:n sivuvalikosta kohta ’Synkronoi mobiililaite’.";
@@ -20,7 +20,7 @@
 "BENEFIT_NO_DESCRIPTION" = "asdasd SUOMI Palautetta harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
-"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus";
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus asd";
 
 /* Sync notification success */
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi";
