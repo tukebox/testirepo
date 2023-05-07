@@ -17,7 +17,7 @@
 "UNIT_PERCENT_OF_FTP" = "% of FTP";
 
 /* Benefit no description */
-"BENEFIT_NO_DESCRIPTION" = "asdasdYou need to train at least 10 minutes above 50% of your calculated maximum heart rate value to get feedback.";
+"BENEFIT_NO_DESCRIPTION" = "Convertti! You need to train at least 10 minutes above 50% of your calculated maximum heart rate value to get feedback.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "asdasdBasic & Steady state training";
