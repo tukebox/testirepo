@@ -23,10 +23,10 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Testimuutos. TESTIAAAasdaasdasdBasisasdasd-asdsad und Herz-Kreislauftrainingsaksa";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "katokku saksa Synchronisierung der Daten mit %@ abgeschlossen asdasd";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "katokku saksa Synchronisierung der Daten mit %@ abgeschlossen";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdSynchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "asdasdSynchronisierung der Daten mit %@ fehlgeschlagen. Bitte versuche es noch einmal. convertti";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "testi topille Akkustatus wenn synchronisiert: %@ %%";
