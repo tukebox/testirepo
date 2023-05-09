@@ -8,7 +8,7 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Notifications Convertti";
+"MAIN_TITLE_NOTIFICATIONS" = "Notifications Convertti ";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "To sync your V650 with the Flow app, select asdasd'Sync with Mobile' from the side menu of your V650 .";
@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "asdasdBasic & Steady state training";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Syncing data with %@ completed.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Syncing data with %@ completed jups.";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Syncing data with %@ failed. Please try again.";
