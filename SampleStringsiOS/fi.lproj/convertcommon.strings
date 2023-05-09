@@ -83,7 +83,7 @@
 "CARDIO_LOAD_STATUS_QUESTION_SIX" = "Kuinka saan pidettyä statukseni kehittävänä?";
 
 /*training load contextual info drawers*/
-"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Yritänkö pitää statukseni kehittävänä koko ajan?";
+"CARDIO_LOAD_STATUS_QUESTION_TWELVE" = "Yritänkö pitää statukseni kehittävänä koko ajan? Eipä ollu common";
 
 /* Sleep regeneration info popup content */
 "SLEEP_REGENERATION_POPUP_PAGE2_PARA2" = "Suurin osa syvästä unesta ajoittuu <b>yön ensimmäiselle puoliskolle</b>. Aikuisilla syvän unen keskimääräinen osuus uniajasta on 15 prosenttia. Noin 17 prosenttia antaa maksimituloksen tästä unituloksen osatekijästä. Suuremmat tai pienemmät prosentit laskevat tulosta.";
