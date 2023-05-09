@@ -20,7 +20,7 @@
 "BENEFIT_NO_DESCRIPTION" = "asdasd SUOMI Palautetta harjoituksista saat vasta, kun olet harjoitellut vähintään kymmenen minuuttia niin, että sykkeesi on vähintään puolet maksimisykkeestäsi.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
-"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus";
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Perus- ja keskitehoinen harjoitus juu";
 
 /* Sync notification success */
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi";
