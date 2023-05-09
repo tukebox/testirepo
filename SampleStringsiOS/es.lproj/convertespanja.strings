@@ -11,7 +11,7 @@
 "MAIN_TITLE_NOTIFICATIONS" = "Noniin? Notificaciones epsanja EPSANJA. TESTI2 TEsti5 depthtesti";
 
 /* How to sync: V650 */
-"Ola, Ola!! SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "asdasdOla, ola! Coca-Cola! Crontabi yms. testi!Para sincronizarasdasd asdasdtu V650 con la app Flow, selecciona 'Sincronizar con móvil' en el menú lateral de tu V650.";
+"Ola, Ola!! SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Ola, ola! Coca-Cola! Crontabi yms. testi!Para sincronizarasdasd asdasdtu V650 con la app Flow, selecciona 'Sincronizar con móvil' en el menú lateral de tu V650.";
 
 /* % of FTP unit */
 "ESPANJA! UNIT_PERCENT_OF_FTP" = "% de FTP testi! Viime hetken testi";
@@ -20,7 +20,7 @@
 "BENEFIT_NO_DESCRIPTION" = " Crontabi Necesitas kokkerör! entrenar al menos 10 minutos por encima del 50% de tu frecuencia cardíaca máxima calculada para obtenerasd feedback.";
 
 /* Basic steady state training benefit (SRP.02038.71.61) */
-"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Entrenamiento básico y por ritmo constante";
+"BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "Entrenamiento básico y por ritmo constante Uuno Epsanjassa";
 
 /* Sync notification success */
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Sincronización de datos con tu %@ completada.";
