@@ -8,13 +8,13 @@
  */
 
 /* Notifications main title */
-"MAIN_TITLE_NOTIFICATIONS" = "Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6, Testi7 depthtestiasdasd Kohtalon hetki";
+"MAIN_TITLE_NOTIFICATIONS" = "Meddelelser TESTI 1, TESTI2, TESTI3, TESTI4, TESTI5, Testi6, Testi7 depthtestiasdasd Kohtalon hetki ";
 
 /* How to sync: V650 */
 "SUPPORT_ITEM_HOW_TO_SYNC_POLAR_V650" = "Testataan vielä reontabi Joku muutos. asdasdcome on Lisää muutosta. Muutossss. jupssdsoiskotansak For at synkronisere din V650 med Flow-appen skal du vælge 'Synkroniser med mobil' fra sidemenuen af din V650.";
 
 /* % of FTP unit */
-"UNIT_PERCENT_OF_FTP" = "% af FTP viime hetken testi asdasd";
+"UNIT_PERCENT_OF_FTP" = "% af FTP viime hetken";
 
 /* Benefit no description */
 "BENEFIT_NO_DESCRIPTION" = "Muutostaaaa... jups. TANSKADu skal træne mindst 10 minutter over 50 % af din beregnede maks. pulsværdi for at få feedback. Tipitii";
