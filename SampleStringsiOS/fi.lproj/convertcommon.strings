@@ -26,7 +26,7 @@
 "SYNC_NOTIFICATION_DEVICE_SUCCESS" = "%@ synkronoitu.Suomi";
 
 /* Sync notification failed */
-"SYNC_NOTIFICATION_DEVICE_FAILED" = "Ois Suomi nouse! Laitteen %@ synkronointi epäonnistui. Yritä uudelleen.";
+"SYNC_NOTIFICATION_DEVICE_FAILED" = "Ois Suomi nouse! Laitteen %@ synkronointi epäonnistui. Yritä uudelleen. commonssia";
 
 /* Battery status title in devices view */
 "DEVICES_BATTERY_STATUS_TITLE" = "Sinun aikas koittaa... Akun tila synkkauksen hetkellä: %@ %%";
