@@ -23,7 +23,7 @@
 "BENEFIT_VALUE_BASIC_STEADY_STATE_BASIC" = "asdasdBasic & Steady state training";
 
 /* Sync notification success */
-"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Syncing data with %@ completed.";
+"SYNC_NOTIFICATION_DEVICE_SUCCESS" = "Syncing data with %@ completedTESTI.";
 
 /* Sync notification failed */
 "SYNC_NOTIFICATION_DEVICE_FAILED" = "Syncing data with %@ failed. Please try again.";
